@@ -1,0 +1,442 @@
+/* You can add custom styles here. */
+
+// @import "plugins/numbered";
+// @import "fontawesome5/scss/fontawesome";
+// @import "fontawesome5/scss/regular";
+// @import "fontawesome5/scss/solid";
+// @import "fontawesome5/scss/brands";
+
+@import "fontawesome6b/scss/fontawesome";
+@import "fontawesome6b/scss/regular";
+@import "fontawesome6b/scss/solid";
+@import "fontawesome6b/scss/brands";
+
+body {
+  letter-spacing: 0px;
+
+  a {
+    &[target="_blank"]:after {
+      content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+      margin: 0 3px 0 5px;
+    }
+    color: #13d;
+    &:visited {
+      color: #13d;
+    }
+    &:hover {
+      color: #00f;
+    }
+  }
+  .markdown {
+    /* Font awesome */
+    .fa, .far, .fas {
+      color: #777;
+    }
+
+    .book-columns .markdown-inner {
+      margin: 1rem 0 0 0;
+    }
+
+    // reduce table font size
+    table {
+      width: 100%;
+    }
+    table tr {
+      font-size: 0.875rem;
+    }
+
+    pre {
+      &:focus {
+        outline-style: none;
+      }
+    }
+
+    code {
+      line-break: anywhere;
+    }
+    details {
+      background: #fafafa;
+      border-radius: 0.5rem;
+      summary {
+        &:hover {
+          background: #fbfbfb;
+          color: #444;
+        }
+        &:focus {
+          user-select: none; /* Standard */
+          outline-color: #f00;
+          outline-style: none;
+        }
+      }
+      .markdown-inner {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+      }
+    }
+    .list-recently {
+      font-family: 'Roboto Mono';
+      letter-spacing: -1px;
+    }
+    p {
+      line-height: 1.8rem;
+      font-size: 1.125rem;
+    }
+
+    ul {
+      padding-left:1rem;
+      li {
+        line-height: 24px;
+        font-size: 16px;
+        margin-bottom: 5px;
+        list-style: square;
+      }
+    }
+    img {
+      border-radius: 4px;
+    }
+    /* home */
+    
+    /* blink cursor */
+    .blink {
+      animation: blinker 1s step-start infinite;
+    }
+    @keyframes blinker {
+      50% {
+        opacity: 0;
+      }
+    }
+
+    a.home-feat-btn {
+      color: #01e;
+      display: block;
+      text-decoration: none;
+      margin-bottom: 40px;
+      &:visited {
+        color: #01e;
+      }
+      &:hover {
+        color: #01e;
+      }
+    }
+
+    .home-feat-item {
+      ul {
+        margin: 0;
+        padding: 0;
+        margin-top: 0.5em;
+        li {
+          font-size: 1.25rem;
+          list-style: none;
+          line-height: 2rem;
+          &:first-child {
+            font-weight: bold;
+            font-size: 1.5rem;
+          }
+        }
+      }
+    }
+
+    .welcome {
+      font-size: 4rem;
+      line-height: 4rem;
+      letter-spacing: -3px;
+      letter-spacing: 0.5px;
+      font-weight: 600;
+      color: #111;
+      position: relative;
+      display: inline;
+      a.anchor {
+        display: none;;
+      }
+    }
+
+    h1 {
+      font-size: 2.6rem;
+      line-height: 3.5rem;
+      font-weight: 700;
+      // fix blur box clipping in safari
+      display: inline;
+      position: relative;
+      // letter-spacing: -0.25px;
+      font-family: 'Roboto';
+      text-transform: uppercase;
+      a.anchor {
+        display: none;;
+      }
+    }
+    h1 {
+      text-transform: none;
+      font-weight: normal;
+      font-size: 3rem;
+      line-height: 3rem;;
+      color: #111;
+      margin-bottom: 0.0rem;
+      display: inline-block;
+    }
+
+    ul.subtitle {
+      font-family: 'Roboto Mono';
+      padding-left: 0px;
+      font-size: 0.875rem;
+      line-height: 1.25rem;
+      margin-bottom: 2rem;
+      li {
+        list-style: none;
+        &:first-child {
+          color: #333;
+           line-height: 1.325rem;
+        }
+        &:nth-child(2) {
+          color: #999;
+          font-size: 0.75rem;
+          line-height: 1.125rem;
+        }
+      }
+    }
+
+    h2 {
+      font-weight: 400;
+      font-size: 2.25rem;
+      line-height: 3.5rem;;
+      color: #333;
+      margin: 2.5rem 0 0 0;
+    }
+    
+    h3 {
+      font-weight: 600;
+      font-size: 1.25rem;
+      color: #333;
+    }
+
+    a.anchor {
+      opacity: 0 !important;
+      
+    }
+    a {
+      color: #13d;
+      &:visited {
+        color: #13d;
+      }
+      &:hover {
+        color: #00f;
+      }
+    }
+    .footnotes {
+      font-size: 0.8125rem;
+      line-height: 1.125rem;
+      hr {
+        margin: 2rem 0 2rem;
+      }
+      li {
+        margin-bottom: 0.1rem;
+        p {
+          line-break: anywhere;
+          line-height: 1.25rem;
+          margin: 0.5rem;
+          font-size: 0.8125rem;
+        }
+      }
+    }
+    .caption {
+      font-family: 'Roboto Mono';
+      font-size: 0.75rem;
+      line-height: 1.125rem;
+      font-family: 'Roboto Mono';
+    }
+    figure {
+      figcaption {
+        p {
+          font-family: 'Roboto Mono';
+          font-size: 0.75rem;
+          color: #111;
+          line-height: 1.125rem;
+          margin-bottom: 0;
+        }
+      }
+    }
+
+    p.mermaid {
+      svg {
+        height: auto; /*fixes height issue on mobile*/
+      }
+    }
+
+  }
+
+  .book-brand {
+    font-size: 16px;  
+    font-weight: 600;
+    a {
+      color: #0A1EFF;
+    }
+    img {
+      width: 10rem;
+      height: 100%;
+    }
+  }
+  aside nav ul a:hover {
+    opacity: 1.0;
+  }
+  
+  .book-menu-content {
+    ul.inline-menu-about {
+      display: inline-block;
+      margin-bottom: 0.5em;
+      li {
+        display: inline-block;
+      }
+    }
+  }
+
+  .book-section-flat > a, .book-section-flat > span, .book-section-flat > label { 
+    text-transform: uppercase;
+    color: #666;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  .book-menu a, .book-menu label {
+    justify-content: left;
+    padding-right: 6px;
+  }
+
+  .book-menu-content {
+    ul {
+      font-size: 14px;
+      margin: 1em 0 2em 0;
+      font-weight: normal;
+      // font-family: 'Roboto Mono';
+      li {
+        margin: 0 0 0.75em 0;
+        a.active {
+          // font-weight: 600;
+          color: #0a1eff;
+          &:visited {
+            color: #0a1eff;
+            // font-weight: 600;
+          }
+          &:hover {
+            color: #0a1eff;
+          }
+          &:focus {
+            outline-style: none;
+            color: #00a; 
+          }
+        }
+        a {
+          display: inline-block;
+          color: #666;
+          &:visited {
+            color: #666;
+          }
+          &:hover {
+            color: #0a1eff;
+          }
+          &:focus {
+            outline-style: none;
+            color: #00a; 
+          }
+        }
+      }
+    }
+  }
+}
+
+.text-danger {
+  color: red;
+}
+
+/* Media rules */
+@media (max-width: 840px) {
+  body {
+    .markdown {
+
+      // reduce table font size
+      table tr {
+        font-size: 0.875rem;
+      }
+
+      p {
+        line-height: 1.8rem;
+        font-size: 1.125rem;
+        padding-right: 1rem;
+
+      }
+      h1 {
+        margin-top: 1rem;
+        font-size: 2rem;
+        line-height: 2.4rem;
+        font-weight: 700;
+        letter-spacing: -1px;
+      }
+      h2 {
+        font-size: 2rem;
+        line-height: 2.5rem;
+      }
+      .welcome {
+        font-size: 4rem;
+        line-height: 4rem;
+        letter-spacing: -2px;
+      }
+      .home-feat-item {
+        p {
+          font-size: 1.25rem;
+          line-height: 1.75rem;
+        }
+      }
+      ul.subtitle {
+        li {
+          &:first-child {
+            font-size: 0.875rem;
+            line-height: 1.25rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  body {
+    .markdown {
+
+      // reduce table font size
+      table tr {
+        font-size: 0.75rem;
+      }
+
+      ul.subtitle {
+      }
+      .welcome {
+        font-size: 3rem;
+        line-height: 3rem;
+        letter-spacing: -2px;
+      }
+      .caption {
+        font-size: 0.75rem;
+        color: #666;
+        line-height: 1.125rem;
+      }
+      figcaption {
+        p {
+          font-size: 0.75rem;
+          color: #666;
+          line-height: 1.125rem;
+        }
+      }
+    .home-feat-item {
+      ul {
+        li {
+          font-size: 1rem;
+          line-height: 1.5rem;
+          &:first-child {
+            font-weight: bold;
+            font-size: 1.25rem;
+          }
+        }
+      }
+    }
+    }
+  }
+
+}

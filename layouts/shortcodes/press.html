@@ -1,0 +1,10 @@
+<h2>{{ .Get "year" }}</h2>
+<ul> 
+  {{ $Y := .Get "year" }}
+  {{ range sort .Site.Data.adam.press "date"  "desc" }}
+  {{ if eq .year $Y }}
+  <li>{{ .publication }}: <a href="{{ .url }}" target="_blank">{{ .title }}</a> ({{ .year }})</li>
+  {{ end }}
+  {{ end }}
+</ul>
+

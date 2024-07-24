@@ -1,0 +1,54 @@
+baseURL = "https://algorithmic-sabotage-research-group.github.io/asrg/"
+title = "ASRG"
+description = "Algorithmic Sabotage Research Group (ASRG)"
+publishDir = "public"
+theme = [ "book" ]
+disablePathToLower = true
+enableGitInfo = false
+
+[markup.goldmark.renderer]
+unsafe = true
+hrefTargetBlank = true
+
+[markup.tableOfContents]
+startLevel = 1
+
+[languages.en]
+languageName = "English"
+contentDir = "content"
+weight = 1
+
+[menu]
+before = [ ]
+after = [ ]
+
+[params]
+BookTheme = "light"
+BookToC = false
+BookLogo = "asrg/logo_final_blue.svg"
+BookSection = "docs"
+BookDateFormat = "January 2, 2006"
+BookSearch = true
+BookComments = false
+BookPortableLinks = true
+BookServiceWorker = true
+BookTranslatedOnly = false
+
+[privacy.disqus]
+disable = true
+
+[privacy.googleAnalytics]
+disable = true
+
+[privacy.instagram]
+disable = true
+
+[privacy.twitter]
+disable = true
+
+[privacy.vimeo]
+disable = true
+
+[privacy.youtube]
+disable = true
+

@@ -1,0 +1,9 @@
+<a class="home-feat-btn" href='{{ .Get "link" }}'>
+  <div class="home-feat-item">
+  <img src='{{ .Get "src" }}' alt='{{ .Get "title" }}' width='100%' loading="lazy" />
+  <ul>
+    <li>{{ .Get "title" | markdownify }}</li>
+    <li><span class="blink">></span> {{ .Get "subtitle" | markdownify }}</li>
+  </ul>
+</div>
+</a>

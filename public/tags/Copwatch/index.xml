@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Copwatch on ASRG</title>
+    <link>http://localhost:1313/asrg/tags/Copwatch/</link>
+    <description>Recent content in Copwatch on ASRG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/asrg/tags/Copwatch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Police Officers Faces (POF)</title>
+      <link>http://localhost:1313/asrg/police_officers-faces-pof/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/police_officers-faces-pof/</guid>
+      <description>Police Officers Faces (POF) A large-scale face recognition dataset containing of approximately 90,000 headshot photos of thousands of police officers. This dataset is intended as a tool to empower community members engaged in copwatch and other counter-surveillance practices. Posted: Jun 17, 2024. Modified: Jun 28, 2024 One hundred sample images from the “POF” face recognition dataset. Faces have been redacted to protect privacy. One hundred sample images from the “POF” face recognition dataset.</description>
+    </item>
+  </channel>
+</rss>

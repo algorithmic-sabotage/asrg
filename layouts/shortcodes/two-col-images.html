@@ -1,0 +1,57 @@
+<div class="book-columns flex flex-wrap">
+
+  <div class="flex-even markdown-inner">
+    <figure>
+      {{- $src := .Get "src1" }}
+      {{- $image := .Page.Resources.GetMatch $src }}
+      {{- $height := $image.Height }}
+      {{- $width := $image.Width }}
+      {{ if .Get "url1" }}
+      <a href='{{ .Get "url1" }}'>
+      {{ end }}
+      <img loading="lazy" src='{{ .Get "src1" }}' alt='{{ .Get "caption1" }}' width='{{ $width }}' height='{{ $height }}' />
+      {{ if .Get "url1" }}
+      </a>
+      {{ end }}
+      <figcaption>
+        <p>
+          {{ if .Get "url1"}}
+          <a href='{{ .Get ".url1" }}'>
+          {{ end }}
+          {{ .Get "caption1" | markdownify }}
+          {{ if .Get "url1"}}
+          </a>
+          {{ end }}
+        </p>
+      </figcaption>
+    </figure>
+  </div>
+
+  <div class="flex-even markdown-inner">
+    <figure>
+      {{- $src := .Get "src2" }}
+      {{- $image := .Page.Resources.GetMatch $src }}
+      {{- $height := $image.Height }}
+      {{- $width := $image.Width }}
+      {{ if .Get "url2" }}
+      <a href='{{ .Get "url2" }}'>
+      {{ end }}
+      <img loading="lazy" src='{{ .Get "src2" }}' alt='{{ .Get "caption2" }}' width='{{ $width }}' height='{{ $height }}' />
+      {{ if .Get "url2" }}
+      </a>
+      {{ end }}
+      <figcaption>
+        <p>
+          {{ if .Get "url2"}}
+          <a href='{{ .Get ".url2" }}'>
+          {{ end }}
+          {{ .Get "caption2" | markdownify }}
+          {{ if .Get "url2"}}
+          </a>
+          {{ end }}
+        </p>
+      </figcaption>
+    </figure>
+  </div>
+
+</div>

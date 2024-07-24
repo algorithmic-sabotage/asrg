@@ -1,0 +1,49 @@
+<div class="book-columns flex flex-wrap">
+
+  <div class="flex-even markdown-inner">
+    <figure>
+      {{ if .Get "url1" }}
+      <a href='{{ .Get "url1" }}'>
+      {{ end }}
+      <img src='{{ .Get "src1" }}' alt='{{ .Get "caption1" }}' />
+      {{ if .Get "url1" }}
+      </a>
+      {{ end }}
+      <figcaption>
+        <p>
+          {{ if .Get "url1"}}
+          <a href='{{ .Get ".url1" }}'>
+          {{ end }}
+          {{ .Get "caption1" | markdownify }}
+          {{ if .Get "url1"}}
+          </a>
+          {{ end }}
+        </p>
+      </figcaption>
+    </figure>
+  </div>
+
+  <div class="flex-even markdown-inner">
+    <figure>
+      {{ if .Get "url2" }}
+      <a href='{{ .Get "url2" }}'>
+      {{ end }}
+      <img src='{{ .Get "src2" }}' alt='{{ .Get "caption2" }}'  />
+      {{ if .Get "url2" }}
+      </a>
+      {{ end }}
+      <figcaption>
+        <p>
+          {{ if .Get "url2"}}
+          <a href='{{ .Get ".url2" }}'>
+          {{ end }}
+          {{ .Get "caption2" | markdownify }}
+          {{ if .Get "url2"}}
+          </a>
+          {{ end }}
+        </p>
+      </figcaption>
+    </figure>
+  </div>
+
+</div>

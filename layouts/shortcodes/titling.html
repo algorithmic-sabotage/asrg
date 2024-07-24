@@ -1,0 +1,13 @@
+{{ if .Page.Params.title_h1 }}
+<h1>{{ .Page.Params.title_h1 }}</h1>
+{{ else }}
+<h1>{{ .Page.Title }}</h1>
+{{ end }}
+<ul class="subtitle">
+	<li>{{ .Page.Description }}</li>
+	<li>{{ if .Page.Params.modified }}
+	Posted: {{ .Page.Params.date | time.Format ":date_medium" }}. Modified: {{ .Page.Params.modified | time.Format ":date_medium" }}
+	{{ else }}
+	Posted: {{ .Page.Params.date | time.Format ":date_medium" }}
+	</li>{{ end }}
+</ul>

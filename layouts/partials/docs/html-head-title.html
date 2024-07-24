@@ -1,0 +1,5 @@
+{{ if eq .Title "ASRG" }}
+	{{ .Site.Title }}
+{{ else }}
+	{{ partial "docs/title" . }} - {{ .Site.Title -}}
+{{ end }}
