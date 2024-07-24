@@ -5,7 +5,7 @@ description: A preliminary version of 10 statements, numbered 0 to 9, on the pri
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-07-23
+modified: 2024-07-24
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics']
 images:
 - images/output-787.png
@@ -139,6 +139,37 @@ _Atenas, Maio 2024_
 <span style="color:grey">Translated into Brazilian Portuguese by lixt.</span>
 
  {{< /tab >}}
+ 
+ {{< tab "FR" >}} 
+
+### Manifeste du « Sabotage algorithmique »
+
+_Athènes, Mai 2024_
+
+0. Le « Sabotage algorithmique » est un concept militant de technodésobéissance  encore absent de la critique de la technologie.
+
+1. Plutôt qu'une aversion atavique pour la technologie, le « Sabotage algorithmique » prone une forme de contre-pouvoir qui émerge de la force des usager·ère·x.
+
+2. Quand l'idéologie capitaliste prospère sur la misère, le « Sabotage algorithmique » effectue un travail direct de sub•version pour démanteler les formes contemporaines de domination algorithmique et, face à l'irréflexion généralisée et à l'automaticité, réaménager des espaces non coercitifs.
+
+3. Le « Sabotage algorithmique » est un engagement de solidarité orienté-action qui prévaut sur tout système de classification — qu'il soit social, juridique ou algorithmique.
+
+4. Le « Sabotage algorithmique » s'inscrit dans un mouvement plus large pour l'autonomie sociale qui s'oppose aux prédations et à l'hégémonie de la technologie par l'action sauvage, en s'alignant en conscience sur les idéaux de justice sociale et d'égalité.
+
+5. Le « Sabotage algorithmique » réécrit radicalement nos configurations technopolitiques, loin des injustices structurelles, des perspectives suprématistes et du pouvoir autoritaire nécropolitique qui se superposent à l'empire algorithmique. Il souligne sa matérialité et ses conséquences en termes d'émissions de carbone et de centralisation du contrôle.
+
+6. Le « Sabotage algorithmique » refuse l'humiliation algorithmique qui maximise le pouvoir et l'accumulation du capital, et se concentre sur les activités d'entraide et de solidarité.
+
+7. La technopolitique est politique avant d'être technologique. Ainsi, les perspectives radicales féministes, antifascistes et décoloniales sont-elles les enjeux majeurs du « Sabotage algorithmique », qui oppose les questions d'interdépendance et de soin collectif aux optimisations réductrices de l'« empire algorithmique ».
+
+8. Le « Sabotage algorithmique » lutte contre la violence algorithmique et le technosolutionnisme fasciste, en embrassant les résistances artistiques et/ou activistes qui expriment une éthique différente, une “retro-ingénierie” collective.
+
+9. Le « Sabotage algorithmique » revendique la nécessité émancipatrice d'un contrôle commun des technologies toxiques et d'une lutte contre la ségrégation abstraite des algorithmes, “au-dessus” comme “au-dessous”.
+
+<span style="color:grey">Translated into French collectively at the MiG space, Paris, by F. A. K. E. R. Z. T. M. & R., on the 23th of July, 2024.</span>
+
+ {{< /tab >}}
+
 {{< /tabs >}}
 
 ## Supplemental Information
