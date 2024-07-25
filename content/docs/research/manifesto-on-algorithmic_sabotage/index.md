@@ -195,7 +195,7 @@ _2024年5月，雅典_
 
 9. “算法破坏”为有害技术进行集体限制的必要性进行一种解放性的辩护，是对抗算法“之上”与“之下”这种抽象分隔的斗争。
 
-<span style="color:grey">Translated into Simplified Chinese by an anonymous contributor.</span>
+<span style="color:grey">Translated into Simplified Chinese by Syl.</span>
 
  {{< /tab >}}
 {{< /tabs >}}
