@@ -5,7 +5,7 @@ description: A preliminary version of 10 statements, numbered 0 to 9, on the pri
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-07-24
+modified: 2024-07-25
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics']
 images:
 - images/output-787.png
@@ -78,7 +78,7 @@ _Αθήνα, Μάιος 2024_
 
 9. Το “Αλγοριθμικό Σαμποτάζ” είναι μια χειραφετητική υπεράσπιση της ανάγκης για κοινοτικό περιορισμό της επιβλαβούς τεχνολογίας, ένας αγώνας ενάντια στον αφηρημένο διαχωρισμό “πάνω” και “κάτω” από τον αλγόριθμο.
 
-<span style="color:grey">Translated into Greek by anonymous contributor.</span>
+<span style="color:grey">Translated into Greek by an anonymous contributor.</span>
 
  {{< /tab >}}
 {{< tab "DE" >}} 
@@ -169,7 +169,35 @@ _Athènes, Mai 2024_
 <span style="color:grey">Translated into French collectively at the MiG space, Paris, by F. A. K. E. R. Z. T. M. & R., on the 23th of July, 2024.</span>
 
  {{< /tab >}}
+ {{< tab "CN" >}} 
 
+### “算法破坏”宣言
+
+_2024年5月，雅典_
+
+0. “算法破坏”是一种技术不服从的象征，代表着技术批判中欠缺的战斗性。
+
+1. “算法破坏”并非原始的对技术的厌恶，而可以被解读为一种从运用其力量的社群中生发的反抗力。
+
+2. “算法破坏”通过在当前进行颠覆性的劳动，刺穿靠苦难发展的资本主义意识形态框架，拆解当代各种形式的算法统治，从普遍的无思考和自动化行为中夺回伦理行动的空间。
+
+3. “算法破坏”是一个以行动为导向的承诺，致力于打造能够超越任何社会分层、法律分级或算法分类的团结。
+
+4. “算法破坏”是更广泛的、对社会自主权进行结构性更新的运动的一部分，通过野猫直接行动反对技术霸权的侵害，有意识地与社会正义、平等主义的理想站在一起。
+
+5. “算法破坏”从根本上重塑我们的技术政治安排，远离“算法帝国”中的结构性不公、至上主义观点、死亡政治及独裁政治，强调其在碳排放和控制集中化方面的物质性和后果。
+
+6. “算法破坏”拒绝为了权力和利润最大化而进行的算法羞辱，专注于互助和团结的活动。
+
+7. 技术政治的第一步不是技术性的，而是政治性的。激进女权、反法西斯和去殖民化视角是“算法破坏”的政治挑战，用互依性和集体关怀来抵抗“算法帝国”的简化与优化。
+
+8. “算法破坏”抵抗算法的暴力和法西斯式的技术解决主义，专注于艺术-活动家的各种抵抗，以表达不同思维方式，一种集体“反智能”。
+
+9. “算法破坏”为有害技术进行集体限制的必要性进行一种解放性的辩护，是对抗算法“之上”与“之下”这种抽象分隔的斗争。
+
+<span style="color:grey">Translated into Simplified Chinese by an anonymous contributor.</span>
+
+ {{< /tab >}}
 {{< /tabs >}}
 
 ## Supplemental Information
