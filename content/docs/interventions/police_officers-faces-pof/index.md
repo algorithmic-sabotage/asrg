@@ -79,7 +79,7 @@ Any entity using this dataset agrees to the following terms and conditions.
 - **No Modification**: You may not allowed to modify the dataset in any way.
 {{< /hint >}}
 
-## Supplemental Data
+## Supplemental Information
 
 ### Annotated Sample Images
 
@@ -123,6 +123,14 @@ Most all of this project was developed using open-source software: the core soft
 #### Image
 
 Front Page Image: A mosaic of approximately 63,000 facial images of a thousand police officers from the Police Officers Faces (POF) facial recognition dataset. Images are downsized to protect privacy. <span style="color:grey">Mosaic: © Algorithmic Sabotage Research Group.</span>
+
+### Citations
+
+- [ICEspy](https://icespy.org/) by [Kyle McDonald](https://kylemcdonald.net/), 2018: _“Concerned you may know an ICE employee? Use this helpful app to check. Just point your camera and press the photo button. We'll check against hundreds of ICE employee photos from LinkedIn and show you the closest match. A direct subversion of face recognition technology to watch those who wield power without responsibility.”_
+
+- [Capture](https://paolocirio.net/work/capture/) by [Paolo Cirio](https://paolocirio.net/), 2020: _“The series of photos Capture is composed of French police officers’ faces. Paolo Cirio collected 1000 public images of police in photos taken during protests in France and processed them with Facial Recognition software. Cirio then created an online platform with a database of the resulting 4000 faces of police officers to crowdsource their identification by name.”_
+
+- [NYPD COPPELGÄNGER](https://coppelganger.lav.io/) by [Sam Lavigne](https://lav.io/), 2024: _“Facial recognition on an archive of ~10,000 photos of New York cops. Images are publicly available and sourced from [50-a.org](https://www.50-a.org/) and then processed using [Deepface](https://github.com/serengil/deepface) with the yunet model for facial detection and Facenet512 for recognition.”_
 
 [^1]: Politically Mathematics collective, “Politically Mathematics Manifesto,” 2019. https://politicallymath.in/manifesto/.
 [^2]: Lentin, A. 2018. The Future Is Here – Revealing Algorithmic Racism. Alana Lentin.Net (blog). 22 October 2018. http://www.alanalentin.net/2018/10/22/the-future-is-here-revealing-algorithmic-racism.

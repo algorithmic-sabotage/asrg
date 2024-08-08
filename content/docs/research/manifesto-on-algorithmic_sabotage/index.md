@@ -5,7 +5,7 @@ description: A preliminary version of 10 statements, numbered 0 to 9, on the pri
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-07-25
+modified: 2024-08-08
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics']
 images:
 - images/output-787.png
@@ -196,6 +196,36 @@ _2024年5月，雅典_
 9. “算法破坏”为有害技术进行集体限制的必要性进行一种解放性的辩护，是对抗算法“之上”与“之下”这种抽象分隔的斗争。
 
 <span style="color:grey">Translated into Simplified Chinese by Syl.</span>
+
+ {{< /tab >}}
+ 
+  {{< tab "ES" >}} 
+
+### Manifiesto sobre el “Sabotaje Algorítmico”
+
+_Atenas, mayo de 2024_
+
+0. “El ‘Sabotaje Algorítmico’ es una figura de techno-desobediencia para la militancia que está ausente en la crítica a la tecnología.
+
+1. En vez de una aversión atávica a la tecnología, el “Sabotaje Algorítmico” puede ser leido como una forma de contrapoder que emerge de la fuerza de la comunidad que lo ejerce.
+
+2. El “Sabotaje Algorítmico” atraviesa el marco ideológico capitalista que florece en la miseria, realizando un trabajo de subversión en el presente, desmantelando las formas contemporáneas de dominación algorítmica y reclamando espacios para la acción ética ante la desidia y la automaticidad generalizadas.
+
+3. "Sabotaje algorítmico" es un compromiso de solidaridad orientado a la acción que precede a cualquier sistema de clasificación social, jurídico o algorítmico.
+
+4. El “Sabotaje Algorítmico” forma parte de la renovación estructural de un movimiento más amplio por la autonomía social que se opone a las depredaciones de la tecnología hegemónica mediante la acción directa salvaje, conscientemente alineada con ideales de justicia social e igualitarismo.
+
+5. El “Sabotaje Algorítmico” transforma radicalmente nuestras estructuras tecnopolíticas, distanciándolas de las injusticias estructurales, las perspectivas supremacistas y el poder autoritario necropolítico que se encuentran estratificados en el “imperio algorítmico”, destacando su materialidad y sus consecuencias tanto en términos de emisiones de carbono como de centralización del control.
+
+6. El “Sabotaje Algorítmico” rechaza la humillación algorítmica que favorece el poder y la maximización de beneficios, centrándose en actividades de ayuda mutua y solidaridad.
+
+7. El primer paso de la tecno-política no es tecnológico, sino político. Las perspectivas feministas radicales, antifascistas y decoloniales representan un desafío político para el “Sabotaje Algorítmico”, al situar los temas de interdependencia y cuidado colectivo frente a las optimizaciones reduccionistas del “imperio algorítmico”.
+
+8. El “Sabotaje Algorítmico” combate la violencia algorítmica y el tecnosolucionismo fascista, enfocándose en las resistencias artísticas y activistas que pueden expresar una mentalidad diferente, una “contrainteligencia” colectiva.
+
+9. El “Sabotaje Algorítmico” se erige como una defensa emancipadora de la necesidad de una restricción comunitaria de la tecnología perjudicial, luchando contra la segregación abstracta “por encima” y “por debajo” del algoritmo.
+
+<span style="color:grey">Spanish translation by Hugo F. Idarraga.</span>
 
  {{< /tab >}}
 {{< /tabs >}}
