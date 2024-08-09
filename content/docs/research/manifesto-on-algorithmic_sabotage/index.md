@@ -5,7 +5,7 @@ description: A preliminary version of 10 statements, numbered 0 to 9, on the pri
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-08-08
+modified: 2024-08-09
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics']
 images:
 - images/output-787.png
@@ -226,6 +226,36 @@ _Atenas, mayo de 2024_
 9. El “Sabotaje Algorítmico” se erige como una defensa emancipadora de la necesidad de una restricción comunitaria de la tecnología perjudicial, luchando contra la segregación abstracta “por encima” y “por debajo” del algoritmo.
 
 <span style="color:grey">Spanish translation by Hugo F. Idarraga.</span>
+
+ {{< /tab >}}
+ 
+  {{< tab "DK" >}} 
+
+### Manifest om “Algoritmisk Sabotage”
+
+_Athen, maj 2024_
+
+0. “Algoritmisk Sabotage” er en form for teknologisk ulydighed rettet mod den manglende militans i teknologikritik.
+
+1. I stedet for en atavistisk aversion mod teknologi kan “Algoritmisk Sabotage” læses som en form for modmagt, der opstår fra styrken i det fællesskab, der udøver den.
+
+2. “Algoritmisk Sabotage” skærer igennem den kapitalistiske ideologiske ramme, der trives med elendighed, ved at performe et subversivt arbejde i nutiden, nedbryde samtidens former for algoritmisk dominans og generobre rum til etisk handling fra generaliseret tankeløshed og automatisk adfærd.
+
+3. “Algoritmisk Sabotage” er en handlingsorienteret forpligtelse til solidaritet, der går forud for ethvert system af social, juridisk eller algoritmisk klassifikation.
+
+4. “Algoritmisk Sabotage” er en del af en strukturel fornyelse af en bredere bevægelse for social autonomi, der modsætter sig hegemonisk teknologis rovdrift gennem direkte aktion, bevidst tilpasset idealerne om social retfærdighed og egalitarisme.
+
+5. “Algoritmisk Sabotage” omarbejder radikalt vores teknopolitiske fremgangsmåde væk fra de strukturelle uretfærdigheder, overherredømme og den autoritære nekropolitiske magt, der er indlejret i “algoritmeimperiet”, og fremhæver dets materialitet og konsekvenser i form af både CO2-udledning og centralisering af kontrol.
+
+6. “Algoritmisk Sabotage” nægter algoritmisk ydmygelse for magt og profitmaksimering og fokuserer i stedet på aktiviteter der vægter gensidighed og solidaritet.
+
+7. Det første trin i teknopolitik er ikke teknologisk, men politisk. Radikale feministiske, antifascistiske og dekoloniale perspektiver er en politisk udfordring for “Algoritmisk Sabotage”, idet de sætter spørgsmål om gensidig afhængighed og kollektiv omsorg op mod reduktive optimeringer af “algoritmeimperiet”.
+
+8. “Algoritmisk Sabotage” kæmper mod algoritmisk vold og fascistisk teknosolutionisme og fokuserer på kunstnerisk-aktivistisk modstand, der kan udtrykke en anden mentalitet, en kollektiv “kontra-intelligens”.
+
+9. “Algoritmisk Sabotage” er et emanciperende forsvar for behovet for fælles begrænsning af skadelig teknologi, en kamp mod den abstrakte adskillelse af “over” og “under” algoritmen.
+
+<span style="color:grey">Translated into Danish by [Anders Aarvik](https://anders.aarvik.dk/).</span>
 
  {{< /tab >}}
 {{< /tabs >}}
