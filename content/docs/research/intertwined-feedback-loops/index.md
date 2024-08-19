@@ -4,9 +4,9 @@ title_h1: "Intertwined Feedback Loops"
 description: A series of intertwined feedback loops that unfold from several interrelated briefs for intellectual and practical exploration.
 url: /intertwined-feedback-loops
 date: 2024-06-13
-modified: 2024-07-11
+modified: 2024-08-19
 author: ASRG
-Tags: ['Feedback Loops', 'Artivism', 'Abolishing AI', 'AI Dissidents', 'Algorithmic Empire', 'Technopolitics of Refusal', 'Algorithmic Sabotage', 'AI’s Algorithmic Violence']
+Tags: ['Feedback Loops', 'Artivism', 'Abolishing AI', 'AI Dissidents', 'Algorithmic Empire', 'Technopolitics of Refusal', 'Algorithmic Sabotage', 'AI’s Algorithmic Violence', 'Technopolitics of Fronts']
 aliases:
 - /about/
 images:
@@ -98,6 +98,16 @@ _A subversive loop on the principles, strategies and aesthetics of “Algorithmi
 _A preliminary version of an intertwined feedback loop that illustrates the multiplicity of different forms of algorithmic violence that AI propagates in epistemic, administrative and structural forms._
 
 <div class="caption"><img src="images/output-031.png"><strong>AI’S ALGORITHMIC VIOLENCE</strong>: A preliminary version of an intertwined feedback loop that illustrates the multiplicity of different forms of algorithmic violence that AI propagates in epistemic, administrative and structural forms. <a href="https://cryptpad.fr/file/#/2/file/HlQw9BYZPRBP9FyCzipqKIWy/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
+
+<tr><td>&nbsp;</td></tr>
+
+***
+
+### TECHNOPOLITICS OF FRONTS
+
+_A preliminary version of an intertwined feedback loop outlining the concept of “Technopolitics of Fronts”, a broad intervention based on an action-oriented commitment to mutual constitutive solidarity and the application of feminist and decolonial methodologies to reclaim collective subjectivity and political agency in the context of necropolitical technologies that reinforce structural injustice, algorithmic states of exception, eugenic solutionism and bureaucratic cruelty._
+
+<div class="caption"><img src="images/output-639.png"><strong>TECHNOPOLITICS OF FRONTS</strong>: A preliminary version of an intertwined feedback loop outlining the concept of <em>“Technopolitics of Fronts”</em>, a broad intervention based on an action-oriented commitment to mutual constitutive solidarity and the application of feminist and decolonial methodologies to reclaim collective subjectivity and political agency in the context of necropolitical technologies that reinforce structural injustice, algorithmic states of exception, eugenic solutionism and bureaucratic cruelty. <a href="https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
 ## Supplemental Information
 
