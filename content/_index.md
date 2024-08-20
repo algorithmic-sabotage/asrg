@@ -35,7 +35,7 @@ images:
 {{< home-item 
     src="police_officers-faces-pof/images/output-137.png" 
     title="Police Officers Faces (POF)"
-    subtitle="A large-scale face recognition dataset containing of approximately 90,000 headshot photos of thousands of police officers. This dataset is intended as a tool to empower community members engaged in copwatch and other counter-surveillance practices."
+    subtitle="This is a large-scale face recognition dataset comprising approximately 90,000 headshot photographs of thousands of police officers. It is intended as a tool to empower community members engaged in copwatch and other counter-surveillance practices."
     link="police_officers-faces-pof/"
 >}}
 

@@ -1,12 +1,12 @@
 ---
 title: Police Officers Faces (POF)
 title_h1: Police Officers Faces (POF)
-description: A large-scale face recognition dataset containing of approximately 90,000 headshot photos of thousands of police officers. This dataset is intended as a tool to empower community members engaged in copwatch and other counter-surveillance practices.
+description: This is a large-scale face recognition dataset comprising approximately 90,000 headshot photographs of thousands of police officers. It is intended as a tool to empower community members engaged in copwatch and other counter-surveillance practices.
 bookToc: false
 url: /police_officers-faces-pof
 date: 2024-06-17
-modified: 2024-06-28
-Tags: ['Counter Surveillance', 'Scrapism', 'Copwatch', 'Social Engineering', 'OSINT', 'Artivism', 'Data', 'Face recognition', 'Counter-Intelligence', 'Social Justice', 'Police', 'Cops', 'Police Officers', 'Dataset', 'AI', 'Headshot', 'Prefigurative Techno-Politics']
+modified: 2024-08-20
+Tags: ['Counter Surveillance', 'Scrapism', 'Copwatch', 'Social Engineering', 'OSINT', 'Artivism', 'Data', 'Face recognition', 'Counter-Intelligence', 'Social Justice', 'Police', 'Cops', 'Police Officers', 'Dataset', 'AI', 'Headshot', 'Prefigurative Techno-Politics', 'ASRG', 'Algorithmic Sabotage']
 images:
 - images/output-787.png
 ---
@@ -15,29 +15,29 @@ images:
 
 {{< columns >}} 
 
-<div class="caption"><img src="images/output-274.gif">One hundred sample images from the “POF” face recognition dataset. <span style="color:grey">Faces have been redacted to protect privacy.</span></div>
+<div class="caption"><img src="images/output-274.gif">The above <code>.GIF</code> file contains one hundred sample images from the <em>“Police Officers Faces (POF)”</em> face recognition dataset. <span style="color:grey">To protect the privacy of the individuals depicted, the faces have been redacted.</span></div>
 
 <--->
 
-<div class="caption"><img src="images/output-367.gif">One hundred sample images from the “POF” face recognition dataset. <span style="color:grey">Faces have been redacted to protect privacy.</span></div>
+<div class="caption"><img src="images/output-367.gif">The above <code>.GIF</code> file contains one hundred sample images from the <em>“Police Officers Faces (POF)”</em> face recognition dataset. <span style="color:grey">To protect the privacy of the individuals depicted, the faces have been redacted.</span></div>
 
 <--->
 
-<div class="caption"><img src="images/output-536.gif">One hundred sample images from the “POF” face recognition dataset. <span style="color:grey">Faces have been redacted to protect privacy.</span></div>
+<div class="caption"><img src="images/output-536.gif">The above <code>.GIF</code> file contains one hundred sample images from the <em>“Police Officers Faces (POF)”</em> face recognition dataset. <span style="color:grey">To protect the privacy of the individuals depicted, the faces have been redacted.</span></div>
 
 {{< /columns >}}
 
 {{< columns >}} 
 
-<div class="caption"><img src="images/output-719.gif">One hundred sample images from the “POF” face recognition dataset. <span style="color:grey">Faces have been redacted to protect privacy.</span></div>
+<div class="caption"><img src="images/output-719.gif">The above <code>.GIF</code> file contains one hundred sample images from the <em>“Police Officers Faces (POF)”</em> face recognition dataset. <span style="color:grey">To protect the privacy of the individuals depicted, the faces have been redacted.</span></div>
 
 <--->
 
-<div class="caption"><img src="images/output-827.gif">One hundred sample images from the “POF” face recognition dataset. <span style="color:grey">Faces have been redacted to protect privacy.</span></div>
+<div class="caption"><img src="images/output-827.gif">The above <code>.GIF</code> file contains one hundred sample images from the <em>“Police Officers Faces (POF)”</em> face recognition dataset. <span style="color:grey">To protect the privacy of the individuals depicted, the faces have been redacted.</span></div>
 
 <--->
 
-<div class="caption"><img src="images/output-897.gif">One hundred sample images from the “POF” face recognition dataset. <span style="color:grey">Faces have been redacted to protect privacy.</span></div>
+<div class="caption"><img src="images/output-897.gif">The above <code>.GIF</code> file contains one hundred sample images from the <em>“Police Officers Faces (POF)”</em> face recognition dataset. <span style="color:grey">To protect the privacy of the individuals depicted, the faces have been redacted.</span></div>
 
 {{< /columns >}}
 
@@ -83,36 +83,36 @@ Any entity using this dataset agrees to the following terms and conditions.
 
 ### Annotated Sample Images
 
-Below are some random sample images annotated with their corresponding seventy-three attribute labels. [Matplotlib](https://matplotlib.org/) is used to plot the frequency distribution of the labels. Faces have been redacted for privacy reasons.
+The following section presents a series of randomly selected sample images, each of which has been annotated with the corresponding seventy-three attribute labels. The [Matplotlib](https://matplotlib.org/) software has been employed for the purpose of plotting the frequency distribution of the labels. The faces have been redacted for reasons of privacy.
 
 <div class="caption"><img src="plots/plt-g8ltccwb.png"
-       alt=" ">Frequency distribution of the labels on the image with the <code>"image_id": "g8ltccwb"</code> | <a href="data/g8ltccwb.csv">Download data as CSV</a></div>
+       alt=" ">The frequency distribution of the labels on the image with the <code>"image_id": "g8ltccwb"</code> is presented in the plot above. <a href="data/g8ltccwb.csv">Download data as CSV</a></div>
 
 <tr><td>&nbsp;</td></tr>
 
 <div class="caption"><img src="plots/plt-8g5e6p7g.png"
-       alt=" ">Frequency distribution of the labels on the image with the <code>"image_id": "8g5e6p7g"</code> | <a href="data/8g5e6p7g.csv">Download data as CSV</a></div>
+       alt=" ">The frequency distribution of the labels on the image with the <code>"image_id": "8g5e6p7g"</code> is presented in the plot above. <a href="data/8g5e6p7g.csv">Download data as CSV</a></div>
 
 <tr><td>&nbsp;</td></tr>
 
 <div class="caption"><img src="plots/plt-lo7zii72.png"
-       alt=" ">Frequency distribution of the labels on the image with the <code>"image_id": "lo7zii72"</code> | <a href="data/lo7zii72.csv">Download data as CSV</a></div>
+       alt=" ">The frequency distribution of the labels on the image with the <code>"image_id": "lo7zii72"</code> is presented in the plot above. <a href="data/lo7zii72.csv">Download data as CSV</a></div>
 
 <tr><td>&nbsp;</td></tr>
 
 <div class="caption"><img src="plots/plt-vnqvu49b.png"
-       alt=" ">Frequency distribution of the labels on the image with the <code>"image_id": "vnqvu49b"</code> | <a href="data/vnqvu49b.csv">Download data as CSV</a></div>
+       alt=" ">The frequency distribution of the labels on the image with the <code>"image_id": "vnqvu49b"</code> is presented in the plot above. <a href="data/vnqvu49b.csv">Download data as CSV</a></div>
 
 <tr><td>&nbsp;</td></tr>
 
 <div class="caption"><img src="plots/plt-ek1qpg59.png"
-       alt=" ">Frequency distribution of the labels on the image with the <code>"image_id": "ek1qpg59"</code> | <a href="data/ek1qpg59.csv">Download data as CSV</a></div>
+       alt=" ">The frequency distribution of the labels on the image with the <code>"image_id": "ek1qpg59"</code> is presented in the plot above. <a href="data/ek1qpg59.csv">Download data as CSV</a></div>
 
-<span style="color:grey"> * Please note that this part of the dataset uses a weak and questionable model that categorises faces in a completely discriminative way. The ground truth of the face attribute annotations is automatically estimated and not verified by a human annotator.</span>
+<span style="color:grey"> * It is important to note that this particular section of the dataset utilises a relatively weak and open to question model which categorises faces in a wholly discriminative manner. Furthermore, the ground truth of the face attribute annotations is automatically estimated and not verified by a human annotator.</span>
 
 ### Access
 
-The Police Officers Faces (POF) dataset, version `0.1.0`, is currently unavailable to the public. It is intended to equip investigative journalists, human rights researchers, and digital activists with the means to strengthen justice and advocacy efforts.
+The _“Police Officers Faces (POF)”_ dataset, version `0.1.0`, is currently unavailable to the general public. It is intended to equip investigative journalists, human rights researchers, and digital activists with the means to strengthen justice and advocacy efforts.
 
 ### Citations
 
@@ -126,11 +126,11 @@ The Police Officers Faces (POF) dataset, version `0.1.0`, is currently unavailab
 
 #### Software
 
-Most all of this project was developed using open-source software: the core software application development and data analysis utilizes [Python](https://www.python.org/), [Pandas](https://pandas.pydata.org/), [Markdown](https://daringfireball.net/projects/markdown/), [Matplotlib](https://matplotlib.org/), and many other great open-source software packages that were freely available. Project communication relied on [Signal](https://signal.org/). Face redaction uses the open-source [DFACE.app](https://github.com/vframeio/dface) redaction software.
+The majority of this project was developed using open-source software. The core software application development and data analysis utilises [Python](https://www.python.org/), [Pandas](https://pandas.pydata.org/), [Markdown](https://daringfireball.net/projects/markdown/), [Matplotlib](https://matplotlib.org/), and numerous other exemplary open-source software packages that were freely available. Project communication was facilitated by [Signal](https://signal.org/). Face redaction employed the open-source [DFACE.app](https://github.com/vframeio/dface) redaction software.
 
 #### Image
 
-Front Page Image: A mosaic of approximately 63,000 facial images of a thousand police officers from the Police Officers Faces (POF) facial recognition dataset. Images are downsized to protect privacy. <span style="color:grey">Mosaic: © Algorithmic Sabotage Research Group.</span>
+Front Page Image: A mosaic of approximately 63,000 facial images of a thousand police officers from the _“Police Officers Faces (POF)”_ facial recognition dataset. The images have been downsized in order to protect the privacy of the individuals depicted. <span style="color:grey">Mosaic: © Algorithmic Sabotage Research Group.</span>
 
 [^1]: Politically Mathematics collective, “Politically Mathematics Manifesto,” 2019. https://politicallymath.in/manifesto/.
 [^2]: Lentin, A. 2018. The Future Is Here – Revealing Algorithmic Racism. Alana Lentin.Net (blog). 22 October 2018. http://www.alanalentin.net/2018/10/22/the-future-is-here-revealing-algorithmic-racism.
