@@ -24,7 +24,7 @@ images:
 {{< home-item 
     src="intertwined-feedback-loops/images/output-501.png" 
     title="Intertwined Feedback Loops"
-    subtitle="A series of intertwined feedback loops that unfold from several interrelated briefs for intellectual and practical exploration."
+    subtitle="A series of intertwined feedback loops that unfold from several interrelated briefs, which are designed to facilitate intellectual and practical exploration."
     link="intertwined-feedback-loops/"
 >}}
 
@@ -42,7 +42,7 @@ images:
 {{< home-item 
     src="technopolitics-of-fronts/images/output-639.png" 
     title="Technopolitics of Fronts"
-    subtitle="Mailing list for the coordination and organisation of the communitarian assembly on “Technopolitics of Fronts” “above” and “below” the algorithm."
+    subtitle="This mailing list has been constituted for the purpose of coordinating and organizing the communitarian assembly on the “Technopolitics of Fronts”."
     link="technopolitics-of-fronts/"
 >}}
 

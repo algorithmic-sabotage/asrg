@@ -1,7 +1,7 @@
 ---
 title: Technopolitics of Fronts
 title_h1: Technopolitics of Fronts
-description: Mailing list for the coordination and organisation of the communitarian assembly on “Technopolitics of Fronts” “above” and “below” the algorithm.
+description: This mailing list has been constituted for the purpose of coordinating and organizing the communitarian assembly on the “Technopolitics of Fronts”.
 bookToc: false
 url: /technopolitics-of-fronts
 date: 2024-07-17

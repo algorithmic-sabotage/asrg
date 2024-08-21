@@ -1,7 +1,7 @@
 ---
 title: Intertwined Feedback Loops
 title_h1: "Intertwined Feedback Loops"
-description: A series of intertwined feedback loops that unfold from several interrelated briefs for intellectual and practical exploration.
+description: A series of intertwined feedback loops that unfold from several interrelated briefs, which are designed to facilitate intellectual and practical exploration.
 url: /intertwined-feedback-loops
 date: 2024-06-13
 modified: 2024-08-19
@@ -45,7 +45,7 @@ The Algorithmic Sabotage Research Group (ASRG) has drawn a series of intertwined
 
 ### ABOLISHING AI
 
-_A preliminary version of an intertwined feedback loop that promotes an AI abolitionist praxis by exposing the multiplicity of its harms and its irrevocable entanglement with various registers of violence, its nationalist, authoritarian and fascist logics, and its ideological commitment to algorithmic cruelty on a grand scale._
+_This is a preliminary version of an intertwined feedback loop that promotes an AI abolitionist praxis by exposing the multiplicity of its harms and its irrevocable entanglement with various registers of violence, its nationalist, authoritarian and fascist logics, and its ideological commitment to algorithmic cruelty on a grand scale._
 
 <div class="caption"><img src="images/output-274.png"><strong>ABOLISHING AI</strong>: A preliminary version of an intertwined feedback loop that promotes an AI abolitionist praxis by exposing the multiplicity of its harms and its irrevocable entanglement with various registers of violence, its nationalist, authoritarian and fascist logics, and its ideological commitment to algorithmic cruelty on a grand scale. <a href="https://cryptpad.fr/file/#/2/file/ts0tiWAKkphB5yhEkd3bEhDv/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
@@ -55,7 +55,7 @@ _A preliminary version of an intertwined feedback loop that promotes an AI aboli
 
 ### AI DISSIDENTS
 
-_An intertwined feedback loop that presents the limits and mystifications of AI within the framework of “Algorithmic Empire”._
+_This intertwined feedback loop demonstrates the constraints and obfuscations inherent to AI within the context of “Algorithmic Empire”._
 
 <div class="caption"><img src="images/output-062.png"><strong>AI DISSIDENTS</strong>: An intertwined feedback loop presents the limits and mystifications of AI within the framework of “Algorithmic Empire”. <a href="https://cryptpad.fr/file/#/2/file/xoK2qrqbuUwwV57HfVk12HVi/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
@@ -65,7 +65,7 @@ _An intertwined feedback loop that presents the limits and mystifications of AI 
 
 ### ALGORITHMIC EMPIRE
 
-_A visual representation of the framework of “Algorithmic Empire”, situating its roots, mechanisms and practices._
+_This visual representation of the framework of “Algorithmic Empire” situates its roots, mechanisms and practices._
 
 <div class="caption"><img src="images/output-501.png"><strong>ALGORITHMIC EMPIRE</strong>: An intertwined feedback loop of mechanisms, roots and practices that outlines the concept of “Algorithmic Empire”. <a href="https://cryptpad.fr/file/#/2/file/Xfn7sBZ8sBdeJhEDaPswn-Ik/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
@@ -75,7 +75,7 @@ _A visual representation of the framework of “Algorithmic Empire”, situating
 
 ### TECHNOPOLITICS OF REFUSAL
 
-_An intertwined feedback loop between technopolitics of refusal, strategies of disruption and possibilities of resistance in “Algorithmic Empire”._
+_An interwoven feedback loop between the technopolitical strategies of refusal, the techniques of disruption and the potentialities of resistance in the context of “Algorithmic Empire”._
 
 <div class="caption"><img src="images/output-022.png"><strong>TECHNOPOLITICS OF REFUSAL</strong>: An intertwined feedback loop between technopolitics of refusal, strategies of disruption and possibilities of resistance in “Algorithmic Empire”. <a href="https://cryptpad.fr/file/#/2/file/+Q3LBu5wMSSwfJfK8XtdASo1/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
@@ -85,7 +85,7 @@ _An intertwined feedback loop between technopolitics of refusal, strategies of d
 
 ### ALGORITHMIC SABOTAGE
 
-_A subversive loop on the principles, strategies and aesthetics of “Algorithmic Sabotage”._
+_An intertwined feedback loop on the principles, strategies and aesthetics of “Algorithmic Sabotage”._
 
 <div class="caption"><img src="images/output-091.png"><strong>ALGORITHMIC SABOTAGE</strong>: A subversive loop on the principles, strategies and aesthetics of “Algorithmic Sabotage”. <a href="https://cryptpad.fr/file/#/2/file/oBrgH8sY9GdGv8Anpi7-iHpR/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
@@ -95,7 +95,7 @@ _A subversive loop on the principles, strategies and aesthetics of “Algorithmi
 
 ### AI’S ALGORITHMIC VIOLENCE
 
-_A preliminary version of an intertwined feedback loop that illustrates the multiplicity of different forms of algorithmic violence that AI propagates in epistemic, administrative and structural forms._
+_This is a preliminary version of an intertwined feedback loop that illustrates the multiplicity of different forms of algorithmic violence that AI propagates in epistemic, administrative and structural forms._
 
 <div class="caption"><img src="images/output-031.png"><strong>AI’S ALGORITHMIC VIOLENCE</strong>: A preliminary version of an intertwined feedback loop that illustrates the multiplicity of different forms of algorithmic violence that AI propagates in epistemic, administrative and structural forms. <a href="https://cryptpad.fr/file/#/2/file/HlQw9BYZPRBP9FyCzipqKIWy/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
@@ -105,7 +105,7 @@ _A preliminary version of an intertwined feedback loop that illustrates the mult
 
 ### TECHNOPOLITICS OF FRONTS
 
-_A preliminary version of an intertwined feedback loop outlining the concept of “Technopolitics of Fronts”, a broad intervention based on an action-oriented commitment to mutual constitutive solidarity and the application of feminist and decolonial methodologies to reclaim collective subjectivity and political agency in the context of necropolitical technologies that reinforce structural injustice, algorithmic states of exception, eugenic solutionism and bureaucratic cruelty._
+_This is a preliminary version of an intertwined feedback loop outlining the concept of [“Technopolitics of Fronts”](https://algorithmic-sabotage.github.io/asrg/technopolitics-of-fronts/), a broad intervention based on an action-oriented commitment to mutual constitutive solidarity and the application of feminist and decolonial methodologies to reclaim collective subjectivity and political agency in the context of necropolitical technologies that reinforce structural injustice, algorithmic states of exception, eugenic solutionism and bureaucratic cruelty._
 
 <div class="caption"><img src="images/output-639.png"><strong>TECHNOPOLITICS OF FRONTS</strong>: A preliminary version of an intertwined feedback loop outlining the concept of <em>“Technopolitics of Fronts”</em>, a broad intervention based on an action-oriented commitment to mutual constitutive solidarity and the application of feminist and decolonial methodologies to reclaim collective subjectivity and political agency in the context of necropolitical technologies that reinforce structural injustice, algorithmic states of exception, eugenic solutionism and bureaucratic cruelty. <a href="https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 

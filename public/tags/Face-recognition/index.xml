@@ -6,14 +6,14 @@
     <description>Recent content in Face Recognition on ASRG</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/asrg/tags/Face-recognition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Police Officers Faces (POF)</title>
       <link>http://localhost:1313/asrg/police_officers-faces-pof/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/asrg/police_officers-faces-pof/</guid>
-      <description>Police Officers Faces (POF) A large-scale face recognition dataset containing of approximately 90,000 headshot photos of thousands of police officers. This dataset is intended as a tool to empower community members engaged in copwatch and other counter-surveillance practices. Posted: Jun 17, 2024. Modified: Jun 28, 2024 One hundred sample images from the “POF” face recognition dataset. Faces have been redacted to protect privacy. One hundred sample images from the “POF” face recognition dataset.</description>
+      <description>Police Officers Faces (POF) This is a large-scale face recognition dataset comprising approximately 90,000 headshot photographs of thousands of police officers. It is intended as a tool to empower community members engaged in copwatch and other counter-surveillance practices. Posted: Jun 17, 2024. Modified: Aug 20, 2024 The above .GIF file contains one hundred sample images from the “Police Officers Faces (POF)” face recognition dataset. To protect the privacy of the individuals depicted, the faces have been redacted.</description>
     </item>
   </channel>
 </rss>

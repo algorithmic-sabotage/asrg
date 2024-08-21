@@ -35,26 +35,30 @@ The research is guided by the following questions:
 
 ### Contact
 
-The best way to contact us is by email. We will do our best to get back to you as soon as possible. If you don't hear from us within a week, please try again.
+We recommend contacting us via email as a means of communication. We will endeavour to reply to your message as soon as is reasonably possible. If you do not receive a response within a week, we kindly request that you resend your message.
 
-- For fastest reply use private and secure email like [ProtonMail](https://proton.me/mail).
+- To ensure the swiftest response, it is recommended to utilise a private and secure email platform, such as [ProtonMail](https://proton.me/mail).
 
-- Insecure emails that contain tracking links or tracking pixels may be automatically deleted.
+-  It should be noted that emails containing tracking links or tracking pixels may be automatically deleted.
 
 #### Private Email
 
-Please use our [public PGP key](https://cryptpad.fr/file/#/2/file/zoHkxVtIaO20QIj2RGPlBwgO/) to send us a secure email using this email address: [x7kekmg7@proton.me](mailto:x7kekmg7@proton.me)
+Should you wish to send us a secure email, we request that you do so using our [public PGP key](https://cryptpad.fr/file/#/2/file/zoHkxVtIaO20QIj2RGPlBwgO/) and the email address: [x7kekmg7@proton.me](mailto:x7kekmg7@proton.me)
 
-If you need to remain anonymous, consider using the [Tor Browser](https://www.torproject.org/download/), preferably on a computer away from home or work, will also boost your security.
+Those wishing to remain anonymous may wish to consider utilising the [Tor Browser](https://www.torproject.org/download/), ideally on a computer located outside of one's place of residence or employment. This will also serve to enhance the level of security available.
 
 #### Social Media
 
-You can find us as `@asrg@tldr.nettime.org` on <a rel="me" href="https://tldr.nettime.org/@asrg">Mastodon</a>. <span style="color:grey">*  tldr.nettime is an instance for artists, researchers, and activists interested in exploring the intersections of technology, culture, and politics.</span>
+Please be advised that our presence on <a rel="me" href="https://tldr.nettime.org/@asrg">Mastodon</a> can be located at the following handle: `@asrg@tldr.nettime.org`.
+
+<span style="color:grey">*  tldr.nettime is an instance for artists, researchers, and activists interested in exploring the intersections of technology, culture, and politics.</span>
 
 #### Messaging
 
-We use [Signal](https://signal.org/) for private messaging. If you'd prefer to send us a message, send us a note using this email address `x7kekmg7@proton.me` with your Signal number or username and we'll take it from there.
+We utilise [Signal](https://signal.org/) for the purpose of private messaging. Should you wish to send us a message, you are invited to do so via the following email address: `x7kekmg7@proton.me`. Please include your Signal number or username in the message, and we shall take it from there.
 
-### About this site
+### About this Site
 
-This site is designed to be privacy-friendly and does not use any 3rd party analytics to track visits, nor any 3rd party dependencies that compromise privacy or share data. The site is built with Markdown, generated in [Hugo](https://gohugo.io/), and served as static files using [GitHub](https://github.com/).
+This website has been designed with the objective of ensuring the privacy of its users. It does not employ the use of third-party analytics tools to track visits, nor does it utilise any third-party dependencies that may compromise the privacy of its users or share their data. The website has been constructed using Markdown, generated in [Hugo](https://gohugo.io/), and served as a static file using [GitHub](https://github.com/).
+
+

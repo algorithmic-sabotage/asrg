@@ -6,7 +6,7 @@ bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
 modified: 2024-08-20
-Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics']
+Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
 ---
@@ -23,7 +23,7 @@ The Manifesto on “Algorithmic Sabotage” is a preliminary version of ten stat
 
 ## Manifesto on “Algorithmic Sabotage”
 
-The Manifesto on “Algorithmic Sabotage” has been written by the [Algorithmic Sabotage Research Group (ASRG)](https://tldr.nettime.org/@asrg), please consider it under the [GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.en.html). <span style="color:grey">* Please note that the Manifesto is designed to be developed and will be regularly updated on this page, the following translations will be updated accordingly.</span>
+The Manifesto on “Algorithmic Sabotage” has been written by the [Algorithmic Sabotage Research Group (ASRG)](https://tldr.nettime.org/@asrg), please consider it under the [GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.en.html). <span style="color:grey">* It should be noted that the Manifesto is designed to be developed and will be updated on this page on a regular basis. The following translations will be updated accordingly.</span>
 
 {{< tabs "mas-v2024.5.1" >}}
 {{< tab "EN" >}} 

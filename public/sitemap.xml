@@ -3,7 +3,7 @@
   
   <url>
     <loc>http://localhost:1313/asrg/docs/interventions/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -32,7 +32,7 @@
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Artivism/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -87,67 +87,77 @@
   
   <url>
     <loc>http://localhost:1313/asrg/tags/AI/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/Algorithmic-Sabotage/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/ASRG/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Cops/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Copwatch/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Counter-Surveillance/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Counter-Intelligence/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Data/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Dataset/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Face-recognition/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Headshot/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/OSINT/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Police/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Police-Officers/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/police_officers-faces-pof/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -157,17 +167,17 @@
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Scrapism/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Social-Engineering/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Social-Justice/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -188,16 +198,6 @@
   <url>
     <loc>http://localhost:1313/asrg/tags/Algorithmic-Empire/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/asrg/tags/Algorithmic-Sabotage/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/asrg/tags/ASRG/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
