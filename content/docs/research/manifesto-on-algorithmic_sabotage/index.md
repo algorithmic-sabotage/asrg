@@ -5,7 +5,7 @@ description: A preliminary version of 10 statements, numbered 0 to 9, on the pri
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-08-20
+modified: 2024-08-22
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -286,6 +286,36 @@ _أثينا، أيار-مايو، 2024_
 9. "التخريب الخوارزمي" هو دفاع تحرري عن الحاجة إلى فرض قيود مجتمعية على التكنولوجيا الضارة، ونضال ضد الفصل المجرد "فوق" و"تحت" الخوارزمية.
 
 <span style="color:grey">The Arabic translation was prepared by  [Dimah Ahmad](https://shorturl.at/aq0AM).</span>
+
+ {{< /tab >}}
+ 
+ {{< tab "SV" >}} 
+
+### Manifest om “Algoritmiskt sabotage”
+
+_Aten, Maj 2024 (översättning Umeå, Augusti 2024)_
+
+0. “Algoritmiskt sabotage” är en militant form av tekno-olydnad som fattas i teknikkritik.
+
+1. Snarare än en atavistisk aversion till teknologi kan “algoritmiskt sabotage” förstås som en form av motmakt som uppstår ur styrkan hos gemenskapheterna som praktiserar det.
+
+2. “Algoritmiskt sabotage” skär igenom det ur misär groende kapitalistiska ideologiska ramverket, genom att med ett subversivt arbete i samtiden nedmontera existerande former av algoritmisk dominans och återta utrymme(n) för etiskt agerande från en generaliserad tankelöshet och automatisering.
+
+3. “Algoritmiskt sabotage” är ett aktionsorienterat löfte om solidaritet som föregår alla sociala, legala och algoritmiska klassificeringssystem.
+
+4. “Algoritmiskt sabotage” är en del av en strukturell förnyelse av en bredare rörelse för social autonomi som genom vild och oberoende direkt aktion motsätter sig hegemonins teknologi och dess rovdrifter, i medveten samklang med ideal som social rättvisa och jämlikhet.
+
+5. “Algoritmiskt sabotage” omdanar radikalt våra teknopolitiska konstruktioner bort från de strukturella orättvisor, överhöghetsperspektiv, och nekropolitiska auktoritära maktstrukturer som är inbakade i det "algoritmiska imperiet", och tar ett särskilt fokus på att påvisa dess materialitet och konsekvenser i termer både av koldioxidutsläpp och centralisering av kontroll.
+
+6. “Algoritmiskt sabotage” avvisar algoritmisk förnedring motiverad av makt och profitmaximering, och fokuserar på ömsesidig hjälp och solidaritet.
+
+7. Det första steget i teknopolitik är inte tekniskt utan politiskt. Radikalfeministiska, antifascistiska och dekoloniala perspektiv är en politisk utmaning för “algoritmiskt sabotage”, som ställer ömsesidigt beroende och kollektiv omsorg mot det "algoritmiska imperiets" reduktiva optimeringar.
+
+8. “Algoritmiskt sabotage” kämpar mot algoritmiskt våld och fascistisk teknosolutionism, och fokuserar på artistisk-aktivistiskt motstånd som kan uttrycka en annan mentalitet: en kollektiv 'motintelligens'
+
+9. “Algoritmiskt sabotage” är ett befriande försvar av det gemensamma behovet av begränsningar på skadlig teknologi: en kamp mot den abstrakta uppdelningen mellan de 'ovan' och 'under' algoritmen.
+
+<span style="color:grey">Translated into Swedish by Petter Ericson.</span>
 
  {{< /tab >}}
  
