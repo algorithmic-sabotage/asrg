@@ -293,7 +293,7 @@ _أثينا، أيار-مايو، 2024_
 
 ### Manifest om “Algoritmiskt sabotage”
 
-_Aten, Maj 2024 (översättning Umeå, Augusti 2024)_
+_Aten, Maj 2024_
 
 0. “Algoritmiskt sabotage” är en militant form av tekno-olydnad som fattas i teknikkritik.
 
@@ -315,7 +315,7 @@ _Aten, Maj 2024 (översättning Umeå, Augusti 2024)_
 
 9. “Algoritmiskt sabotage” är ett befriande försvar av det gemensamma behovet av begränsningar på skadlig teknologi: en kamp mot den abstrakta uppdelningen mellan de 'ovan' och 'under' algoritmen.
 
-<span style="color:grey">Translated into Swedish by Petter Ericson.</span>
+<span style="color:grey">Translated into Swedish by Petter Ericson (Umeå, Augusti 2024).</span>
 
  {{< /tab >}}
  
@@ -323,29 +323,31 @@ _Aten, Maj 2024 (översättning Umeå, Augusti 2024)_
 
 ## Supplemental Information
 
-### Data Availability
+### Download
 
-Download the English language version of the Manifesto as a [printable PDF](https://cryptpad.fr/file/#/2/file/wxjjDNHepi9BLwIGDUvzlZpO/).
+The English-language version of the Manifesto on “Algorithmic Sabotage” is available for download in [printable PDF](https://cryptpad.fr/file/#/2/file/wxjjDNHepi9BLwIGDUvzlZpO/) format.
 
 ### Contribute
 
 #### Contact
 
-To contribute to the Manifesto on “Algorithmic Sabotage” with additions, improvements, criticism, or feedback, get in touch with us: `x7kekmg7@proton.me` | [public PGP key](https://cryptpad.fr/file/#/2/file/zoHkxVtIaO20QIj2RGPlBwgO/)
+Should you wish to make a contribution to the Manifesto on "Algorithmic Sabotage", whether as an addition, an improvement, a piece of critical commentary or feedback of any kind, we would be delighted to hear from you. Please direct all communications to `x7kekmg7@proton.me`, using our [public PGP key](https://cryptpad.fr/file/#/2/file/zoHkxVtIaO20QIj2RGPlBwgO/).
 
 #### Translations
 
-To translate the Manifesto on “Algorithmic Sabotage” to a new language or improve an existing translation, see below.
+Should one wish to translate the Manifesto on “Algorithmic Sabotage” into a new language or to improve an existing translation, the following instructions should be followed.
 
-Internationalism is important for us and we intend to translate the Manifesto on “Algorithmic Sabotage” to as many languages as possible. The base language of our interventions is English, which means that we write the original text in English, which anyone can then translate to other languages.
+We attach considerable importance to internationalism, and our intention is to translate the Manifesto on “Algorithmic Sabotage” as widely as possible into a variety of languages. The base language of our interventions is English. Consequently, the original text is written in English, which can then be translated into other languages by any interested party.
 
-In order to achieve good quality translations and make our project more accessible to non-English readers, translators should have some knowledge of both English and the language into which they are translating. We ask that you:
+In order to achieve high-quality translations and enhance accessibility for non-English readers, it is essential that translators possess a comprehensive understanding of both English and the target language. 
 
-- Have a good understanding of English.
+It is requested that translators:
 
-- Have a professional or near-professional level of proficiency in the language you are translating into (if you are a native speaker of that language, it should be fine!).
+- Have a comprehensive understanding of the English language.
 
-Please send us the translation file with the language of your choice to `x7kekmg7@proton.me` | [public PGP key](https://cryptpad.fr/file/#/2/file/zoHkxVtIaO20QIj2RGPlBwgO/) (name this file `mas-languagecode.md` where `languagecode` is the two-letter language code (e.g. `mas-es.md`)).
+- Furthermore, it is required that they have a professional or near-professional level of proficiency in the target language, which will be the language being translated. In the case of a native speaker of that language, this will be sufficient.
+
+We kindly request that you forward the translation file, accompanied by the language of your choice, to the following e-mail address: `x7kekmg7@proton.me` | [public PGP key](https://cryptpad.fr/file/#/2/file/zoHkxVtIaO20QIj2RGPlBwgO/). The aforementioned file should be named `mas-languagecode.md`, in which the `languagecode` denotes the two-letter language code. For instance, `mas-es.md` represents the Spanish language.
 
 ### Selected Coverage, Online and Printed
 
