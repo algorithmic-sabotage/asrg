@@ -5,7 +5,7 @@ description: A preliminary version of 10 statements, numbered 0 to 9, on the pri
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-08-22
+modified: 2024-08-23
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -21,7 +21,7 @@ _“To create? No, to destroy, destroy and destroy again, whatever the strength 
 
 The Manifesto on “Algorithmic Sabotage” is a preliminary version of ten statements, numbered 0 to 9, on the principles, strategies and aesthetics of “algorithmic sabotage”. Its purpose is not only a theoretical dissemination of militant algorithmic agency and resistance, but the diffusion of radical theory/criticism that stems from the energy of insurrectionary desire. The Manifesto on “Algorithmic Sabotage” is the relentless march of a political theory that constantly and ambidirectionally turns discourse into praxis in order to declare its presence in the liberation struggle.
 
-## Manifesto on “Algorithmic Sabotage”
+***
 
 The Manifesto on “Algorithmic Sabotage” has been written by the [Algorithmic Sabotage Research Group (ASRG)](https://tldr.nettime.org/@asrg), please consider it under the [GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.en.html). <span style="color:grey">* It should be noted that the Manifesto is designed to be developed and will be updated on this page on a regular basis. The following translations will be updated accordingly.</span>
 
@@ -318,7 +318,35 @@ _Aten, Maj 2024_
 <span style="color:grey">Translated into Swedish by Petter Ericson (Umeå, Augusti 2024).</span>
 
  {{< /tab >}}
- 
+ {{< tab "IT" >}} 
+
+### Manifesto sul “Sabotaggio Algoritmico”
+
+_Atene, Maggio 2024_
+
+0. Il “Sabotaggio Algoritmico” rappresenta una forma di disobbedienza tecnologica che colma il vuoto di militanza presente nella critica della tecnologia.
+
+1. Lungi dal rappresentare un'avversione atavica alla tecnologia, il “Sabotaggio Algoritmico” si configura come una pratica di contropotere, che emerge dalla forza collettiva della comunità che lo esercita.
+
+2. Il “Sabotaggio Algoritmico” si inserisce all’interno di un quadro ideologico che mira a sovvertire le dinamiche capitalistiche che prosperano sulla miseria, agendo nel presente per smantellare le forme contemporanee di dominazione algoritmica e rivendicando spazi per l’azione etica, contro la sconsideratezza generalizzata e gi automatismi dominanti.
+
+3. Il “Sabotaggio Algoritmico” è un impegno orientato all’azione solidale, che precede ogni sistema di classificazione sociale, legale o algoritmica.
+
+4. Il “Sabotaggio Algoritmico” si inserisce in un processo di rinnovamento strutturale di un più ampio movimento per l’autonomia sociale, che si oppone alle predazioni della tecnologia egemonica attraverso un'azione diretta e selvaggia, consciamente allineata con ideali di giustizia sociale ed egualitarismo.
+
+5. Il “Sabotaggio Algoritmico” opera una rielaborazione radicale dei nostri assetti tecno-politici, smarcandosi dalle ingiustizie strutturali, dalle prospettive suprematiste e dal potere autoritario necro-politico insiti nell’“impero algoritmico”, evidenziandone la materialità e le conseguenze in termini di emissioni di carbonio e centralizzazione del controllo.
+
+6. Il “Sabotaggio Algoritmico” rigetta l’umiliazione algoritmica orientata alla massimizzazione del potere e del profitto, privilegiando invece attività di mutuo soccorso e solidarietà.
+
+7. Il primo passo della tecno-politica non è di natura tecnologica, ma politica. Le prospettive femministe radicali, antifasciste e decoloniali costituiscono una sfida politica al “Sabotaggio Algoritmico”, ponendo al centro la questione dell’interdipendenza e della cura collettiva, contro le ottimizzazioni riduttive promosse dall’“impero algoritmico”.
+
+8. Il “Sabotaggio Algoritmico” si oppone alla violenza algoritmica e al tecno-soluzionismo fascista, privilegiando forme di resistenza artistico-attivista in grado di esprimere una mentalità alternativa, una “contro-intelligenza” collettiva.
+
+9. Il “Sabotaggio Algoritmico” è una difesa emancipatoria della necessità di una limitazione comunitaria della tecnologia dannosa, una lotta contro la segregazione astratta ‘sopra’ e ‘sotto’ l'algoritmo.
+
+<span style="color:grey">The Italian translation was prepared by AYL from [REINCANTAMENTO](https://reincantamento.xyz/).</span>
+
+ {{< /tab >}}
 {{< /tabs >}}
 
 ## Supplemental Information
