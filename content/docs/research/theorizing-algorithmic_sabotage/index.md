@@ -1,10 +1,10 @@
 ---
 title: Theorizing “Algorithmic Sabotage”
 title_h1: "Theorizing “Algorithmic Sabotage”"
-description: An urgent intervention rooted in the militant liberation struggles of the most oppressed within the arena of global computational racial capitalism.
+description: A collaborative writing document that represents an initial attempt at conceptualising the concept of 'algorithmic sabotage' as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism.
 url: /theorizing-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-07-01
+modified: 2024-08-25
 author: ASRG
 Tags: ['ASRG', 'Algorithmic Sabotage', 'Artivism', 'Counter-Intelligence', 'Intervention', 'Militant Liberation Struggles', 'Theorizing', 'Theorizing Algorithmic Sabotage', 'Prefigurative Techno-Politics']
 aliases:
@@ -15,19 +15,14 @@ images:
 
 {{< titling >}}
 
-<div class="caption"><img src="images/output-925.png"><strong>Extract #8</strong>: <em>“Algorithmic Sabotage” is the starting point for a radical, feminist and decolonial political praxis that seeks to militantly transcend the deep-seated necropolitical tendencies, predictive interventions, thoughtless optimisations, increasing flows of fascist affordances and the violence of solutionism that AI represents and implements in every aspect of social infrastructure, confirming the dystopian potentials of machine intelligence.</em><span style="color:grey"> Graphic: © Algorithmic Sabotage Research Group | The typeface used is Avara from Velvetyne Foundry: https://velvetyne.fr/fonts/avara/</span></div>
+<div class="video-player"><video width="100%" height="auto" controls="" poster="images/output-924.jpg">
+<source src="images/output-581.mp4" type="video/mp4">Your browser does not support the video tag.</video><div class="caption">A video disseminated via social media platforms depicted a gathering of individuals vandalizing a Waymo robotaxi in San Francisco and subsequently setting it ablaze. The new Luddites might look like the residents of San Francisco who blockaded Waymo's self-driving vans, vandalising the vehicles and setting them on fire. The Luddites, it should be remembered, did not oppose technology per se, but sought to <em>“to put down all machinery hurtful to the Commonality.”</em> The video has been edited using <code>cook</code><span style="color:grey"> | A command-line utility for concocting and cooking deepfrying recipes for image and video.</span></div>
 
 ## Context
 
 _“To criticize and deconstruct complex artifacts such as AI monopolies, first we should engage in the meticulous work of deconnectionism, undoing—step by step, file by file, dataset by dataset, piece of metadata by piece of metadata, correlation by correlation, pattern by pattern—the social and economic fabric that constitutes them in origin[^1].”_
 
-Based on the work of the Algorithmic Sabotage Research Group (ASRG), Theorizing “Algorithmic Sabotage” is an urgent intervention rooted in the militant liberation struggles of the most oppressed within the arena of global computational racial capitalism, with the aim of creating and defending spaces of autonomy for the development and dissemination of radical and counter-hegemonic social imaginaries through the universal prefigurative techno-politicisation of the class base, for the manifestation of direct, vigorous struggles of combative algorithmic agency and resistance against the hyper-abstracted optimisations, the mathematised processes of alienation and the turn towards to algorithmic fascism.
-
-<div class="caption"><img src="images/output-091.png"><strong>ALGORITHMIC SABOTAGE</strong>: A subversive loop on the principles, strategies and aesthetics of “Algorithmic Sabotage”. <a href="https://cryptpad.fr/file/#/2/file/oBrgH8sY9GdGv8Anpi7-iHpR/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
-
-### Theorizing “Algorithmic Sabotage”
-
-Theorizing “Algorithmic Sabotage” is based on an open collaborative document that can be found here: https://pad.riseup.net/p/co-edit-manifesto-on-algorithmic-sabotage-keep.<span style="color:grey"> * Please note that this page will be updated as more information becomes available.</span>
+Theorizing “Algorithmic Sabotage” represents an initial attempt to conceptualize the concept of 'algorithmic sabotage' as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism. The document has been produced through a process of collective authorship. Please feel free to contribute to the content, a copy of which can be accessed on a [Riseup Pad](https://pad.riseup.net/) (a real-time collaborative text editor, hosted by [Riseup](https://riseup.net/)) via the following link: https://pad.riseup.net/p/co-edit-manifesto-on-algorithmic-sabotage-keep. As the collaboratively written document is enriched with notes, the results of the effort will be used for further practice and analysis. <span style="color:grey">* It should be noted that as new information becomes available, this page will be updated accordingly.</span>
 
 {{< details title="**2024: Theorizing “Algorithmic Sabotage”**" open=true >}}
 
@@ -101,7 +96,7 @@ Theorizing “Algorithmic Sabotage” is based on an open collaborative document
 
 34. “Algorithmic Sabotage” militantly intervenes at every critical point of the algorithmic conflict, liberating the ground through the determination of active resistance against the algorithmic logic deeply rooted in instrumental rationality in the context of digital racial capitalism.
 
-35. Relying on a distinctly decolonial, anti-fascist, queer and trans-feminist transnational and intersectional perspective, “Algorithmic Sabotage” charts ways of resistance and refusal, organizing social territories of algorithmic agency and radical solidarity co-ordinations for sparking the outbreak of computational insurrections against sites of “algorithmic coloniality”.
+35. Relying on a distinctly decolonial, anti-fascist, queer and trans-feminist transnational and intersectional perspective, “Algorithmic Sabotage” charts ways of resistance and refusal, organizing social territories of algorithmic agency and radical solidarity co-ordinations for sparking the outbreak of insurrections against sites of “algorithmic coloniality”.
 
 36. Through horizontal forms of intervention that prioritise marginalised perspectives, “Algorithmic Sabotage” interrupts the dehumanisation induced by the automated segregation deeply embedded in AI's calculative methods, which act as an amplifying stimulus and activating function for certain toxic social tendencies.
 
@@ -145,13 +140,13 @@ Theorizing “Algorithmic Sabotage” is based on an open collaborative document
 
 56. “Algorithmic Sabotage” highlights the entanglement of the algorithmic harmfulness of “algorithmic empire” with ongoing forms of societal disintegration, from austerity to far-right politics, and from racialized algorithmic violence to the production of states of exception.
 
-57. Every era must discover its own negations, for “Algorithmic Sabotage” it is the consistency of the insurrectionary action that matters. Here is the place where negations are being armed. Here is the place where stubbornness and conscience forge the continuous algorithmic insurrection. With tenacity and will, until the iterative sedimentation of algorithmic power is dismantled.
+57. Every era must discover its own negations, for “Algorithmic Sabotage” it is the consistency of the insurrectionary action that matters. Here is the place where negations are being armed. Here is the place where stubbornness and conscience forge the continuous insurrection. With tenacity and will, until the iterative sedimentation of algorithmic power is dismantled.
 
 58. “Nothing’s more important than stopping fascism, because fascism will stop us all.” “Algorithmic Sabotage” applies a radical anti-fascist perspective, underpinned by a feminist and decolonial critique that takes a process-oriented approach, where the complexity of collective agency acts as a countervailing force to the pre-emptive techno-solutionism, narrow iterations and systemic interests vested in AI, resisting the transformation of the social world into a permanent reserve for optimisation and prediction.
 
 59. As a decolonisation effort through bottom-up approaches led by marginalised and subaltern groups, “Algorithmic Sabotage” reinstates the logic of direct confrontation with the multiply oppressive power of AI-driven systems, epistemic supremacy and the rise of “algorithmic governmentality”, whereby our reality is shaped and controlled by the statistical probabilistic logic of AI.
 
-60. “Algorithmic Sabotage” encourages the existence of informal algorithmic direct action cells that fuel the outbreak of counter-violence against elaborate statistical guesswork and algorithmic authoritarianism.
+60. “Algorithmic Sabotage” encourages the existence of informal direct action cells that fuel the outbreak of counter-violence against elaborate statistical guesswork and algorithmic authoritarianism.
 
 61. “Algorithmic Sabotage” systematically explores how the essentialising nature of “algorithmic empire” systems fuels social divisions and, in its most extreme forms, the violent ultra-nationalist politics of our time.
 
@@ -261,7 +256,7 @@ Theorizing “Algorithmic Sabotage” is based on an open collaborative document
 
 ### Feedback
 
-Please direct any comments or suggestions about this text to the Algorithmic Sabotage Research Group (ASRG) email address: `x7kekmg7@proton.me`
+Should you have any comments or suggestions regarding this text, we kindly request that you direct them to the [Algorithmic Sabotage Research Group (ASRG)](https://algorithmic-sabotage.github.io/asrg/about/) email address: `x7kekmg7@proton.me`.
 
 ### Credits
 

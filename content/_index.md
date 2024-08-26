@@ -17,7 +17,7 @@ images:
 {{< home-item 
     src="theorizing-algorithmic_sabotage/images/output-945.png" 
     title="Theorizing “Algorithmic Sabotage”"
-    subtitle="An urgent intervention rooted in the militant liberation struggles of the most oppressed within the arena of global computational racial capitalism."
+    subtitle="A collaborative writing document that represents an initial attempt at conceptualising the concept of 'algorithmic sabotage' as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism."
     link="theorizing-algorithmic_sabotage/"
 >}}
 
@@ -42,7 +42,7 @@ images:
 {{< home-item 
     src="technopolitics-of-fronts/images/output-639.png" 
     title="Technopolitics of Fronts"
-    subtitle="This mailing list has been constituted for the purpose of coordinating and organizing the communitarian assembly on the “Technopolitics of Fronts”."
+    subtitle="A broad-based intervention for the militant emancipatory defence of the need for community constraint of harmful algorithmic systems and their surrounding political projects, through the mechanism of the communitarian assembly, a bottom-up, horizontal structure that functions as a means to unite the spaces of technical concern and collective action."
     link="technopolitics-of-fronts/"
 >}}
 

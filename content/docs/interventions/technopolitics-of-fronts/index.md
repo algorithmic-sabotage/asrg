@@ -1,7 +1,7 @@
 ---
 title: Technopolitics of Fronts
 title_h1: Technopolitics of Fronts
-description: This mailing list has been constituted for the purpose of coordinating and organizing the communitarian assembly on the “Technopolitics of Fronts”.
+description: A broad-based intervention for the militant emancipatory defence of the need for community constraint of harmful algorithmic systems and their surrounding political projects, through the mechanism of the communitarian assembly, a bottom-up, horizontal structure that functions as a means to unite the spaces of technical concern and collective action.
 bookToc: false
 url: /technopolitics-of-fronts
 date: 2024-07-17
