@@ -16,7 +16,7 @@ images:
 {{< titling >}}
 
 <div class="video-player"><video width="100%" height="auto" controls="" poster="images/output-924.jpg">
-<source src="images/output-581.mp4" type="video/mp4">Your browser does not support the video tag.</video><div class="caption">A video disseminated via social media platforms depicted a gathering of individuals vandalizing a Waymo robotaxi in San Francisco and subsequently setting it ablaze. The new Luddites might look like the residents of San Francisco who blockaded Waymo's self-driving vans, vandalising the vehicles and setting them on fire. The Luddites, it should be remembered, did not oppose technology per se, but sought to <em>“to put down all machinery hurtful to the Commonality.”</em> The video has been edited using <code>cook</code><span style="color:grey"> | A command-line utility for concocting and cooking deepfrying recipes for image and video.</span></div>
+<source src="video/output-581.mp4" type="video/mp4">Your browser does not support the video tag.</video><div class="caption">A video disseminated via social media platforms depicted a gathering of individuals vandalizing a Waymo robotaxi in San Francisco and subsequently setting it ablaze. The new Luddites might look like the residents of San Francisco who blockaded Waymo's self-driving vans, vandalising the vehicles and setting them on fire. The Luddites, it should be remembered, did not oppose technology per se, but sought to <em>“to put down all machinery hurtful to the Commonality.”</em> The video has been edited using <code>cook</code><span style="color:grey"> | A command-line utility for concocting and cooking deepfrying recipes for image and video.</span></div>
 
 ## Context
 
