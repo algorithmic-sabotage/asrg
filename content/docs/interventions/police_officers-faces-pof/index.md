@@ -130,7 +130,7 @@ The majority of this project was developed using open-source software. The core 
 
 #### Image
 
-Front Page Image: A mosaic of approximately 63,000 facial images of a thousand police officers from the _“Police Officers Faces (POF)”_ facial recognition dataset. The images have been downsized in order to protect the privacy of the individuals depicted. <span style="color:grey">Mosaic: © Algorithmic Sabotage Research Group.</span>
+Front Page Image: A mosaic of approximately 63,000 facial images of thousands of police officers from the _“Police Officers Faces (POF)”_ facial recognition dataset. The images have been downsized in order to protect the privacy of the individuals depicted. <span style="color:grey">Mosaic: © Algorithmic Sabotage Research Group.</span>
 
 [^1]: Politically Mathematics collective, “Politically Mathematics Manifesto,” 2019. https://politicallymath.in/manifesto/.
 [^2]: Lentin, A. 2018. The Future Is Here – Revealing Algorithmic Racism. Alana Lentin.Net (blog). 22 October 2018. http://www.alanalentin.net/2018/10/22/the-future-is-here-revealing-algorithmic-racism.
