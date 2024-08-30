@@ -5,7 +5,7 @@ description: A preliminary version of 10 statements, numbered 0 to 9, on the pri
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-08-23
+modified: 2024-08-30
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -345,6 +345,36 @@ _Atene, Maggio 2024_
 9. Il “Sabotaggio Algoritmico” è una difesa emancipatoria della necessità di una limitazione comunitaria della tecnologia dannosa, una lotta contro la segregazione astratta ‘sopra’ e ‘sotto’ l'algoritmo.
 
 <span style="color:grey">The Italian translation was prepared by AYL from [REINCANTAMENTO](https://reincantamento.xyz/).</span>
+
+ {{< /tab >}}
+
+ {{< tab "NL" >}} 
+
+### Manifest voor "Algoritmische sabotage"
+
+_Athene, Mei 2024_
+
+0. “Algoritmische Sabotage” is een vorm van technologische ongehoorzaamheid, een strijdbaarheid die ontbreekt in de technologische kritiek.
+
+1. “Algoritmische Sabotage” is geen atavistische afkeer van technologie, maar kan eerder begrepen worden als een tegenmacht, die voortkomt uit de kracht van de gemeenschap die er gebruikt van maakt.
+
+2. “Algoritmische Sabotage” doorkruist de kapitalistische ideologische ordening, die gedijt op ellende, door een werk van subversie in het heden uit te voeren, hedendaagse vormen van algoritmische overheersing te ontmantelen en ruimtes voor ethische handelen terug te winnen op algemene gedachteloosheid en automatisme.
+
+3. “Algoritmische Sabotage” is een actiegerichte toewijding aan solidariteit die voorafgaat aan elk systeem van sociale, wettelijke of algoritmische classificatie.
+
+4. “Algoritmische Sabotage” maakt deel uit van een structurele vernieuwing van een bredere beweging voor sociale autonomie die zich verzet tegen de veelvraat van alomtegenwoordige technologie, door middel van directe actie, bewust afgestemd op de idealen van sociale rechtvaardigheid en egalitarisme.
+
+5. “Algoritmische Sabotage” verandert op radicale wijze onze technopolitieke structuren weg van de basale onrechtvaardigheden, supremacistische perspectieven en necropolitieke autoritaire macht die deel uitmaken van het “algoritmische imperium”, en benadrukt het materialistische en de gevolgen ervan in termen van zowel koolstofuitstoot als centralisatie van controle.
+
+6. “Algoritmische Sabotage” weigert algoritmische vernedering ten behoeve van machts- en winstmaximalisatie en richt zich op activiteiten van wederzijdse hulp en solidariteit.
+
+7. De eerste stap van de technopolitiek is niet technologisch maar politiek. Radicale feministische, antifascistische en decoloniale perspectieven vormen een politieke uitdaging voor “Algoritmische Sabotage” en plaatsen zaken als onderlinge afhankelijkheid en collectieve zorg tegenover de reductieve optimaliseringen van het “algoritmische imperium”.
+
+8. “Algoritmische Sabotage” strijdt tegen algoritmisch geweld en fascistisch techno-oplossingsdenken en richt zich op artistiek-activistisch verzet dat een andere mentaliteit kan uitdrukken, een collectieve “contraspionage”.
+
+9. “Algoritmische Sabotage” is een emancipatoire verdediging van de noodzaak voor een gemeenschappelijke beperking van schadelijke technologie, een strijd tegen de abstracte scheiding tussen “boven” en “onder” door het algoritme.
+
+<span style="color:grey">Translated into Dutch by harm of https://dstet.zone/.</span>
 
  {{< /tab >}}
 {{< /tabs >}}

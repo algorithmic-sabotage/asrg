@@ -5,7 +5,7 @@ description: A broad-based intervention for the militant emancipatory defence of
 bookToc: false
 url: /technopolitics-of-fronts
 date: 2024-07-17
-modified: 2024-08-14
+modified: 2024-08-30
 Tags: ['Technopolitics of Fronts', 'Resistance', 'Communitarian Assembly', 'Counter-Violence', 'Solidarity', 'Artivism', 'Anti-fascist Radical Care', 'Feminist Methods', 'Decolonial Tactics']
 images:
 - images/output-787.png
@@ -31,17 +31,13 @@ The mailing list will be used to announce face-to-face meetings. The meetings wi
 
 <div class="caption"><img src="images/output-629.png"><strong>TECHNOPOLITICS OF FRONTS</strong>: A preliminary version of an <a href="https://algorithmic-sabotage.github.io/asrg/intertwined-feedback-loops/">intertwined feedback loop</a> outlining the concept of <em>“Technopolitics of Fronts”</em>, a broad intervention based on an action-oriented commitment to mutual constitutive solidarity and the application of feminist and decolonial methodologies to reclaim collective subjectivity and political agency in the context of necropolitical technologies that reinforce structural injustice, algorithmic states of exception, eugenic solutionism and bureaucratic cruelty. <a href="https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
+## Supplemental Information
+
 ### Mailing List
 
 The easiest way to **subscribe** to the `technopolitics-of-fronts` list is to send an email to: `technopolitics-of-fronts-subscribe@lists.riseup.net`. Make sure that the account you are sending the email from is the one you want to subscribe to the list.
 
 If you are unable to send the confirmation email from the same address you used to subscribe, you will need to use a different method. Follow these esay steps: https://riseup.net/en/lists/list-user/subscribing#how-do-i-subscribe-to-a-list.
-
-## Supplemental Information
-
-### Support
-
-`berlinluddites-subscribe@lists.riseup.net`: The [“berlinluddites”](https://lists.riseup.net/www/info/berlinluddites) list is used to announce meetings in Berlin around the topic of luddism, aka resisting the established narratives on tech in order to shape a better future.
 
 [^1]: Alk, H. (Director) (1971) The Murder of Fred Hampton. Chicago, IL: The Film Group.
 
