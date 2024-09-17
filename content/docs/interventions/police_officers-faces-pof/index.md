@@ -5,7 +5,7 @@ description: This is a large-scale face recognition dataset comprising approxima
 bookToc: false
 url: /police_officers-faces-pof
 date: 2024-06-17
-modified: 2024-08-20
+modified: 2024-09-17
 Tags: ['Counter Surveillance', 'Scrapism', 'Copwatch', 'Social Engineering', 'OSINT', 'Artivism', 'Data', 'Face recognition', 'Counter-Intelligence', 'Social Justice', 'Police', 'Cops', 'Police Officers', 'Dataset', 'AI', 'Headshot', 'Prefigurative Techno-Politics', 'ASRG', 'Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -70,13 +70,13 @@ The Police Officers Faces (POF) dataset is a compilation of thousands of facial 
 Any entity using this dataset agrees to the following terms and conditions.
 
 {{< hint danger >}}
-- **Non-Commercial Use**: This dataset and its subsets may only be used for non-commercial research purposes only. It is strictly forbidden to reproduce, duplicate, copy, sell, trade, resell or exploit, directly or indirectly, any part of the images and any part of the derived data for direct or indirect commercial purposes.
+- **Non-Commercial Use**: The dataset and its subsets are available for non-commercial research purposes only. It is strictly prohibited to reproduce, duplicate, copy, sell, trade, resell or exploit, directly or indirectly, any part of the images and any part of the derived data for commercial purposes.
 
-- **No Warranty**: The dataset is provided “as is” and any express or implied warranties are disclaimed. You are solely responsible for your use of the dataset, and you assume any risks associated with exercising the rights granted by this licence. The administrator of the Police Officers Faces (POF) dataset cannot be held responsible for any damage (physical, financial or otherwise) caused by the use of the database.
+- **No Warranty**: The dataset is provided without any express or implied warranties. The user is solely responsible for their utilisation of the dataset and assumes any risks associated with the exercise of the rights granted by this licence. It should be noted that the administrator of the Police Officers Faces (POF) dataset cannot be held responsible for any damage (physical, financial or otherwise) caused by the utilisation of the dataset.
 
-- **No Distribution**: You may not allowed to sublicense or distribute the dataset in whole or in part to any third party, in any way or by any means. This includes any redistribution, publication, copying or dissemination to any organisation, company or individual.
+- **No Distribution**: It is not permitted to sublicense or distribute the dataset in whole or in part to any third party, in any way or by any means. This includes any redistribution, publication, copying or dissemination to any organisation, company or individual.
 
-- **No Modification**: You may not allowed to modify the dataset in any way.
+- **No Modification**: It is not permitted to modify the dataset in any way.
 {{< /hint >}}
 
 ## Supplemental Information
