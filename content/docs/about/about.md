@@ -19,17 +19,17 @@ The Algorithmic Sabotage Research Group (ASRG) contributes to collective emancip
 
 ## Research Questions
 
-The framework within which the Algorithmic Sabotage Research Group (ASRG) operates is related to the analysis of the concept of “algorithmic sabotage” as a means of consciously working on artistic and techno-political strategies and aesthetics against the authoritarian patriarcho-colonial Big Tech and the algorithmic totalitarianism of techno-bourgeois domination, focusing on artistic-activist resistances that can express a different mentality, a collective “counter-intelligence”.
+The framework within which the Algorithmic Sabotage Research Group (ASRG) operates is related to the analysis of the concept of “Algorithmic Sabotage” as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism.
 
 The research is guided by the following questions:
 
-- How can “algorithmic sabotage”, art and activism be combined to challenge and resist the paradigm of an all-controlling and regulating technology?
+- How can “Algorithmic Sabotage”, art and activism be combined to challenge and resist the paradigm of an all-controlling and regulating technology?
 
-- How does technological disobedience through “algorithmic sabotage” contribute to new forms of action, digital tools and content?
+- How does technological disobedience through “Algorithmic Sabotage” contribute to new forms of action, digital tools and content?
 
-- Acknowledging that refusal has a technopolitics: what are the wider implications of “algorithmic sabotage” as an act of dissent and refusal for politics, society and the arts?
+- Acknowledging that refusal has a technopolitics: what are the wider implications of “Algorithmic Sabotage” as an act of dissent and refusal for politics, society and the arts?
 
-- How can “algorithmic sabotage” through artistic activism, strengthen self-organised and technologically-based tactics of producing justice and promoting accountability?
+- How can “Algorithmic Sabotage” through artistic activism, strengthen self-organised and technologically-based tactics of producing justice and promoting accountability?
 
 ***
 
@@ -56,6 +56,12 @@ Please be advised that our presence on <a rel="me" href="https://tldr.nettime.or
 #### Messaging
 
 We utilise [Signal](https://signal.org/) for the purpose of private messaging. Should you wish to send us a message, you are invited to do so via the following email address: `x7kekmg7@proton.me`. Please include your Signal number or username in the message, and we shall take it from there.
+
+### Support Us
+
+#### Support Us With Your Skills
+
+Should you wish to express your interest in contributing your particular skills and expertise to our research and forthcoming interventions, we would be grateful if you could send us an email at `x7kekmg7@proton.me`. In your message, please indicate the specific skills you possess and how you believe you can assist. We will contact you at the appropriate time to discuss your potential involvement in greater detail.
 
 ### About this Site
 

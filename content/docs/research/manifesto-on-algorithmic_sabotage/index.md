@@ -5,7 +5,7 @@ description: A preliminary version of 10 statements, numbered 0 to 9, on the pri
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-08-30
+modified: 2024-09-19
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -375,6 +375,36 @@ _Athene, Mei 2024_
 9. “Algoritmische Sabotage” is een emancipatoire verdediging van de noodzaak voor een gemeenschappelijke beperking van schadelijke technologie, een strijd tegen de abstracte scheiding tussen “boven” en “onder” door het algoritme.
 
 <span style="color:grey">Translated into Dutch by harm of https://dstet.zone/.</span>
+
+ {{< /tab >}}
+ 
+ {{< tab "HU" >}} 
+
+### Manifesztum az „algoritmikus szabotázsról”
+
+_Athén, 2024 Május_
+
+0. Az „Algoritmikus szabotázs” a technológiai engedetlenség figurája a technológia-kritikából hiányzó militancia számára.
+
+1. Az „algoritmikus szabotázs” a technológia iránti atavisztikus ellenszenv helyett inkább az ellenhatalom egyik formájaként értelmezhető, amely az azt használó közösség erejéből fakad.
+
+2. Az „Algoritmikus szabotázs” átvágja a nyomorúságból táplálkozó kapitalista ideológiai keretet azáltal, hogy felforgató munkát végez a jelenben, lebontja az algoritmikus uralom kortárs formáit, és visszaszerzi az etikus cselekvés tereit az általános gondolatlanságtól és automatizmustól.
+
+3. Az „algoritmikus szabotázs” a szolidaritás iránti cselekvésorientált elkötelezettség, amely megelőz minden társadalmi, jogi vagy algoritmikus osztályozási rendszert.
+
+4. Az „Algoritmikus szabotázs” egy szélesebb körű társadalmi autonómia mozgalom strukturális megújulásának része, amely vad, közvetlen akciókkal száll szembe a hegemón technológia rablásaival, tudatosan igazodva a társadalmi igazságosság és egalitarizmus eszméihez.
+
+5. Az „Algoritmikus szabotázs” radikálisan átdolgozza technopolitikai berendezkedésünket az „algoritmikus birodalomban” rejlő strukturális igazságtalanságoktól, felsőbbrendűségi perspektíváktól és nekropolitikai tekintélyelvű hatalomtól, kiemelve annak anyagiságát és következményeit mind a szén-dioxid-kibocsátás, mind az ellenőrzés központosítása szempontjából.
+
+6. Az „Algoritmikus szabotázs” elutasítja a hatalom és a profitmaximalizálás érdekében történő algoritmikus megalázást, a kölcsönös segítségnyújtás és szolidaritás tevékenységére összpontosítva.
+
+7. A technopolitika első lépése nem technológiai, hanem politikai. A radikális feminista, antifasiszta és dekolonialista perspektívák politikai kihívást jelentenek az „algoritmikus szabotázs” ellen, az egymásrautaltság és a kollektív gondoskodás kérdéseinek felvetése az „algoritmikus birodalom” reduktív optimalizálásával szemben.
+
+8. Az „Algoritmikus szabotázs” az algoritmikus erőszak és a fasiszta techno-megoldás ellen küzd, olyan művészi-aktivista ellenállásra összpontosítva, amely egy másik mentalitást, egy kollektív „ellen-intelligenciát” képes kifejezni.
+
+9. Az „Algoritmikus szabotázs” a káros technológia közösségi korlátozásának szükségességének emancipációs védelme, harc az algoritmus „felett” és „alatt” történő elvont elkülönítése ellen.
+
+<span style="color:grey">The Hungarian translation was produced by an individual who has chosen to remain anonymous.</span>
 
  {{< /tab >}}
 {{< /tabs >}}
