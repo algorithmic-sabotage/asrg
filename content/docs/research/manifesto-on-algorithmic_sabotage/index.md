@@ -83,29 +83,29 @@ _Αθήνα, Μάιος 2024_
  {{< /tab >}}
 {{< tab "DE" >}} 
 
-### Manifest Zur “Algorithmischen Sabotage”
+### Manifest zur „Algorithmischen Sabotage“
 
-_Athen, Mai 2024_
+_Athen, März 2024_
 
-0. “Algorithmische Sabotage” ist eine Form des technologischen Ungehorsams, der Militanz, welche in der Technologiekritik abwesend ist.
+0. „Algorithmische Sabotage“ ist eine Form des technologischen Ungehorsams, der Militanz, welche in der Technologiekritik abwesend ist.
 
-1. Anstatt einer atavistischen Abneigung gegenüber der Technologie, kann die “Algorithmische Sabotage” als eine Gegenmacht verstanden werden, welche durch die Stärke der Gemeinschaft hervortritt, die diese praktiziert.
+1. Anstatt einer atavistischen Abneigung gegenüber der Technologie, kann die „Algorithmische Sabotage“ als eine Gegenmacht verstanden werden, welche durch die Stärke der Gemeinschaft hervortritt, die diese praktiziert.
 
-2. “Algorithmische Sabotage” durchkreuzt die kapitalistisch-ideologische Rahmenordnung, die auf Not und Elend gedeiht, indem sie gegenwärtige Formen der algorithmischen Herrschaft demontiert und Räume für ethisches Handeln, statt allgemeiner Gedankenlosigkeit und Automatismus, zurückgewinnt.
+2. „Algorithmische Sabotage“ durchkreuzt die kapitalistisch-ideologische Rahmenordnung, die auf Not und Elend gedeiht, indem sie gegenwärtige Formen der algorithmischen Herrschaft demontiert und Räume für ethisches Handeln, statt allgemeiner Gedankenlosigkeit und Automatismus, zurückgewinnt.
 
-3. “Algorithmische Sabotage” ist ein handlungsorientiertes Engagement für Solidarität, das jedem System der sozialen, rechtlichen oder algorithmischen Klassifizierung vorausgeht.
-    
-4. “Algorithmische Sabotage” ist ein Teil einer strukturellen Erneuerung einer breit gefächerten Bewegung für soziale Autonomie, die sich der räuberischen hegemonialen Technologie durch wilde direkte Aktionen entgegenstellt und sich bewusst an Idealen der sozialen Gerechtigkeit und des Egalitarismus ausrichtet.
-    
-5. “Algorithmische Sabotage” überarbeitet radikal unsere technologischen Arrangements, weg von strukturellen Ungerechtigkeiten, Vorherrschafts-Perspektiven und nekropolitisch-autoritärer Macht, die in das “Algorithmische Empire” eingewoben sind und verdeutlicht seine Materialität und Konsequenzen, sowohl in Bezug auf die Kohlenstoffemissionen als auch der Zentralisation der Kontrolle.
+3. „Algorithmische Sabotage“ ist ein handlungsorientiertes Engagement für Solidarität, das jedem System der sozialen, rechtlichen oder algorithmischen Klassifizierung vorausgeht.
 
-6. “Algorithmische Sabotage” lehnt die algorithmische Erniedrigung für Macht und Profitmaximierung ab und fokussiert sich auf Aktivitäten der gegenseitigen Hilfe und Solidarität.
+4. „Algorithmische Sabotage“ ist ein Teil einer strukturellen Erneuerung einer breit gefächerten Bewegung für soziale Autonomie, die sich der räuberischen hegemonialen Technologie durch wilde direkte Aktionen entgegenstellt und sich bewusst an Idealen der sozialen Gerechtigkeit und des Egalitarismus ausrichtet.
 
-7. Der erste Schritt der Techno-Politik ist nicht technologisch, sondern politisch. Radikale feministische, antifaschistische und dekoloniale Perspektiven sind eine politische Herausforderung für die “Algorithmische Sabotage”, die die Angelegenheiten der wechselseitigen Abhängigkeit und der kollektiven Fürsorge, gegen die reduktiven Optimierungen des “Algorithmischen Empire” stellt.
-    
-8. “Algorithmische Sabotage” kämpft gegen algorithmische Gewalt und faschistischen Techno-Solutionismus, mit Fokus auf künstlerisch-aktivistischen Widerstand, welcher eine andere Mentalität zum Ausdruck bringen kann, eine Art kollektive “Spionage-Abwehr”.
-    
-9. “Algorithmische Sabotage” ist eine emanzipatorische Verteidigung der Notwendigkeit zur gemeinschaftlichen Eindämmung schädlicher Technologie, ein Kampf gegen die abstrakte Trennung in “oben” und “unten” durch den Algorithmus.
+5. „Algorithmische Sabotage“ überarbeitet radikal unsere technologischen Arrangements, weg von strukturellen Ungerechtigkeiten, Vorherrschafts-Perspektiven und nekropolitisch-autoritärer Macht, die in das „Algorithmische Empire“ eingewoben sind und verdeutlicht seine Materialität und Konsequenzen, sowohl in Bezug auf die Kohlenstoffemissionen als auch der Zentralisation der Kontrolle.
+
+6. „Algorithmische Sabotage“ lehnt die algorithmische Erniedrigung für Macht und Profitmaximierung ab und fokussiert sich auf Aktivitäten der gegenseitigen Hilfe und Solidarität.
+
+7. Der erste Schritt der Techno-Politik ist nicht technologisch, sondern politisch. Radikale feministische, antifaschistische und dekoloniale Perspektiven sind eine politische Herausforderung für die „Algorithmische Sabotage“, die die Angelegenheiten der wechselseitigen Abhängigkeit und der kollektiven Fürsorge, gegen die reduktiven Optimierungen des „Algorithmischen Empire“ stellt.
+
+8. „Algorithmische Sabotage“ kämpft gegen algorithmische Gewalt und faschistischen Techno-Solutionismus, mit Fokus auf künstlerisch-aktivistischen Widerstand, welcher eine andere Mentalität zum Ausdruck bringen kann, eine Art kollektive „Spionage-Abwehr“.
+
+9. „Algorithmische Sabotage“ ist eine emanzipatorische Verteidigung der Notwendigkeit zur gemeinschaftlichen Eindämmung schädlicher Technologie, ein Kampf gegen die abstrakte Trennung in „oben“ und „unten“ durch den Algorithmus.
 
 <span style="color:grey">Translated into German by Tula.</span>
 
@@ -205,13 +205,13 @@ _2024年5月，雅典_
 
 _Atenas, mayo de 2024_
 
-0. “El ‘Sabotaje Algorítmico’ es una figura de techno-desobediencia para la militancia que está ausente en la crítica a la tecnología.
+0. El “Sabotaje Algorítmico” es una figura de techno-desobediencia para la militancia que está ausente en la crítica a la tecnología.
 
 1. En vez de una aversión atávica a la tecnología, el “Sabotaje Algorítmico” puede ser leido como una forma de contrapoder que emerge de la fuerza de la comunidad que lo ejerce.
 
 2. El “Sabotaje Algorítmico” atraviesa el marco ideológico capitalista que florece en la miseria, realizando un trabajo de subversión en el presente, desmantelando las formas contemporáneas de dominación algorítmica y reclamando espacios para la acción ética ante la desidia y la automaticidad generalizadas.
 
-3. "Sabotaje algorítmico" es un compromiso de solidaridad orientado a la acción que precede a cualquier sistema de clasificación social, jurídico o algorítmico.
+3. "Sabotaje Algorítmico" es un compromiso de solidaridad orientado a la acción que precede a cualquier sistema de clasificación social, jurídico o algorítmico.
 
 4. El “Sabotaje Algorítmico” forma parte de la renovación estructural de un movimiento más amplio por la autonomía social que se opone a las depredaciones de la tecnología hegemónica mediante la acción directa salvaje, conscientemente alineada con ideales de justicia social e igualitarismo.
 
@@ -295,25 +295,25 @@ _أثينا، أيار-مايو، 2024_
 
 _Aten, Maj 2024_
 
-0. “Algoritmiskt sabotage” är en militant form av tekno-olydnad som fattas i teknikkritik.
+0. “Algoritmiskt Sabotage” är en militant form av tekno-olydnad som fattas i teknikkritik.
 
-1. Snarare än en atavistisk aversion till teknologi kan “algoritmiskt sabotage” förstås som en form av motmakt som uppstår ur styrkan hos gemenskapheterna som praktiserar det.
+1. Snarare än en atavistisk aversion till teknologi kan “Algoritmiskt Sabotage” förstås som en form av motmakt som uppstår ur styrkan hos gemenskapheterna som praktiserar det.
 
-2. “Algoritmiskt sabotage” skär igenom det ur misär groende kapitalistiska ideologiska ramverket, genom att med ett subversivt arbete i samtiden nedmontera existerande former av algoritmisk dominans och återta utrymme(n) för etiskt agerande från en generaliserad tankelöshet och automatisering.
+2. “Algoritmiskt Sabotage” skär igenom det ur misär groende kapitalistiska ideologiska ramverket, genom att med ett subversivt arbete i samtiden nedmontera existerande former av algoritmisk dominans och återta utrymme(n) för etiskt agerande från en generaliserad tankelöshet och automatisering.
 
-3. “Algoritmiskt sabotage” är ett aktionsorienterat löfte om solidaritet som föregår alla sociala, legala och algoritmiska klassificeringssystem.
+3. “Algoritmiskt Sabotage” är ett aktionsorienterat löfte om solidaritet som föregår alla sociala, legala och algoritmiska klassificeringssystem.
 
-4. “Algoritmiskt sabotage” är en del av en strukturell förnyelse av en bredare rörelse för social autonomi som genom vild och oberoende direkt aktion motsätter sig hegemonins teknologi och dess rovdrifter, i medveten samklang med ideal som social rättvisa och jämlikhet.
+4. “Algoritmiskt Sabotage” är en del av en strukturell förnyelse av en bredare rörelse för social autonomi som genom vild och oberoende direkt aktion motsätter sig hegemonins teknologi och dess rovdrifter, i medveten samklang med ideal som social rättvisa och jämlikhet.
 
-5. “Algoritmiskt sabotage” omdanar radikalt våra teknopolitiska konstruktioner bort från de strukturella orättvisor, överhöghetsperspektiv, och nekropolitiska auktoritära maktstrukturer som är inbakade i det "algoritmiska imperiet", och tar ett särskilt fokus på att påvisa dess materialitet och konsekvenser i termer både av koldioxidutsläpp och centralisering av kontroll.
+5. “Algoritmiskt Sabotage” omdanar radikalt våra teknopolitiska konstruktioner bort från de strukturella orättvisor, överhöghetsperspektiv, och nekropolitiska auktoritära maktstrukturer som är inbakade i det "algoritmiska imperiet", och tar ett särskilt fokus på att påvisa dess materialitet och konsekvenser i termer både av koldioxidutsläpp och centralisering av kontroll.
 
-6. “Algoritmiskt sabotage” avvisar algoritmisk förnedring motiverad av makt och profitmaximering, och fokuserar på ömsesidig hjälp och solidaritet.
+6. “Algoritmiskt Sabotage” avvisar algoritmisk förnedring motiverad av makt och profitmaximering, och fokuserar på ömsesidig hjälp och solidaritet.
 
-7. Det första steget i teknopolitik är inte tekniskt utan politiskt. Radikalfeministiska, antifascistiska och dekoloniala perspektiv är en politisk utmaning för “algoritmiskt sabotage”, som ställer ömsesidigt beroende och kollektiv omsorg mot det "algoritmiska imperiets" reduktiva optimeringar.
+7. Det första steget i teknopolitik är inte tekniskt utan politiskt. Radikalfeministiska, antifascistiska och dekoloniala perspektiv är en politisk utmaning för “Algoritmiskt Sabotage”, som ställer ömsesidigt beroende och kollektiv omsorg mot det "algoritmiska imperiets" reduktiva optimeringar.
 
-8. “Algoritmiskt sabotage” kämpar mot algoritmiskt våld och fascistisk teknosolutionism, och fokuserar på artistisk-aktivistiskt motstånd som kan uttrycka en annan mentalitet: en kollektiv 'motintelligens'
+8. “Algoritmiskt Sabotage” kämpar mot algoritmiskt våld och fascistisk teknosolutionism, och fokuserar på artistisk-aktivistiskt motstånd som kan uttrycka en annan mentalitet: en kollektiv 'motintelligens'
 
-9. “Algoritmiskt sabotage” är ett befriande försvar av det gemensamma behovet av begränsningar på skadlig teknologi: en kamp mot den abstrakta uppdelningen mellan de 'ovan' och 'under' algoritmen.
+9. “Algoritmiskt Sabotage” är ett befriande försvar av det gemensamma behovet av begränsningar på skadlig teknologi: en kamp mot den abstrakta uppdelningen mellan de 'ovan' och 'under' algoritmen.
 
 <span style="color:grey">Translated into Swedish by Petter Ericson (Umeå, Augusti 2024).</span>
 
@@ -384,25 +384,25 @@ _Athene, Mei 2024_
 
 _Athén, 2024 Május_
 
-0. Az „Algoritmikus szabotázs” a technológiai engedetlenség figurája a technológia-kritikából hiányzó militancia számára.
+0. Az „Algoritmikus Szabotázs” a technológiai engedetlenség figurája a technológia-kritikából hiányzó militancia számára.
 
-1. Az „algoritmikus szabotázs” a technológia iránti atavisztikus ellenszenv helyett inkább az ellenhatalom egyik formájaként értelmezhető, amely az azt használó közösség erejéből fakad.
+1. Az „Algoritmikus Szabotázs” a technológia iránti atavisztikus ellenszenv helyett inkább az ellenhatalom egyik formájaként értelmezhető, amely az azt használó közösség erejéből fakad.
 
-2. Az „Algoritmikus szabotázs” átvágja a nyomorúságból táplálkozó kapitalista ideológiai keretet azáltal, hogy felforgató munkát végez a jelenben, lebontja az algoritmikus uralom kortárs formáit, és visszaszerzi az etikus cselekvés tereit az általános gondolatlanságtól és automatizmustól.
+2. Az „Algoritmikus Szabotázs” átvágja a nyomorúságból táplálkozó kapitalista ideológiai keretet azáltal, hogy felforgató munkát végez a jelenben, lebontja az algoritmikus uralom kortárs formáit, és visszaszerzi az etikus cselekvés tereit az általános gondolatlanságtól és automatizmustól.
 
-3. Az „algoritmikus szabotázs” a szolidaritás iránti cselekvésorientált elkötelezettség, amely megelőz minden társadalmi, jogi vagy algoritmikus osztályozási rendszert.
+3. Az „Algoritmikus Szabotázs” a szolidaritás iránti cselekvésorientált elkötelezettség, amely megelőz minden társadalmi, jogi vagy algoritmikus osztályozási rendszert.
 
-4. Az „Algoritmikus szabotázs” egy szélesebb körű társadalmi autonómia mozgalom strukturális megújulásának része, amely vad, közvetlen akciókkal száll szembe a hegemón technológia rablásaival, tudatosan igazodva a társadalmi igazságosság és egalitarizmus eszméihez.
+4. Az „Algoritmikus Szabotázs” egy szélesebb körű társadalmi autonómia mozgalom strukturális megújulásának része, amely vad, közvetlen akciókkal száll szembe a hegemón technológia rablásaival, tudatosan igazodva a társadalmi igazságosság és egalitarizmus eszméihez.
 
-5. Az „Algoritmikus szabotázs” radikálisan átdolgozza technopolitikai berendezkedésünket az „algoritmikus birodalomban” rejlő strukturális igazságtalanságoktól, felsőbbrendűségi perspektíváktól és nekropolitikai tekintélyelvű hatalomtól, kiemelve annak anyagiságát és következményeit mind a szén-dioxid-kibocsátás, mind az ellenőrzés központosítása szempontjából.
+5. Az „Algoritmikus Szabotázs” radikálisan átdolgozza technopolitikai berendezkedésünket az „algoritmikus birodalomban” rejlő strukturális igazságtalanságoktól, felsőbbrendűségi perspektíváktól és nekropolitikai tekintélyelvű hatalomtól, kiemelve annak anyagiságát és következményeit mind a szén-dioxid-kibocsátás, mind az ellenőrzés központosítása szempontjából.
 
-6. Az „Algoritmikus szabotázs” elutasítja a hatalom és a profitmaximalizálás érdekében történő algoritmikus megalázást, a kölcsönös segítségnyújtás és szolidaritás tevékenységére összpontosítva.
+6. Az „Algoritmikus Szabotázs” elutasítja a hatalom és a profitmaximalizálás érdekében történő algoritmikus megalázást, a kölcsönös segítségnyújtás és szolidaritás tevékenységére összpontosítva.
 
-7. A technopolitika első lépése nem technológiai, hanem politikai. A radikális feminista, antifasiszta és dekolonialista perspektívák politikai kihívást jelentenek az „algoritmikus szabotázs” ellen, az egymásrautaltság és a kollektív gondoskodás kérdéseinek felvetése az „algoritmikus birodalom” reduktív optimalizálásával szemben.
+7. A technopolitika első lépése nem technológiai, hanem politikai. A radikális feminista, antifasiszta és dekolonialista perspektívák politikai kihívást jelentenek az „Algoritmikus Szabotázs” ellen, az egymásrautaltság és a kollektív gondoskodás kérdéseinek felvetése az „algoritmikus birodalom” reduktív optimalizálásával szemben.
 
-8. Az „Algoritmikus szabotázs” az algoritmikus erőszak és a fasiszta techno-megoldás ellen küzd, olyan művészi-aktivista ellenállásra összpontosítva, amely egy másik mentalitást, egy kollektív „ellen-intelligenciát” képes kifejezni.
+8. Az „Algoritmikus Szabotázs” az algoritmikus erőszak és a fasiszta techno-megoldás ellen küzd, olyan művészi-aktivista ellenállásra összpontosítva, amely egy másik mentalitást, egy kollektív „ellen-intelligenciát” képes kifejezni.
 
-9. Az „Algoritmikus szabotázs” a káros technológia közösségi korlátozásának szükségességének emancipációs védelme, harc az algoritmus „felett” és „alatt” történő elvont elkülönítése ellen.
+9. Az „Algoritmikus Szabotázs” a káros technológia közösségi korlátozásának szükségességének emancipációs védelme, harc az algoritmus „felett” és „alatt” történő elvont elkülönítése ellen.
 
 <span style="color:grey">The Hungarian translation was produced by an individual who has chosen to remain anonymous.</span>
 
@@ -443,4 +443,4 @@ We kindly request that you forward the translation file, accompanied by the lang
 
 - Alkhatib, A. (2024) Destroy AI. Available at: https://ali-alkhatib.com/blog/fuck-up-ai.
 
-- Mardi Informel de La Générale: La générale: Laboratoire Artistique Politique et Social. La Générale. (n.d.). Available at: https://www.lagenerale.fr/fr/projet/mardi-informel-de-la-generale-33827.
+- Mardi Informel de La Générale: La générale: Laboratoire Artistique Politique et Social. La Générale. (n.d.). Available at: https://www.lagenerale.fr/fr/projet/mardi-informel-de-la-generale-33827.Manifest
