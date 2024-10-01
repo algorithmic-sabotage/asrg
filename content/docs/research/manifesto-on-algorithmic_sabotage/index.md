@@ -5,7 +5,7 @@ description: A preliminary version of 10 statements, numbered 0 to 9, on the pri
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-09-19
+modified: 2024-10-01
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -142,7 +142,7 @@ _Atenas, Maio 2024_
  
  {{< tab "FR" >}} 
 
-### Manifeste du « Sabotage algorithmique »
+### Manifeste du « Sabotage Algorithmique »
 
 _Athènes, Mai 2024_
 
@@ -291,7 +291,7 @@ _أثينا، أيار-مايو، 2024_
  
  {{< tab "SV" >}} 
 
-### Manifest om “Algoritmiskt sabotage”
+### Manifest om “Algoritmiskt Sabotage”
 
 _Aten, Maj 2024_
 
@@ -350,7 +350,7 @@ _Atene, Maggio 2024_
 
  {{< tab "NL" >}} 
 
-### Manifest voor "Algoritmische sabotage"
+### Manifest voor "Algoritmische Sabotage"
 
 _Athene, Mei 2024_
 
@@ -380,7 +380,7 @@ _Athene, Mei 2024_
  
  {{< tab "HU" >}} 
 
-### Manifesztum az „algoritmikus szabotázsról”
+### Manifesztum az „Algoritmikus Szabotázsról”
 
 _Athén, 2024 Május_
 
@@ -407,6 +407,65 @@ _Athén, 2024 Május_
 <span style="color:grey">The Hungarian translation was produced by an individual who has chosen to remain anonymous.</span>
 
  {{< /tab >}}
+  {{< tab "PL" >}} 
+
+### Manifest w sprawie „Algorytmicznego Sabotażu”
+
+_Ateny, Maj 2024_
+
+0. „Algorytmicznego Sabotażu” jest figurą techno-nieposłuszeństwa dla bojowości, której brakuje w krytyce technologii.
+
+1. Zamiast atawistycznej niechęci do technologii, „Algorytmicznego Sabotażu” można odczytać jako formę przeciwwładzy, która wyłania się z siły społeczności, która nią włada.
+
+2. „Algorytmicznego Sabotażu” przecina kapitalistyczne ramy ideologiczne, które rozwijają się na nieszczęściu, wykonując pracę wywrotową w teraźniejszości, demontując współczesne formy algorytmicznej dominacji i odzyskując przestrzenie dla etycznego działania z uogólnionej bezmyślności i automatyzmu.
+
+3. „Algorytmicznego Sabotażu” to zorientowane na działanie zobowiązanie do solidarności, które poprzedza jakikolwiek system klasyfikacji społecznej, prawnej lub algorytmicznej.
+
+4. „Algorytmicznego Sabotażu” jest częścią strukturalnej odnowy szerszego ruchu na rzecz autonomii społecznej, który sprzeciwia się drapieżnictwu hegemonicznej technologii poprzez dzikie akcje bezpośrednie, świadomie dostosowując się do ideałów sprawiedliwości społecznej i egalitaryzmu.
+
+5. „Algorytmicznego Sabotażu” radykalnie przekształca nasze technopolityczne ustalenia z dala od strukturalnych niesprawiedliwości, supremacjonistycznych perspektyw i nekropolitycznej autorytarnej władzy, które są częścią »algorytmicznego imperium«, podkreślając jego materialność i konsekwencje zarówno pod względem emisji dwutlenku węgla, jak i centralizacji kontroli.
+
+6. „Algorytmicznego Sabotażu” odrzuca algorytmiczne upokarzanie dla władzy i maksymalizacji zysków, koncentrując się na działaniach wzajemnej pomocy i solidarności.
+
+7. Pierwszy krok technopolityki nie jest technologiczny, lecz polityczny. Radykalne feministyczne, antyfaszystowskie i dekolonialne perspektywy stanowią polityczne wyzwanie dla „Algorytmicznego Sabotażu”, stawiając kwestie współzależności i zbiorowej troski przeciwko redukcyjnym optymalizacjom „algorytmicznego imperium”.
+
+8. „Algorytmicznego Sabotażu” walczy z algorytmiczną przemocą i faszystowskim techno-rozwiązaniem, koncentrując się na artystyczno-aktywistycznym oporze, który może wyrażać inną mentalność, zbiorowy »kontrwywiad«.
+
+9. „Algorytmicznego Sabotażu” to emancypacyjna obrona potrzeby wspólnotowego ograniczenia szkodliwej technologii, walka z abstrakcyjną segregacją „powyżej” i „poniżej” algorytmu.
+
+<span style="color:grey">The Polish translation was prepared by Anastazja Sękowska.</span>
+
+ {{< /tab >}}
+{{< tab "CA" >}} 
+
+### Manifest sobre el “Sabotatge Algorítmic”
+
+_Atenes, maig de 2024_
+
+0. El "sabotatge algorítmic" és una figura de tecno-desobediència per a la militància que està absent a la crítica tecnològica.
+
+1. Més que una aversió atàvica a la tecnologia, el "sabotatge algorítmic" es pot llegir com una forma de contrapoder que sorgeix de la força de la comunitat que l'exerceix.
+
+2. El "sabotatge algorítmic" travessa el marc ideològic capitalista que s'alimenta de la misèria fent un treball de subversió en el present, desmantellant les formes contemporànies de dominació algorítmica i recuperant espais per a l'acció ètica de la manca de reflexió i automaticitat generalitzades.
+
+3. El "sabotatge algorítmic" és un compromís de solidaritat orientat a l'acció que precedeix qualsevol sistema de classificació social, legal o algorítmica.
+
+4. El "sabotatge algorítmic" forma part d'una renovació estructural d'un moviment més ampli per l'autonomia social que s'oposa als atacs de la tecnologia hegemònica mitjançant l'acció directa salvatge, conscientment alineada amb els ideals de justícia social i igualitarisme.
+
+5. El "sabotatge algorítmic" reelabora radicalment els nostres pactes tecnopolítics lluny de les injustícies estructurals, les perspectives supremacistes i el poder autoritari necropolític sumats a l'"imperi algorítmic", destacant la seva materialitat i conseqüències tant en termes d'emissions de carboni com de centralització del control.
+
+6. El "sabotatge algorítmic" rebutja la humiliació algorítmica per maximitzar el poder i els beneficis, centrant-se en activitats d'ajuda mútua i solidaritat.
+
+7. El primer pas de la tecnopolítica no és tecnològic sinó polític. Les perspectives feministes radicals, antifeixistes i descolonials són un repte polític pel "sabotatge algorítmic", situant les qüestions d'interdependència i cures col·lectives contra les optimitzacions reduccionistes de l'"imperi algorítmic".
+
+8. El "sabotatge algorítmic" lluita contra la violència algorítmica i el tecnosolucionisme feixista, centrant-se en resistències artístico-activistes que poden expressar una mentalitat diferent, una "contraintel·ligència" col·lectiva.
+
+9. El "sabotatge algorítmic" és una defensa emancipadora de la necessitat d'un control comunitari de la tecnologia nociva, una lluita contra la segregació abstracta "per sobre" i "per sota" de l'algoritme.
+
+<span style="color:grey">The Catalan translation was prepared by [Monica](https://mastodon.social/@monica@ieji.de).</span>
+
+ {{< /tab >}}
+
 {{< /tabs >}}
 
 ## Supplemental Information
@@ -443,4 +502,7 @@ We kindly request that you forward the translation file, accompanied by the lang
 
 - Alkhatib, A. (2024) Destroy AI. Available at: https://ali-alkhatib.com/blog/fuck-up-ai.
 
-- Mardi Informel de La Générale: La générale: Laboratoire Artistique Politique et Social. La Générale. (n.d.). Available at: https://www.lagenerale.fr/fr/projet/mardi-informel-de-la-generale-33827.Manifest
+- Labomedia (2024) Le Mardi 23 juillet 2024 : Participation à l’atelier du mardi informel de la générale à propos du manifeste du sabotage algorithmique, Labomedia. Available at: https://labomedia.org/le-mardi-23-juillet-2024-participation-a-latelier-du-mardi-informel-de-la-generale-a-propos-du-manifeste-du-sabotage-algorithmique/.
+
+- Drop #17. Manifesto on Algorithmic Sabotage (2024) REINCANTAMENTO Drops. Available at: https://reincantamentox.substack.com/p/drop-17-manifesto-on-algorithmic?utm_source=profile&utm_medium=reader2.
+
