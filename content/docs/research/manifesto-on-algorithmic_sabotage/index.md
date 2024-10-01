@@ -465,6 +465,35 @@ _Atenes, maig de 2024_
 <span style="color:grey">The Catalan translation was prepared by [Monica](https://mastodon.social/@monica@ieji.de).</span>
 
  {{< /tab >}}
+{{< tab "MS" >}} 
+
+### Manifesto “Sabotaj Algoritmik”
+
+_Athens, Mei 2024_
+
+0. “Sabotaj Algoritmik” adalah sebuah bentuk tekno-keingkaran buat militansi yang kini tiada dalam kritik teknologi.
+
+1. Bertentangan dengan sikap ketidakmahuan sama teknologi yang atavistik, “Sabotaj Algoritmik” boleh di pelajari sebagai bentuk balas kuasa yang muncul daripada semangat komuniti yang memegangnya
+
+2. “Sabotaj Algoritmik” memotong terus rangka kerja ideologi kapitalis yang berkembang dalam kesengsaraan secara melaksanakan tindakan subversif dalam masa kini, menghapuskan bentuk-bentuk algortimik penguasaan kontemporari dan menuntut semula ruang-ruang untuk tindakan beretika daripada sifat ketidakberfikiran dan sifat automatik.
+
+3. “Sabotaj Algoritmik” adalah sebuah komitmen berorientasikan tindakan kepada perpaduan yang mendahului segala sistem sosial, undang-undang atau pengelasan algoritmik.
+
+4. “Sabotaj Algoritmik” adalah sebahagian daripada gerakan yang lebih luas mengenai pembaharuan struktur untuk autonomi sosial yang menentang pemangsaan teknologi hegemoni melalui mogok berisiko, yang secara sedar menyelaraskan dirinya dengan cita-cita keadilan sosial dan egalitarianisme.
+
+5. “Sabotaj Algoritmik” secara radikal mengolah semula pengaturan teknopolitik kami jauh dari ketidakadilan struktur, perspektif supremasi dan kuasa autoritarian nekropolitik yang berlapis ke dalam "empayar algoritma", menyerlahkan materialitinya dan kesannya dari segi pelepasan karbon dan pemusatan kawalan.
+
+6. “Sabotaj Algoritmik” menolak penghinaan algoritmik untuk memaksimumkan kuasa dan keuntungan, malahan ia memberi tumpuan kepada aktiviti “mutual aid” dan perpaduan.
+
+7. Langkah pertama tekno-politik bukan dari segi teknologi tapi dari segi politik. Feminis radikal, anti-fasis dan perspektif dekolonial adalah cabaran politik kepada "Sabotaj Algoritmik”, ia meletakkan hal saling kebergantungan dan penjagaan kolektif yang menentang dengan pengoptimuman reduktif sekadar "empayar algoritmik”.
+
+8. “Sabotaj Algoritmik” berjihad menentang keganasan algoritmik dan tekno-penyelesaian fasis, malah ia menarik perhatian kepada rintangan artistik-aktivis yang boleh mengekspresi mentaliti yang berbeza, iaitu sesuatu ”kepintaran kontra" kolektif.
+
+9. “Sabotaj Algoritmik” adalah sebuah pertahanan emansipatori yang pentingkan batasan komunal teknologi yang berbahaya, jihad menentang pengasingan abstrak yang berada "di atas" dan "di bawah" algoritma.
+
+<span style="color:grey">The Malay translation was prepared by [bani haykal](https://www.banihaykal.info/).</span>
+
+ {{< /tab >}}
 
 {{< /tabs >}}
 
