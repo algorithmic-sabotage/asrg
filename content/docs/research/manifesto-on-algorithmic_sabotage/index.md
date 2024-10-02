@@ -5,7 +5,7 @@ description: A preliminary version of 10 statements, numbered 0 to 9, on the pri
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-10-01
+modified: 2024-10-02
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -494,7 +494,36 @@ _Athens, Mei 2024_
 <span style="color:grey">The Malay translation was prepared by [bani haykal](https://www.banihaykal.info/).</span>
 
  {{< /tab >}}
+ {{< tab "zu-ZA" >}} 
 
+### Uhlelo Lwezibophezelo lwe-“Algorithmic Sabotage”
+
+_E-Athene, kuNhlaba 2024_
+
+0. "I-Algorithmic Sabotage" indlela yokulwa kwezobuchweshephe-mzabalazo engagxili ekugxekweni kobuchwepheshe.
+
+1. Esikhundleni sokwegwema imikhuba yobuchwepheshe, "i-Algorithmic Sabotage" ingabhekwa njengendlela yokuphikisa amandla avela kubaphathi abawasebenzisayo.
+
+2. "I-Algorithmic Sabotage" inqamula uhlaka lwemibono yonxiwankulu oluchumayo osizini ngokwenza umsebenzi wokuketula kulesikhathi samanje, ukudiliza izinhlobo zanamuhla zokubusa kwe-algorithmic kanye nokufuna kabusha izizinda zesenzo sokuziphatha kusukela ekungacabangeni okuvamile kanye nokuzenzela.
+
+3. “I-Algorithmic Sabotage” iwukuzibophezela okugxile esenzweni ebunyeni obandulela noma imuphi umkhondo wokuhlukaniswa kwezenhlalo, ezomthetho noma e-algorithmic.
+
+4. "I-Algorithmic Sabotage" iyingxenye yokuvuselelwa kwesakhiwo somzabalazo obanzi wokuzibusa komphakathi ophikisana nokubikezelwa kobuchwepheshe obufanayo ngendlela eqonde ngqo nenobundlavini obuhlelekile, eqondiswe nokuqaphela nemibono yobulungiswa bezenhlalakahle kanye nokulingana.
+
+5. "I-Algorithmic Sabotage" ilungisa kabusha ingqikithi yezinhlelo zethu zobuchwepheshe nokungabi nobulungiswa kwesakhiwo, imibono yebaphathi namandla ombuso ophethe izimpilo zabantu ngamandla abekwe "embusweni we-algorithmic", igqamisa ukubaluleka kwawo kanye nemiphumela mayelana nokukhiqizwa kwekhabhoni kanye nokuhlanganisa ukulawulwa abafuphi embusweni.
+
+6. "I-Algorithmic Sabotage" yenqaba ukuthotshiswa amandla okwi-algorithmic nokwandisa inzuzo, igxile emisebenzini yokusizana kanye nobumbano.
+
+7. Isinyathelo sokuqala sombusazwe-buchwepheshe akusona esezobuchwepheshe kodwa esezombusazwe. Imibono yomzabalazo, amalungelo abesifazane, ubundlovu-kayiphikiswa kanye nokuqeda incindezelo iyinselelo yezombangazwe ku-"Algorithmic Sabotage", ibeka izindaba zokuthembela komunye nomunye nokunakekelwa okuhlangene ngokumelene nokuthuthukiswa kokunciphisa "umbuso we-algorithmic".
+
+8. "I-Algorithmic Sabotage" ilwa nodlame olu-algorithmic kanye nobundlovu-kayiphikiswa kobuholi obusebenzisa izixazululo-buchwepheshe, igxile ekuphikiseni izishoshovu zobuciko ezingaveza umqondo ohlukile, iqoqo "lokuphikisa ubuhlakani ngobuhlakani".
+
+9. "I-Algorithmic Sabotage" iwukuvikela okukhululayo kwesidingo sokuvinjelwa komphakathi kobuchwepheshe obuyingozi, umzabalazo wokulwa nokuhlukaniswai "ngaphezulu" kanye "nangaphansi" kwe-algorithm.
+
+<span style="color:grey">The isiZulu translation was prepared by [Vulane Mthembu](https://www.vulanemthembu.space/).</span>
+
+ {{< /tab >}}
+ 
 {{< /tabs >}}
 
 ## Supplemental Information
