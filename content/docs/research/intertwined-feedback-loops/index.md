@@ -105,9 +105,9 @@ _This is an initial version of an intertwined feedback loop that illustrates the
 
 ### TECHNOPOLITICS OF FRONTS
 
-_This is a preliminary version of an intertwined feedback loop outlining the concept of [“Technopolitics of Fronts”](https://algorithmic-sabotage.github.io/asrg/technopolitics-of-fronts/), a broad intervention based on an action-oriented commitment to mutual constitutive solidarity and the application of feminist and decolonial methodologies to reclaim collective subjectivity and political agency in the context of necropolitical technologies that reinforce structural injustice, algorithmic states of exception, eugenic solutionism and bureaucratic cruelty._
+_This is a preliminary version of an intertwined feedback loop which outlines the concept of ‘Technopolitics of Fronts’. Further information can be accessed via the following link: https://algorithmic-sabotage.github.io/asrg/technopolitics-of-fronts/._
 
-<div class="caption"><img src="images/output-639.png"><strong>TECHNOPOLITICS OF FRONTS</strong>: A preliminary version of an intertwined feedback loop outlining the concept of <em>“Technopolitics of Fronts”</em>, a broad intervention based on an action-oriented commitment to mutual constitutive solidarity and the application of feminist and decolonial methodologies to reclaim collective subjectivity and political agency in the context of necropolitical technologies that reinforce structural injustice, algorithmic states of exception, eugenic solutionism and bureaucratic cruelty. <a href="https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
+<div class="caption"><img src="images/output-639.png"><strong>TECHNOPOLITICS OF FRONTS</strong>: This is a preliminary version of an intertwined feedback loop</a> which outlines the concept of ‘Technopolitics of Fronts’. <a href="https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
 ## Supplemental Information
 

@@ -41,8 +41,8 @@ images:
 
 {{< home-item 
     src="technopolitics-of-fronts/images/output-639.png" 
-    title="Technopolitics of Fronts"
-    subtitle="A broad-based intervention for the militant emancipatory defence of the need for community constraint of harmful algorithmic systems and their surrounding political projects, through the mechanism of the communitarian assembly, a bottom-up, horizontal structure that functions as a means to unite the spaces of technical concern and collective action."
+    title="Communitarian Assembly on ‘Technopolitics of Fronts’"
+    subtitle="A bottom-up, horizontally organised mechanism that functions as a means of uniting the spaces of artistic activism, technical concern and collective action. The Communitarian Assembly on ‘Technopolitics of Fronts’ provide a structure that counterbalances those aspects of computing that are toxic to ethics."
     link="technopolitics-of-fronts/"
 >}}
 
