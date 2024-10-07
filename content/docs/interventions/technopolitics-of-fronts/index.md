@@ -45,7 +45,9 @@ An essay authored by the Communitarian Assembly on ‘Technopolitics of Fronts�
 
 ### Mailing List
 
-The easiest way to **subscribe** to the `technopolitics-of-fronts` list is to send an email to: `technopolitics-of-fronts-subscribe@lists.riseup.net`. Make sure that the account you are sending the email from is the one you want to subscribe to the list.
+The mailing list is hosted at [lists.riseup.net](https://lists.riseup.net/), and serves the function of disseminating information concerning the organisational procedure and operational activity of the Communitarian Assembly on ‘Technopolitics of Fronts’.
+
+The easiest way to **subscribe** to the `technopolitics-of-fronts` mailing list is to send an email to: `technopolitics-of-fronts-subscribe@lists.riseup.net`. Make sure that the account you are sending the email from is the one you want to subscribe to the list.
 
 If you are unable to send the confirmation email from the same address you used to subscribe, you will need to use a different method. Follow these esay steps: https://riseup.net/en/lists/list-user/subscribing#how-do-i-subscribe-to-a-list.
 
