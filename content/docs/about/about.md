@@ -35,15 +35,17 @@ The research is guided by the following questions:
 
 ### Contact
 
-We recommend contacting us via email as a means of communication. We will endeavour to reply to your message as soon as is reasonably possible. If you do not receive a response within a week, we kindly request that you resend your message.
+#### Email
 
-- To ensure the swiftest response, it is recommended to utilise a private and secure email platform, such as [ProtonMail](https://proton.me/mail).
+Should you have any requests, questions, suggestions or critiques, you are invited to contact the following email address: [x7kekmg7@proton.me](mailto:x7kekmg7@proton.me). We will endeavour to respond to your message as soon as is reasonably possible. Should no reply be received within a week, we kindly request that you resend your message. <span style="color:grey">*  It should be noted that emails containing tracking links or tracking pixels may be automatically deleted.</span>
 
--  It should be noted that emails containing tracking links or tracking pixels may be automatically deleted.
+Should you wish to facilitate a prompt response to your request, you are encouraged to encrypt your emails via GPG. Our public key can be obtained [here](DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7.asc) or from a public key server using the following command:
 
-#### Private Email
+```
+gpg --recv-keys DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7
+```
 
-Should you wish to send us a secure email, we request that you do so using our [public PGP key](https://cryptpad.fr/file/#/2/file/zoHkxVtIaO20QIj2RGPlBwgO/) and the email address: [x7kekmg7@proton.me](mailto:x7kekmg7@proton.me)
+It would be greatly appreciated if you could attach your public GPG key to the email request, as this will greatly facilitate the process for us.
 
 Those wishing to remain anonymous may wish to consider utilising the [Tor Browser](https://www.torproject.org/download/), ideally on a computer located outside of one's place of residence or employment. This will also serve to enhance the level of security available.
 

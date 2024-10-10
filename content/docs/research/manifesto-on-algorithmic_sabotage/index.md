@@ -5,7 +5,7 @@ description: A preliminary version of 10 statements, numbered 0 to 9, on the pri
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-10-07
+modified: 2024-10-10
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -625,7 +625,15 @@ The English-language version of the Manifesto on “Algorithmic Sabotage” is a
 
 #### Contact
 
-Should you wish to make a contribution to the Manifesto on "Algorithmic Sabotage", whether as an addition, an improvement, a piece of critical commentary or feedback of any kind, we would be delighted to hear from you. Please direct all communications to `x7kekmg7@proton.me`, using our [public PGP key](https://cryptpad.fr/file/#/2/file/zoHkxVtIaO20QIj2RGPlBwgO/).
+Should you wish to make a contribution, whether as an addition, an improvement, a piece of critical commentary or feedback of any kind, you are invited to contact us at the following email address: [x7kekmg7@proton.me](mailto:x7kekmg7@proton.me).
+
+We will answer to your request quicker if you encrypt your E-Mails via GPG. To obtain our public key, kindly refer to the link provided [here](DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7.asc) or utilise a public key server by entering the following command:
+
+```
+gpg --recv-keys DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7
+```
+
+Should you have a public GPG key, we kindly request that you attach it to your email request, as this will facilitate the process for us.
 
 #### Translations
 
@@ -641,7 +649,7 @@ It is requested that translators:
 
 - Furthermore, it is required that they have a professional or near-professional level of proficiency in the target language, which will be the language being translated. In the case of a native speaker of that language, this will be sufficient.
 
-We kindly request that you forward the translation file, accompanied by the language of your choice, to the following e-mail address: `x7kekmg7@proton.me` | [public PGP key](https://cryptpad.fr/file/#/2/file/zoHkxVtIaO20QIj2RGPlBwgO/). The aforementioned file should be named `mas-languagecode.md`, in which the `languagecode` denotes the two-letter language code. For instance, `mas-es.md` represents the Spanish language.
+We kindly request that you forward the translation file, accompanied by the language of your choice, to the following e-mail address: `x7kekmg7@proton.me`. The aforementioned file should be named `mas-languagecode.md`, in which the `languagecode` denotes the two-letter language code. For instance, `mas-es.md` represents the Spanish language.
 
 ### Selected Coverage, Online and Printed
 
