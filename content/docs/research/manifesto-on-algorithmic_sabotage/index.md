@@ -633,7 +633,7 @@ We will answer to your request quicker if you encrypt your E-Mails via GPG. To o
 gpg --recv-keys DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7
 ```
 
-Should you have a public GPG key, we kindly request that you attach it to your email request, as this will facilitate the process for us.
+Please attach your public GPG key to the email request to make things easier for us.
 
 #### Translations
 

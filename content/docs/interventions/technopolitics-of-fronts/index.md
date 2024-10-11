@@ -5,7 +5,7 @@ description: A bottom-up, horizontally organised mechanism that functions as a m
 bookToc: false
 url: /technopolitics-of-fronts
 date: 2024-07-17
-modified: 2024-10-06
+modified: 2024-10-11
 Tags: ['Technopolitics of Fronts', 'Resistance', 'Communitarian Assembly', 'Solidarity', 'Artivism', 'Anti-fascist Radical Care', 'Feminist Methods', 'Decolonial Tactics']
 images:
 - images/output-787.png
@@ -31,25 +31,33 @@ The present operational mode of the Communitarian Assembly on ‘Technopolitics 
 `2024-09-10`: In its inaugural phase of operations, the Communitarian Assembly on ‘Technopolitics of Fronts’ functions as a closed, non-public assembly with regard to both its organisational procedure and its operational activity. In the forthcoming period, the procedures of the assembly will be progressively made accessible to the public, thereby enabling participation in the core of its consultation.
 {{% /hint %}}
 
-To facilitate continued awareness of the assembly's outputs, we kindly request that you subscribe to the mailing list. Please refer to the instructions below for guidance on how to subscribe to the mailing list.
-
-<span style="color:grey"> * It should be noted that as new information becomes available, this page will be updated accordingly.</span>
+<span style="color:grey"> * It is important to note that as new information becomes available concerning the operational activity of the assembly, the content of this page will be updated in a timely manner.</span>
 
 <div class="caption"><img src="images/output-629.png"><strong>TECHNOPOLITICS OF FRONTS</strong>: This is a preliminary version of an intertwined feedback loop</a> which outlines the concept of ‘Technopolitics of Fronts’. <a href="https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
-An essay authored by the Communitarian Assembly on ‘Technopolitics of Fronts’ is available for consultation upon request. The text offers a theoretical analysis of the aesthetic manifestations of the concept of ‘Technopolitics of Fronts,’ as operationalised within the realms of artistic and technological activism. It provides insights into the ethical considerations and artistic methodologies, techniques, and practices associated with it. To request access to this essay, please refer to the following link for contact details: https://algorithmic-sabotage.github.io/asrg/about/.
+An essay authored by the Communitarian Assembly on ‘Technopolitics of Fronts’ is available for consultation upon request. The text offers a theoretical analysis of the aesthetic manifestations of the concept of ‘Technopolitics of Fronts,’ as operationalised within the realms of artistic and technological activism. It provides insights into the ethical considerations and artistic methodologies, techniques, and practices associated with it. To request access to this essay, please refer to the following instructions for the appropriate contact details.
 
 <span style="color:grey"> * Furthermore, the essay is available in a restricted edition of 50 paper copies, distributed free of charge. The Algorithmic Sabotage Research Group (ASRG) assumes responsibility for the shipping costs to any location where a request is received.</span>
 
 ## Supplemental Information
 
-### Mailing List
+### Contact
 
-The mailing list is hosted at [lists.riseup.net](https://lists.riseup.net/), and serves the function of disseminating information concerning the organisational procedure and operational activity of the Communitarian Assembly on ‘Technopolitics of Fronts’.
+#### Email
 
-The easiest way to **subscribe** to the `technopolitics-of-fronts` mailing list is to send an email to: `technopolitics-of-fronts-subscribe@lists.riseup.net`. Make sure that the account you are sending the email from is the one you want to subscribe to the list.
+Should you have any requests, questions, suggestions or critiques regarding the Communitarian Assembly on 'Technopolitics of Fronts', please direct them to the following email address, which should be used as the preferred method of communication: [technopolitics-of-fronts@proton.me](mailto:technopolitics-of-fronts@proton.me).
 
-If you are unable to send the confirmation email from the same address you used to subscribe, you will need to use a different method. Follow these esay steps: https://riseup.net/en/lists/list-user/subscribing#how-do-i-subscribe-to-a-list.
+#### Private Email
+
+In order to facilitate secure and confidential communication and a more prompt response to your enquiry, it is required that you encrypt your emails using GPG.
+
+You can obtain our public key [here](166C7E7BF589AEDDABD355F420FA7BD9C51114C8.asc) or from a public key server using the following command:
+
+```
+gpg --recv-keys 166C7E7BF589AEDDABD355F420FA7BD9C51114C8
+```
+
+We kindly request that you attach your public GPG key to the email request, as this will facilitate the process for all parties involved.
 
 [^1]: Alk, H. (Director) (1971) The Murder of Fred Hampton. Chicago, IL: The Film Group.
 
