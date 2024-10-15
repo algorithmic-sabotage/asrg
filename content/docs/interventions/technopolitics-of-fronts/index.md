@@ -4,8 +4,8 @@ title_h1: "Communitarian Assembly on ‘Technopolitics of Fronts’"
 description: A bottom-up, horizontally organised mechanism that functions as a means of uniting the spaces of artistic activism, technical concern and collective action. The Communitarian Assembly on ‘Technopolitics of Fronts’ provide a structure that counterbalances those aspects of computing that are toxic to ethics.
 bookToc: false
 url: /technopolitics-of-fronts
-date: 2024-07-17
-modified: 2024-10-11
+date: 2024-09-07
+modified: 2024-10-15
 Tags: ['Technopolitics of Fronts', 'Resistance', 'Communitarian Assembly', 'Solidarity', 'Artivism', 'Anti-fascist Radical Care', 'Feminist Methods', 'Decolonial Tactics']
 images:
 - images/output-787.png
@@ -13,7 +13,7 @@ images:
 
 {{< titling >}}
 
-<div class="caption"><img src="images/output-639.png">Graphic: © Algorithmic Sabotage Research Group<span style="color:grey"> | The typeface used is Avara from Velvetyne Foundry: https://velvetyne.fr/fonts/avara/</span></div>
+<div class="caption"><img src="images/output-639.png">Graphic: © Communitarian Assembly on ‘Technopolitics of Fronts’<span style="color:grey"> | The typeface used is Avara from Velvetyne Foundry: https://velvetyne.fr/fonts/avara/</span></div>
 
 ## Context
 
@@ -25,19 +25,29 @@ _“If you think technology will solve your problems, you don’t understand tec
 
 ### Mode of Operation
 
-The present operational mode of the Communitarian Assembly on ‘Technopolitics of Fronts’ is as follows:
+`2024-09-10`: The present operational mode of the Communitarian Assembly on ‘Technopolitics of Fronts’ is as follows:
 
 {{< hint warning >}}
-`2024-09-10`: In its inaugural phase of operations, the Communitarian Assembly on ‘Technopolitics of Fronts’ functions as a closed, non-public assembly with regard to both its organisational procedure and its operational activity. In the forthcoming period, the procedures of the assembly will be progressively made accessible to the public, thereby enabling participation in the core of its consultation.
+In its inaugural phase of operations, the Communitarian Assembly on ‘Technopolitics of Fronts’ functions as a closed, non-public assembly with regard to both its organisational procedure and its operational activity.
+ 
+Please be advised that, over the forthcoming period, the proceedings of the assembly will become progressively available to the public, thus facilitating direct engagement with the central aspects of the consultation process.
 {{% /hint %}}
 
 <span style="color:grey"> * It is important to note that as new information becomes available concerning the operational activity of the assembly, the content of this page will be updated in a timely manner.</span>
 
-<div class="caption"><img src="images/output-629.png"><strong>TECHNOPOLITICS OF FRONTS</strong>: This is a preliminary version of an intertwined feedback loop</a> which outlines the concept of ‘Technopolitics of Fronts’. <a href="https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
+## Essays
 
-An essay authored by the Communitarian Assembly on ‘Technopolitics of Fronts’ is available for consultation upon request. The text offers a theoretical analysis of the aesthetic manifestations of the concept of ‘Technopolitics of Fronts,’ as operationalised within the realms of artistic and technological activism. It provides insights into the ethical considerations and artistic methodologies, techniques, and practices associated with it. To request access to this essay, please refer to the following instructions for the appropriate contact details.
+### The Aesthetics of ‘Technopolitics of Fronts’
 
-<span style="color:grey"> * Furthermore, the essay is available in a restricted edition of 50 paper copies, distributed free of charge. The Algorithmic Sabotage Research Group (ASRG) assumes responsibility for the shipping costs to any location where a request is received.</span>
+The essay, entitled _“The Aesthetics of Technopolitics of Fronts”_, was authored by the _Communitarian Assembly on ‘Technopolitics of Fronts’_ in October 2024 and is available upon request.<span style="color:grey"> *  If you wish to gain access to the essay, kindly direct your request to the following email address: `technopolitics-of-fronts@proton.me`.</span>
+
+<div class="caption"><img src="images/output-629.png"><strong>TECHNOPOLITICS OF FRONTS</strong>: A preliminary version of an intertwined feedback loop that unfold from several interrelated briefs and terms for intellectual and practical exploration. The above abstract flowchart illustrates the procedures, aesthetic qualities, and functions of the concept of ‘Technopolitics of Fronts’. <a href="https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
+
+#### Abstract
+
+The essay offers a theoretical analysis of the aesthetic manifestations of the concept of ‘Technopolitics of Fronts,’ as operationalised within the realms of culture, political and technological struggles against the technopolitical equivalents of political liberalism. It provides insights into the ethical considerations and prefigurative methodologies, tactics, and practices of resistance, agency and refusal associated with it.
+
+<span style="color:grey"> * Please be advised that the essay will be made available for download in PDF format via this page within the next short period of time. Furthermore, a limited edition of 50 hand-made paper copies will be distributed free of charge. The Algorithmic Sabotage Research Group (ASRG) will assume responsibility for shipping costs to any location where a request is received. To request a copy, please refer to the following instructions for the appropriate contact details.</span>
 
 ## Supplemental Information
 
