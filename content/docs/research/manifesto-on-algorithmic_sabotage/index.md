@@ -5,7 +5,7 @@ description: A preliminary version of 10 statements, numbered 0 to 9, on the pri
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-10-10
+modified: 2024-10-18
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -19,7 +19,7 @@ images:
 
 _“To create? No, to destroy, destroy and destroy again, whatever the strength left in these muscles allows. Because destruction is the power that is left. The only thing worth a penny. Everything else will pass and be gone. Only their destruction will last. It’s a paradox with few equivalents. The young and capable of building new worlds, those who for years, on a daily basis, laid the foundations of faith for a better humanity, must now make hasty action, sabotage, destruction, the supreme achievements of life.” — Anonymous Partisan_
 
-The Manifesto on “Algorithmic Sabotage” constitutes a component of the ongoing research initiative of the Algorithmic Sabotage Research Group (ASRG), which is concerned with analysing the concept of “Algorithmic Sabotage” as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism.
+The Manifesto on “Algorithmic Sabotage” constitutes a component of the ongoing research initiative of the Algorithmic Sabotage Research Group (ASRG), which is concerned with analysing the critical concept of “Algorithmic Sabotage” as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism.
 
 The document that follows represents a preliminary version of ten statements, numbered from 0 to 9, which delineate the principles, strategies and aesthetics of “algorithmic sabotage”. The objective is not only a theoretical dissemination of militant algorithmic agency, resistance and refusal, but the diffusion of radical theory/criticism that stems from the energy of insurrectionary desire. The Manifesto on “Algorithmic Sabotage” is the relentless march of a political theory that constantly and ambidirectionally turns discourse into praxis in order to declare its presence in the liberation struggle.
 
@@ -612,7 +612,36 @@ _アテネ, 2024年5月_
 <span style="color:grey">The Japanese translation was prepared by an individual who has elected to remain anonymous.</span>
 
  {{< /tab >}}
- 
+ {{< tab "BG" >}} 
+
+### Манифест на тема „Алгоритмичен саботаж“
+
+_Атина, май 2024 г._
+
+0. „Алгоритмичен саботаж“ е фигура на техно-неподчинение за войнствеността, която отсъства от технологичната критика.
+
+1. Вместо атавистично отвращение към технологиите, „Алгоритмичният саботаж“ може да се чете като форма на контрасила, която произтича от силата на общността, която я владее.
+
+2. „Алгоритмичен саботаж“ прорязва капиталистическата идеологическа рамка, която процъфтява в мизерията, като извършва подривна работа в настоящето, разрушавайки съвременните форми на алгоритмично господство и възстановявайки пространства за етично действие от общото безмислие и автоматичност.
+
+3. „Алгоритмичен саботаж“ е ориентиран към действие ангажимент за солидарност, който предхожда всяка система от социална, правна или алгоритмична класификация.
+
+4. „Алгоритмичният саботаж“ е част от структурно обновяване на по-широко движение за социална автономия, което се противопоставя на хищничествата на хегемонистичната технология чрез диви директни действия, съзнателно привеждайки се в съответствие с идеалите за социална справедливост и егалитаризъм.
+
+5. „Алгоритмичният саботаж“ радикално преработва нашите технологично-политически договорености, далеч от структурните несправедливости, супрематистките перспективи и некрополитическата авторитарна власт, наслоени в „алгоритмичната империя“, подчертавайки нейната материалност и последствия по отношение както на въглеродните емисии, така и на централизацията на контрола.
+
+6. „Алгоритмичният саботаж“ отказва алгоритмичното унижение за максимизиране на властта и печалбата, като се фокусира върху дейности за взаимопомощ и солидарност.
+
+7. Първата стъпка на техно-политиката не е технологична, а политическа. Радикалните феминистки, антифашистки и деколониални перспективи са политическо предизвикателство за „алгоритмичния саботаж“, поставяйки въпросите на взаимозависимостта и колективната грижа срещу редуктивните оптимизации на „алгоритмичната империя“.
+
+8. „Алгоритмичен саботаж“ се бори срещу алгоритмичното насилие и фашисткия техно-солюционизъм, като се фокусира върху артистично-активистки съпротиви, които могат да изразят различен манталитет, колективно „контраинтелигентност“.
+
+9. „Алгоритмичен саботаж“ е еманципаторска защита на необходимостта от общностно ограничение на вредните технологии, борба срещу абстрактното разделение „над“ и „под“ алгоритъма.
+
+<span style="color:grey">The Bulgarian translation was prepared by Vasilka Toncheva, Ivana Vrancheva and Assen Hadjiivanov.</span>
+
+ {{< /tab >}}
+
 {{< /tabs >}}
 
 ## Supplemental Information

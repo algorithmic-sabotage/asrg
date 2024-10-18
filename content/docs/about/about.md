@@ -11,15 +11,9 @@ It explores the diversity of practices and the role of artistic activism in expo
 
 <div class="caption"><img src="images/output-119.png">Graphic: © Algorithmic Sabotage Research Group<span style="color:grey"> | The typeface used is Avara from Velvetyne Foundry: https://velvetyne.fr/fonts/avara/</span></div>
 
-## Transversal Approaches
+### Research Questions
 
-Relying on a distinctly decolonial, anti-fascist, queer and trans-feminist, transnational and intersectional perspective, the Algorithmic Sabotage Research Group (ASRG) gains traction by starting from existing points of struggle at the margins, creating radical solidarity co-ordinations and bulwarks of direct militant confrontation to promote a prefigurative techno-political stance of refusal militantly opposed to any fascist logic that “automates inequality” and applies data-driven disproportionate burdens and violence to the most vulnerable demographics for the grand task of stabilised quantification and optimisation of the entire population, to restore collective subjectivity and reclaim political agency from the engines of abstraction, in the context of AI and other computational technologies whose statistical logics reveal continuities with racism, colonial relations and white supremacy.
-
-The Algorithmic Sabotage Research Group (ASRG) contributes to collective emancipation by foregrounding algorithmic agency and resistance not as episodic, but as ingrained into the very fabric of our everyday experiences, signaling a fundamental computational shift towards a “techno-politics of fronts” in a decolonial politics of algorithms and atmospheres against sites of “algorithmic coloniality”, opening up new possibilities beyond pre-emptive techno-solutionism, the meaningless rot of over-performance and the capitalisation of life without limits by the techno-elite regimes, to create a multi-dimensional and informed understanding of the far-reaching impacts and harmful features at the core of the systems of oppression and axes of identity of the “algorithmic empire”, characterised by heteropatriarchal exclusions, erasures, violence and discrimination, fake accuracy and simulated objectivity, orchestrating a chilling symphony of oppression, with marginalised communities worldwide bearing the brunt of the automated violence.
-
-## Research Questions
-
-The framework within which the Algorithmic Sabotage Research Group (ASRG) operates is related to the analysis of the concept of “Algorithmic Sabotage” as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism.
+The framework within which the Algorithmic Sabotage Research Group (ASRG) operates is related to the analysis of the critical concept of “Algorithmic Sabotage” as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism.
 
 The research is guided by the following questions:
 
