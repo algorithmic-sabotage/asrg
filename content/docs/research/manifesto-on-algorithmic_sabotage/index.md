@@ -1,7 +1,7 @@
 ---
 title: Manifesto on “Algorithmic Sabotage”
 title_h1: Manifesto on “Algorithmic Sabotage”
-description: A preliminary version of 10 statements, numbered 0 to 9, on the principles, strategies and aesthetics of “algorithmic sabotage”.
+description: A preliminary version of a document comprising ten statements, numbered from 0 to 9, which delineate the principles, strategies, and aesthetics of the critical concept of ‘algorithmic sabotage’ within the framework of digital culture and information technology.
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13

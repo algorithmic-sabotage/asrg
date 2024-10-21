@@ -1,7 +1,7 @@
 ---
 title: Theorizing “Algorithmic Sabotage”
 title_h1: "Theorizing “Algorithmic Sabotage”"
-description: A collaborative writing document that represents an initial attempt at conceptualising the concept of 'algorithmic sabotage' as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism.
+description: This document represents an inaugural attempt at conceptualising the critical concept of ‘algorithmic sabotage’ as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism.
 url: /theorizing-algorithmic_sabotage
 date: 2024-06-13
 modified: 2024-08-26

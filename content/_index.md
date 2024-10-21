@@ -10,14 +10,14 @@ images:
 {{< home-item 
     src="manifesto-on-algorithmic_sabotage/images/output-125.png" 
     title="Manifesto on “Algorithmic Sabotage”"
-    subtitle="A preliminary version of 10 statements, numbered 0 to 9, on the principles, strategies and aesthetics of “algorithmic sabotage”."
+    subtitle="A preliminary version of a document comprising ten statements, numbered from 0 to 9, which delineate the principles, strategies, and aesthetics of the critical concept of ‘algorithmic sabotage’ within the framework of digital culture and information technology."
     link="manifesto-on-algorithmic_sabotage/"
 >}}
 
 {{< home-item 
     src="theorizing-algorithmic_sabotage/images/output-945.png" 
     title="Theorizing “Algorithmic Sabotage”"
-    subtitle="A collaborative writing document that represents an initial attempt at conceptualising the concept of 'algorithmic sabotage' as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism."
+    subtitle="This document represents an inaugural attempt at conceptualising the critical concept of ‘algorithmic sabotage’ as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism."
     link="theorizing-algorithmic_sabotage/"
 >}}
 
