@@ -5,7 +5,7 @@ description: A bottom-up, horizontally organised mechanism that functions as a m
 bookToc: false
 url: /technopolitics-of-fronts
 date: 2024-09-07
-modified: 2024-10-15
+modified: 2024-10-19
 Tags: ['Technopolitics of Fronts', 'Resistance', 'Communitarian Assembly', 'Solidarity', 'Artivism', 'Anti-fascist Radical Care', 'Feminist Methods', 'Decolonial Tactics']
 images:
 - images/output-787.png
@@ -45,9 +45,9 @@ The essay, entitled _“The Aesthetics of Technopolitics of Fronts”_, was auth
 
 #### Abstract
 
-The essay offers a theoretical analysis of the aesthetic manifestations of the concept of ‘Technopolitics of Fronts,’ as operationalised within the realms of culture, political and technological struggles against the technopolitical equivalents of political liberalism. It provides insights into the ethical considerations and prefigurative methodologies, tactics, and practices of resistance, agency and refusal associated with it.
+The essay offers a theoretical analysis of the aesthetic manifestations of the critical concept of ‘Technopolitics of Fronts,’ as operationalised within the realms of political, cultural, societal and technological struggles against the technopolitical equivalents of political liberalism. It provides insights into the ethical considerations and prefigurative methodologies, tactics, and practices of resistance, agency, and refusal associated with it.
 
-<span style="color:grey"> * Please be advised that the essay will be made available for download in PDF format via this page within the next short period of time. Furthermore, a limited edition of 50 hand-made paper copies will be distributed free of charge. The Algorithmic Sabotage Research Group (ASRG) will assume responsibility for shipping costs to any location where a request is received. To request a copy, please refer to the following instructions for the appropriate contact details.</span>
+<span style="color:grey">* Please be advised that the essay will be made available for download in PDF format via this page within the next short period of time. Furthermore, a limited edition of 50 hand-made paper copies will be distributed free of charge. The Algorithmic Sabotage Research Group (ASRG) will assume responsibility for shipping costs to any location where a request is received. To request a copy, please refer to the following instructions for the appropriate contact details.</span>
 
 ## Supplemental Information
 
