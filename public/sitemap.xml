@@ -2,13 +2,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/asrg/docs/workshops/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/asrg/docs/interventions/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/docs/research/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -22,77 +27,132 @@
   
   <url>
     <loc>http://localhost:1313/asrg/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/asrg/tags/Anti-fascist-Radical-Care/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/asrg/tags/Agency/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/asrg/tags/Artivism/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/asrg/tags/Algorithmic-Necropolitics/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/asrg/tags/Communitarian-Assembly/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/asrg/tags/Algorithmic-Sabotage/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/asrg/tags/Decolonial-Tactics/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/asrg/tags/Algorithmic-Sabotage-Research-Group/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/ASRG/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/docs/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/asrg/tags/Feminist-Methods/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/asrg/tags/Illegal-Directions/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/illegal-directions/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/Prefigurative-Techno-Politics/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/Refusal/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Resistance/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/asrg/tags/Solidarity/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/asrg/tags/Sabotage/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/Self-Organization/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/Techno-Disobedience/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/Workshop/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/Anti-fascist-Radical-Care/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/Artivism/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/Communitarian-Assembly/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/Decolonial-Tactics/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/Feminist-Methods/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/tags/Solidarity/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Technopolitics-of-Fronts/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/technopolitics-of-fronts/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/AI/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/asrg/tags/Algorithmic-Sabotage/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/asrg/tags/ASRG/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -156,11 +216,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/asrg/tags/Prefigurative-Techno-Politics/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/asrg/tags/Scrapism/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url>
@@ -212,32 +267,22 @@
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Manifesto/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/manifesto-on-algorithmic_sabotage/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Manifesto-on-Algorithmic-Sabotage/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/asrg/tags/Militant-Liberation-Struggles/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/asrg/tags/Sabotage/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/asrg/tags/Techno-Disobedience/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>

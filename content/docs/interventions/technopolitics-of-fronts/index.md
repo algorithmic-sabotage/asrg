@@ -13,7 +13,7 @@ images:
 
 {{< titling >}}
 
-<div class="caption"><img src="images/output-639.png">Graphic: © Communitarian Assembly on ‘Technopolitics of Fronts’<span style="color:grey"> | The typeface used is Avara from Velvetyne Foundry: https://velvetyne.fr/fonts/avara/</span></div>
+<div class="caption"><img src="images/output-641.png">Graphic: © Communitarian Assembly on ‘Technopolitics of Fronts’<span style="color:grey"> | The typeface used is Avara from Velvetyne Foundry: https://velvetyne.fr/fonts/avara/</span></div>
 
 ## Context
 

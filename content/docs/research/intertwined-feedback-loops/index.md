@@ -17,7 +17,7 @@ images:
 
 {{< columns >}} 
 
-<div class="caption"><img src="images/output-374.png"></div>
+<div class="caption"><img src="images/output-378.png"></div>
 
 <--->
 
@@ -31,7 +31,7 @@ images:
 
 <--->
 
-<div class="caption"><img src="images/output-122.png"></div>
+<div class="caption"><img src="images/output-022.png"></div>
 
 {{< /columns >}}
 
@@ -47,7 +47,7 @@ The Algorithmic Sabotage Research Group (ASRG) has drawn a series of intertwined
 
 _This is a preliminary version of an intertwined feedback loop that promotes an AI abolitionist praxis by exposing the multiplicity of its harms and its irrevocable entanglement with various registers of violence, its nationalist, authoritarian and fascist logics, and its ideological commitment to algorithmic cruelty on a grand scale._
 
-<div class="caption"><img src="images/output-274.png"><strong>ABOLISHING AI</strong>: A preliminary version of an intertwined feedback loop that promotes an AI abolitionist praxis by exposing the multiplicity of its harms and its irrevocable entanglement with various registers of violence, its nationalist, authoritarian and fascist logics, and its ideological commitment to algorithmic cruelty on a grand scale. <a href="https://cryptpad.fr/file/#/2/file/ts0tiWAKkphB5yhEkd3bEhDv/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
+<div class="caption"><img src="images/output-378.png"><strong>ABOLISHING AI</strong>: A preliminary version of an intertwined feedback loop that promotes an AI abolitionist praxis by exposing the multiplicity of its harms and its irrevocable entanglement with various registers of violence, its nationalist, authoritarian and fascist logics, and its ideological commitment to algorithmic cruelty on a grand scale. <a href="https://cryptpad.fr/file/#/2/file/ts0tiWAKkphB5yhEkd3bEhDv/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
 <tr><td>&nbsp;</td></tr>
 
@@ -57,7 +57,7 @@ _This is a preliminary version of an intertwined feedback loop that promotes an 
 
 _This intertwined feedback loop serves to illustrate the inherent constraints and obfuscations associated with AI within the context of “Algorithmic Empire.”_
 
-<div class="caption"><img src="images/output-062.png"><strong>AI DISSIDENTS</strong>: An intertwined feedback loop presents the limits and mystifications of AI within the framework of “Algorithmic Empire”. <a href="https://cryptpad.fr/file/#/2/file/xoK2qrqbuUwwV57HfVk12HVi/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
+<div class="caption"><img src="images/output-162.png"><strong>AI DISSIDENTS</strong>: An intertwined feedback loop presents the limits and mystifications of AI within the framework of “Algorithmic Empire”. <a href="https://cryptpad.fr/file/#/2/file/xoK2qrqbuUwwV57HfVk12HVi/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
 <tr><td>&nbsp;</td></tr>
 
@@ -67,7 +67,7 @@ _This intertwined feedback loop serves to illustrate the inherent constraints an
 
 _This visual representation provides an illustrative overview of the framework of “Algorithmic Empire,” delineating its fundamental origins, operational mechanisms, and prevailing practices._
 
-<div class="caption"><img src="images/output-501.png"><strong>ALGORITHMIC EMPIRE</strong>: An intertwined feedback loop of mechanisms, roots and practices that outlines the concept of “Algorithmic Empire”. <a href="https://cryptpad.fr/file/#/2/file/Xfn7sBZ8sBdeJhEDaPswn-Ik/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
+<div class="caption"><img src="images/output-500.png"><strong>ALGORITHMIC EMPIRE</strong>: An intertwined feedback loop of mechanisms, roots and practices that outlines the concept of “Algorithmic Empire”. <a href="https://cryptpad.fr/file/#/2/file/Xfn7sBZ8sBdeJhEDaPswn-Ik/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
 <tr><td>&nbsp;</td></tr>
 

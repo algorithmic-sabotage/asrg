@@ -1,11 +1,11 @@
 ---
 title: Manifesto on “Algorithmic Sabotage”
 title_h1: Manifesto on “Algorithmic Sabotage”
-description: A preliminary version of a document comprising ten statements, numbered from 0 to 9, which delineate the principles, strategies, and aesthetics of the critical concept of ‘algorithmic sabotage’ within the framework of digital culture and information technology.
+description: A preliminary version of a document comprising ten statements, numbered from 0 to 9, which delineate the principles, strategies, and aesthetics of the critical notion of ‘algorithmic sabotage’ within the framework of digital culture and information technology.
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-10-18
+modified: 2024-11-01
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -13,7 +13,7 @@ images:
 
 {{< titling >}}
 
-<div class="caption"><img src="images/output-630.png">Graphic: © Algorithmic Sabotage Research Group<span style="color:grey"> | The typeface used is Avara from Velvetyne Foundry: https://velvetyne.fr/fonts/avara/</span></div>
+<div class="caption"><img src="images/output-927.png">Graphic: © Algorithmic Sabotage Research Group<span style="color:grey"> | The typeface used is Trickster from Velvetyne Foundry: https://velvetyne.fr/fonts/trickster/</span></div>
 
 ## Context
 
@@ -639,6 +639,35 @@ _Атина, май 2024 г._
 9. „Алгоритмичен саботаж“ е еманципаторска защита на необходимостта от общностно ограничение на вредните технологии, борба срещу абстрактното разделение „над“ и „под“ алгоритъма.
 
 <span style="color:grey">The Bulgarian translation was prepared by Vasilka Toncheva, Ivana Vrancheva and Assen Hadjiivanov.</span>
+
+{{< /tab >}}
+{{< tab "UK" >}} 
+
+### Маніфест про «Алгоритмічний Саботаж»
+
+_Афіни, травень 2024 р_
+
+0. «Алгоритмічний саботаж» — це фігура техно-непокори для войовничості, яка відсутня в критиці технологій.
+
+1. Замість атавістичної відрази до технологій, «алгоритмічний саботаж» можна сприймати як форму протидії, яка виникає завдяки силі спільноти, яка нею володіє.
+
+2. «Алгоритмічний саботаж» прорізає капіталістичну ідеологічну структуру, яка процвітає через нещастя, виконуючи підривну роботу в сьогоденні, демонтуючи сучасні форми алгоритмічного домінування та відвойовуючи простір для етичних дій із загальної бездумності та автоматизму.
+
+3. «Алгоритмічний саботаж» — це орієнтоване на дії зобов’язання солідарності, яке передує будь-якій системі соціальної, правової чи алгоритмічної класифікації.
+
+4. «Алгоритмічний саботаж» є частиною структурного оновлення ширшого руху за соціальну автономію, який протистоїть хижацтвам гегемоністської технології за допомогою диких прямих дій, свідомо узгоджуючи себе з ідеалами соціальної справедливості та егалітаризму.
+
+5. «Алгоритмічний саботаж» радикально переробляє наші технополітичні домовленості, віддаляючи структурну несправедливість, погляди на верховенство та некрополітичну авторитарну владу, вкладену в «алгоритмічну імперію», підкреслюючи її суттєвість і наслідки з точки зору як викидів вуглецю, так і централізації контролю.
+
+6. «Алгоритмічний саботаж» відмовляється від алгоритмічного приниження заради максимізації влади та прибутку, зосереджуючись на діяльності взаємодопомоги та солідарності.
+
+7. Перший крок техно-політики не технологічний, а політичний. Радикальні феміністські, антифашистські та деколоніальні погляди є політичним викликом «алгоритмічному саботажу», ставлячи питання взаємозалежності та колективної турботи проти редуктивної оптимізації «алгоритмічної імперії».
+
+8. «Алгоритмічний саботаж» бореться з алгоритмічним насильством і фашистським техно-рішення, зосереджуючись на мистецько-активістському опорі, який може виражати інший менталітет, колективний «контрінтелект».
+
+9. «Алгоритмічний саботаж» — це емансипаційне відстоювання необхідності спільного обмеження шкідливих технологій, боротьба проти абстрактної сегрегації “над” і “під” алгоритмом.
+
+<span style="color:grey">The Ukrainian translation was prepared by Inna Pylypchuk and Isai Ostapchuk.</span>
 
  {{< /tab >}}
 

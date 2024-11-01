@@ -8,9 +8,9 @@ images:
 ---
 
 {{< home-item 
-    src="manifesto-on-algorithmic_sabotage/images/output-125.png" 
+    src="manifesto-on-algorithmic_sabotage/images/output-924.png" 
     title="Manifesto on “Algorithmic Sabotage”"
-    subtitle="A preliminary version of a document comprising ten statements, numbered from 0 to 9, which delineate the principles, strategies, and aesthetics of the critical concept of ‘algorithmic sabotage’ within the framework of digital culture and information technology."
+    subtitle="A preliminary version of a document comprising ten statements, numbered from 0 to 9, which delineate the principles, strategies, and aesthetics of the critical notion of ‘algorithmic sabotage’ within the framework of digital culture and information technology."
     link="manifesto-on-algorithmic_sabotage/"
 >}}
 
@@ -22,7 +22,7 @@ images:
 >}}
 
 {{< home-item 
-    src="intertwined-feedback-loops/images/output-501.png" 
+    src="intertwined-feedback-loops/images/output-378.png" 
     title="Intertwined Feedback Loops"
     subtitle="A series of intertwined feedback loops that unfold from several interrelated briefs, which are designed to facilitate intellectual and practical exploration."
     link="intertwined-feedback-loops/"
@@ -40,10 +40,20 @@ images:
 >}}
 
 {{< home-item 
-    src="technopolitics-of-fronts/images/output-639.png" 
+    src="technopolitics-of-fronts/images/output-641.png" 
     title="Communitarian Assembly on ‘Technopolitics of Fronts’"
     subtitle="A bottom-up, horizontally organised mechanism that functions as a means of uniting the spaces of artistic activism, technical concern and collective action. The Communitarian Assembly on ‘Technopolitics of Fronts’ provide a structure that counterbalances those aspects of computing that are toxic to ethics."
     link="technopolitics-of-fronts/"
 >}}
 
+***
+
+## **Workshops**
+
+{{< home-item 
+    src="illegal-directions/images/output-925.png" 
+    title=" Illegal Directions ── ‘Algorithmic Sabotage’ & Self-Organization"
+    subtitle="This inaugural workshop, the first in a trilogy of private workshops and talks, constitutes an initiative organized by individuals affiliated with the Algorithmic Sabotage Research Group (ASRG). Entitled Illegal Directions ── ‘Algorithmic Sabotage’ and Self-Organization, the workshop provides an exemplification of the intricate nuances of information ethics and the capacity of aesthetics to traverse the ambiguous and inequitable social terrains shaped by information systems."
+    link="illegal-directions/"
+>}}
 

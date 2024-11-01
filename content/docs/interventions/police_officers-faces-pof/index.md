@@ -1,5 +1,5 @@
 ---
-title: Police Officers Faces (POF)
+title: Police Officers Faces
 title_h1: Police Officers Faces (POF)
 description: This is a large-scale face recognition dataset comprising approximately 90,000 headshot photographs of thousands of police officers. It is intended as a tool to empower community members engaged in copwatch and other counter-surveillance practices.
 bookToc: false

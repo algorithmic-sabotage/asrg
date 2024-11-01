@@ -9,7 +9,7 @@ weight: 10
 
 It explores the diversity of practices and the role of artistic activism in exposing, critiquing, disrupting and countering the encroachments of algorithmic systems of power, control and exploitation, with the objective of strengthening, promoting and protecting human rights and fundamental freedoms by offering interdisciplinary pathways to empower the public.
 
-<div class="caption"><img src="images/output-119.png">Graphic: © Algorithmic Sabotage Research Group<span style="color:grey"> | The typeface used is Avara from Velvetyne Foundry: https://velvetyne.fr/fonts/avara/</span></div>
+<div class="caption"><img src="images/output-119.png">Graphic: © Algorithmic Sabotage Research Group<span style="color:grey"> | The typeface used is Trickster from Velvetyne Foundry: https://velvetyne.fr/fonts/trickster/</span></div>
 
 ### Research Questions
 
@@ -51,7 +51,7 @@ Please be advised that our presence on <a rel="me" href="https://tldr.nettime.or
 
 #### Messaging
 
-We utilise [Signal](https://signal.org/) for the purpose of private messaging. Should you wish to send us a message, you are invited to do so via the following email address: `x7kekmg7@proton.me`. Please include your Signal number or username in the message, and we shall take it from there.
+We utilise [Signal](https://signal.org/) for the purpose of private messaging. Should you wish to send us a message, you are invited to do so via the following email address: `x7kekmg7@proton.me`. Please include your Signal number or username in the message, and we shall proceed accordingly.
 
 ### Support Us
 
