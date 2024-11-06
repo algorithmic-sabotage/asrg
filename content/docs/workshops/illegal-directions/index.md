@@ -19,7 +19,7 @@ images:
 
 ### About the Workshop
 
-In this intensive one-day, eight-hour workshop, the Algorithmic Sabotage Research Group (ASRG) will undertake a detailed examination of the critical notion of ‘algorithmic sabotage’ as a prefigurative praxis against computational machinery that sustains existing structural injustices, intensifies neoliberal inequalities and expands different dimensions of necropolitics from within systems that are already enabling forms of segregation, racialization and exclusion.
+In this intensive one-day, eight-hour workshop, the Algorithmic Sabotage Research Group (ASRG) will undertake a detailed examination of the critical notion of ‘algorithmic sabotage’ as a prefigurative praxis that acts directly to disrupt computational machinery that sustains existing structural injustices, intensifies neoliberal inequalities, and expands different dimensions of necropolitics from within systems that are already enabling forms of segregation, racialization, and exclusion.
 
 During the workshop, the critical notion of ‘algorithmic sabotage’ will be operationalized through the utilization of ‘legal’ or ‘illegal’ directions, and its application will be examined within the realms of political, cultural, societal, and technological struggles, ‘above’ and ‘below’ the algorithm. The insights provided will elucidate the aesthetic manifestations, ethical implementations, and methodologies, tactics, and practices of resistance, agency, and refusal that are associated with it.
 
@@ -31,7 +31,7 @@ The workshop has been designed with the intention of achieving three principal o
 
 1. The primary objective is to facilitate the formation of a community and to encourage networking among individuals who are key figures in the realms of diverse, creative, and disobedient artistic activism, technical concern, and collective action. Additionally, the workshop will provide an opportunity for substantial networking among these areas, allowing for the formation of connections between individuals with disparate expertise and backgrounds.
 
-2. Secondly, the workshop aims to foster a multifaceted and critical examination of the spectrum of collective techno-disobedience, including instances where it is employed in opposition to the constraints imposed by iron algorithmic state repression, right-wing structures, or the harmfulness of unrestrained techno-solutionism. To this end, innovative strategies of withdrawal, refusal, sabotage, and negotiation of new ‘lines of flight’ from the totalitarian techno-feudal structural forms of domination will be put forth as a means of countering the shift to the right and the securitisation discourse.
+2. Secondly, the workshop aims to foster a multifaceted and critical examination of the spectrum of collective techno-disobedience, including instances where it is employed in opposition to the constraints imposed by iron algorithmic state repression, right-wing structures, or the harmfulness of unrestrained techno-solutionism. To this end, innovative strategies of withdrawal, refusal, sabotage, and the negotiation of new ‘lines of flight’ from the techno-feudal forms of domination will be put forth as a means of countering the shift to the right and the securitisation discourse.
 
 3. Thirdly, the objective is to engage in collaborative efforts to further develop this approach and the methodologies that can support it, with the aim of creating pathways of solidarity, emancipation, and empowerment.
 
