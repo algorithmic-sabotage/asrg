@@ -7,7 +7,7 @@ weight: 10
 
 ## The Algorithmic Sabotage Research Group (ASRG) is an ongoing, conspiratorial, aesthetico-political, practice-led research framework focused on the intersection of digital culture and information technology.
 
-It explores the diversity of practices and the role of artistic activism in exposing, critiquing, disrupting and countering the encroachments of algorithmic systems of power, control and exploitation, with the objective of strengthening, promoting and protecting human rights and fundamental freedoms by offering interdisciplinary pathways to empower the public.
+It examines the multifaceted manifestations of artistic activism and its role in exposing, critiquing, disrupting and countering the encroachments of algorithmic systems of power, control, and exploitation, with the objective of strengthening, promoting, and defending human rights values and fundamental freedoms by offering interdisciplinary pathways to empower the public. 
 
 <div class="caption"><img src="images/output-119.png">Graphic: © Algorithmic Sabotage Research Group<span style="color:grey"> | The typeface used is Trickster from Velvetyne Foundry: https://velvetyne.fr/fonts/trickster/</span></div>
 

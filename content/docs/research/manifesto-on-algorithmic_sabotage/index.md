@@ -1,11 +1,11 @@
 ---
 title: Manifesto on “Algorithmic Sabotage”
 title_h1: Manifesto on “Algorithmic Sabotage”
-description: A preliminary version of a document comprising ten statements, numbered from 0 to 9, which delineate the principles, strategies, and aesthetics of the critical notion of ‘algorithmic sabotage’ within the framework of digital culture and information technology.
+description: This is a preliminary version of a document comprising ten statements, numbered from 0 to 9, which delineate the underlying principles, strategic approaches and aesthetic manifestations of the critical notion of ‘Algorithmic Sabotage’ within the framework of digital culture and information technology.
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-11-01
+modified: 2024-11-22
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -19,13 +19,11 @@ images:
 
 _“To create? No, to destroy, destroy and destroy again, whatever the strength left in these muscles allows. Because destruction is the power that is left. The only thing worth a penny. Everything else will pass and be gone. Only their destruction will last. It’s a paradox with few equivalents. The young and capable of building new worlds, those who for years, on a daily basis, laid the foundations of faith for a better humanity, must now make hasty action, sabotage, destruction, the supreme achievements of life.” — Anonymous Partisan_
 
-The Manifesto on “Algorithmic Sabotage” constitutes a component of the ongoing research initiative of the Algorithmic Sabotage Research Group (ASRG), which is concerned with analysing the critical concept of “Algorithmic Sabotage” as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism.
-
-The document that follows represents a preliminary version of ten statements, numbered from 0 to 9, which delineate the principles, strategies and aesthetics of “algorithmic sabotage”. The objective is not only a theoretical dissemination of militant algorithmic agency, resistance and refusal, but the diffusion of radical theory/criticism that stems from the energy of insurrectionary desire. The Manifesto on “Algorithmic Sabotage” is the relentless march of a political theory that constantly and ambidirectionally turns discourse into praxis in order to declare its presence in the liberation struggle.
+The _Manifesto on “Algorithmic Sabotage”_ is comprised of ten statements, numbered from 0 to 9, which delineate the underlying principles, strategic approaches and aesthetic manifestations of the critical notion of _“Algorithmic Sabotage”_ within the framework of digital culture and information technology. The text’s purpose is not only a theoretical dissemination of militant algorithmic agency, resistance and refusal, but the diffusion of radical theory/criticism that stems from the energy of insurrectionary desire. The _Manifesto on “Algorithmic Sabotage”_ represents the relentless march of a political theory that constantly and ambidirectionally turns discourse into praxis in order to declare its presence in the liberation struggle.
 
 ***
 
-The Manifesto on “Algorithmic Sabotage” has been written by the [Algorithmic Sabotage Research Group (ASRG)](https://tldr.nettime.org/@asrg), please consider it under the [GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.en.html). <span style="color:grey">* It should be noted that the Manifesto is designed to be developed and will be updated on this page on a regular basis. The following translations will be updated accordingly.</span>
+The Manifesto on “Algorithmic Sabotage” has been written by the [Algorithmic Sabotage Research Group (ASRG)](https://tldr.nettime.org/@asrg), please consider it under the [GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.en.html). <span style="color:grey">* It should be noted that the “Manifesto” is designed to be developed and will be updated on this page on a regular basis. The following translations will be updated accordingly.</span>
 
 {{< tabs "mas-v2024.5.1" >}}
 {{< tab "EN" >}} 
@@ -670,6 +668,96 @@ _Афіни, травень 2024 р_
 <span style="color:grey">The Ukrainian translation was prepared by Inna Pylypchuk and Isai Ostapchuk.</span>
 
  {{< /tab >}}
+
+{{< tab "TR" >}} 
+
+### “Algoritmik Sabotaj” Üzerine Manifesto
+
+Atina, Mayıs 2024
+
+0. “Algoritmik Sabotaj”, teknoloji eleştirisinde eksik olan militanlık için bir tekno itaatsizlik figürüdür.
+
+1. Teknolojiye karşı atavistik bir karşıtlıktan ziyade, “Algoritmik Sabotaj” onu kullanan topluluk gücünden ortaya çıkan bir karşı-güç biçimi olarak okunabilir.
+
+2. “Algoritmik Sabotaj”, şimdiki zamanda bir yıkım emeği gerçekleştirerek, algoritmik tahakkümün çağdaş biçimlerini ortadan kaldırarak ve etik eylem alanlarını genelleştirilmiş düşüncesizlik ve otomatiklikten geri alarak sefaletten beslenen kapitalist ideolojik çerçeveyi kesiyor.
+
+3. “Algoritmik Sabotaj”, herhangi bir sosyal, yasal veya algoritmik sınıflandırma sisteminden önce gelen, dayanışmaya yönelik eylem odaklı bir bağlılıktır.
+
+4. “Algoritmik Sabotaj”, sosyal adalet ve eşitlikçilik idealleriyle bilinçli bir şekilde uyumlu, vahşi doğrudan eylem yoluyla hegemonik teknolojinin yağmalarına karşı çıkan daha geniş bir sosyal özerklik hareketinin yapısal yenilenmesinin bir parçasıdır.
+
+5. “Algoritmik Sabotaj”, teknopolitik düzenlemelerimizi, ‘algoritmik imparatorluk ’ta katmanlaşan yapısal adaletsizlikler, üstünlükçü bakış açıları ve nekropolitik otoriter güçten uzaklaştırarak radikal bir şekilde yeniden işliyor ve hem karbon emisyonları hem de kontrolün merkezileşmesi açısından maddeselliğini ve sonuçlarını vurguluyor.
+
+6. “Algoritmik Sabotaj”, karşılıklı yardımlaşma ve dayanışma faaliyetlerine odaklanarak, güç ve kâr maksimizasyonu için algoritmik aşağılamayı reddediyor.
+
+7. Tekno-politikanın ilk adımı teknolojik değil politiktir. Radikal feminist, anti-faşist ve dekoloniyal perspektifler “Algoritmik Sabotaj ”a karşı politik bir meydan okumadır, “algoritmik imparatorluğun” indirgeyici optimizasyonlarına karşı karşılıklı bağımlılık ve kolektif özen konularını yerleştirmek.
+
+8. “Algoritmik Sabotaj” algoritmik şiddete ve faşist tekno-çözümcülüğü karşı mücadele eder ve farklı bir zihniyeti, kolektif bir “karşı istihbaratı” ifade edebilen sanatsal-aktivist direnişlere odaklanır.
+
+9. “Algoritmik Sabotaj”, zararlı teknolojinin topluluk olarak kısıtlanması ihtiyacının özgürleştirici bir savunusu, algoritmanın “üstünde” ve “altında” soyut ayrımına karşı bir mücadeledir.
+
+<span style="color:grey">The Turkish translation was prepared by an individual who has elected to remain anonymous.</span>
+
+{{< /tab >}}
+
+{{< tab "SL" >}} 
+
+### Manifest o „Algoritemski Sabotaži“
+
+_Atene, maj 2024_
+
+0. „Algoritmična Sabotaža“ je figura tehnološke neposlušnosti za militantnost, ki je v kritiki tehnologije odsotna.
+
+1. Namesto atavističnega averzija do tehnologije lahko „Algoritmična Sabotaža“ beremo kot obliko protimoči, ki izhaja iz moči skupnosti, ki jo uporablja.
+
+2. „Algoritmična Sabotaža“ se prebija skozi kapitalistični ideološki okvir, ki uspeva na bedi, tako da opravlja delo subverzije v sedanjosti, razgrajuje sodobne oblike algoritmične dominacije in iz splošne brezobzirnosti in avtomatizma ponovno pridobiva prostore za etično delovanje.
+
+3. „Algoritmična Sabotaža“ je v akcijo usmerjena zaveza solidarnosti, ki je pred katerim koli sistemom družbene, pravne ali algoritemske klasifikacije.
+
+4. „Algoritmična Sabotaža“ je del strukturne prenove širšega gibanja za družbeno avtonomijo, ki se zoperstavlja plenjenju hegemonske tehnologije z divjim neposrednim delovanjem, zavestno usklajenim z ideali družbene pravičnosti in egalitarizma.
+
+5. „Algoritmična Sabotaža“ radikalno preoblikuje naše tehnopolitične ureditve, pri čemer se izogne strukturnim nepravičnostim, superiornim perspektivam in nekropolitični avtoritarni moči, ki se kopičijo v ‚algoritemskem imperiju‘, poudarja njegovo materialnost in posledice v smislu emisij ogljika in centralizacije nadzora.
+
+6. „Algoritmična Sabotaža“ zavrača algoritmično poniževanje zaradi moči in povečevanja dobička ter se osredotoča na dejavnosti medsebojne pomoči in solidarnosti.
+
+7. Prvi korak tehnopolitike ni tehnološki, temveč politični. Radikalne feministične, antifašistične in dekolonialne perspektive so politični izziv za „Algoritmična Sabotaža“, saj postavljajo vprašanja soodvisnosti in kolektivne skrbi proti reduktivnim optimizacijam „algoritemskega imperija“.
+
+8. „Algoritmična Sabotaža“ se bori proti algoritmičnemu nasilju in fašističnemu tehno-solucionizmu ter se osredotoča na umetniško-aktivistični upor, ki lahko izraža drugačno miselnost, kolektivno ‚protiobveščevalno‘.
+
+9. „Algoritmična Sabotaža“ je emancipatorni zagovor potrebe po skupnostnem omejevanju škodljive tehnologije, boj proti abstraktnemu ločevanju ‚nad‘ in ‚pod‘ algoritmom.
+
+<span style="color:grey">The Slovenian translation was prepared by R. Ljubomir and P. Rezika.</span>
+
+{{< /tab >}}
+
+{{< tab "RO" >}} 
+
+### Manifest cu privire la „Sabotaj Algoritmic”
+
+_Atena, mai 2024_
+
+0. „Sabotaj Algoritmic” este o figură a nesupunerii tehnologice pentru militantismul care lipsește din critica tehnologiei.
+
+1. Mai degrabă decât o aversiune atavică față de tehnologie, „Sabotaj Algoritmic” poate fi citit ca o formă de contra-putere care iese din forța comunității care o deține.
+
+2. „Sabotaj Algoritmic” trece prin cadrul ideologic capitalist care prosperă pe mizerie prin efectuarea unei munci de subversiune în prezent, demontând formele contemporane de dominație algoritmică și revendicând spații pentru acțiunea etică din necugetarea și automatismul generalizat.
+
+3. „Sabotaj Algoritmic” este un angajament orientat spre acțiune față de solidaritate care precede orice sistem de clasificare socială, legală sau algoritmică.
+
+4. „Sabotaj Algoritmic” face parte dintr-o reînnoire structurală a unei mișcări mai largi pentru autonomie socială care se opune pradărilor tehnologiei hegemonice prin acțiune directă sălbatică, aliniată în mod conștient la idealurile de justiție socială și egalitarism.
+
+5. „Sabotaj Algoritmic” reelaborează radical aranjamentele noastre tehnopolitice, departe de nedreptățile structurale, perspectivele supremaciste și puterea autoritară necropolitică stratificate în „imperiul algoritmic”, subliniind materialitatea și consecințele acestuia atât în ​​ceea ce privește emisiile de carbon, cât și centralizarea controlului.
+
+6. „Sabotaj Algoritmic” refuză umilirea algoritmică pentru putere și maximizarea profitului, concentrându-se pe activități de ajutor reciproc și solidaritate.
+
+7. Primul pas al tehno-politicii nu este tehnologic, ci politic. Perspectivele feministe radicale, antifasciste și decoloniale reprezintă o provocare politică pentru „Sabotaj Algoritmic”, punând chestiunile de interdependență și grija colectivă împotriva optimizărilor reductive ale „imperiului algoritmic”.
+
+8. „Sabotaj Algoritmic” luptă împotriva violenței algoritmice și a tehno-soluției fasciste, concentrându-se pe rezistențe artistico-activiste care pot exprima o altă mentalitate, o „contra-informație” colectivă.
+
+9. „Sabotaj Algoritmic” este o apărare emancipatoare a nevoii de limitare comunitară a tehnologiei dăunătoare, o luptă împotriva segregării abstracte „deasupra” și „sub” algoritm.
+
+<span style="color:grey">The Romanian translation was prepared by Emilia Mhădă.</span>
+
+{{< /tab >}}
 
 {{< /tabs >}}
 
