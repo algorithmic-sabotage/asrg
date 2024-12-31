@@ -14,10 +14,10 @@ images:
     link="manifesto-on-algorithmic_sabotage/"
 >}}
 
-{{< home-item 
-    src="theorizing-algorithmic_sabotage/images/output-945.png" 
+{{< home-item
+    src="theorizing-algorithmic_sabotage/images/output-945.png"
     title="Theorizing “Algorithmic Sabotage”"
-    subtitle="This document represents an inaugural attempt at conceptualising the critical concept of ‘Algorithmic Sabotage’ as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism."
+    subtitle="As a central component of the Algorithmic Sabotage Research Group (ASRG) research initiative, the text, entitled Theorizing ‘Algorithmic Sabotage,’ constitutes the introductory section of a cooperative and multi-authored effort that aims to analyze, conceptualize, and theoretically delineate the critical notion of ‘Algorithmic Sabotage’ through an active, open, and collectively-driven writing process."
     link="theorizing-algorithmic_sabotage/"
 >}}
 

@@ -5,7 +5,7 @@ description: This is a preliminary version of a document comprising ten statemen
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-11-22
+modified: 2024-12-31
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -758,7 +758,35 @@ _Atena, mai 2024_
 <span style="color:grey">The Romanian translation was prepared by Emilia Mhădă.</span>
 
 {{< /tab >}}
+{{< tab "EU" >}} 
 
+### “Sabotaje Algoritmikoari” buruzko manifestua
+
+_Atenas, 2024ko maiatza_
+
+0. “Sabotaje Algoritmikoa” tekno-desobedientzia figura bat da teknologiaren kritikan ez dagoen militantziarentzat.
+
+1. Teknologiarekiko ezinikusi atabikoaren ordez, “Sabotaje Algoritmikoa”, erabiltzen duen komunitatearen indarretik sortzen den kontrabote modu bat bezala irakur daiteke.
+
+2. “Sabotaje Algoritmikoak” miserian loratzen den marko ideologiko kapitalista zeharkatzen du, orainean subertsio lana eginez, menperatze algoritmikoaren forma garaikideak deseginez eta utzikeria eta automatikotasun orokortuaren aurrean ekintza etikorako espazioak eskatuz.
+
+3. “Sabotaje Algoritmikoa” sailkapen sozial, juridiko edo algoritmikoko edozein sistemaren aurretiko ekintzara bideratutako elkartasun-konpromisoa da.
+
+4. “Sabotaje Algoritmikoa” autonomia sozialaren aldeko mugimendu zabalago baten berrikuntza estrukturalaren parte da, zeinak teknologia hegemonikoaren harraparitzei aurre egiten dien ekintza zuzen basatiaren bidez, kontzienteki justizia sozialaren eta berdinzaletasunaren idealekin lerrokatuta.
+
+5. “Sabotaje Algoritmikoak” errotik eraldatzen ditu gure egitura teknopolitikoak, “inperio algoritmikoan” estratifikatuta dauden egiturazko bidegabekerietatik, ikuspegi supremazistetatik eta botere autoritario nekropolitikotik aldenduz, haien materialtasuna eta ondorioak nabarmenduz, bai karbono isuriei dagokienez, bai kontrolaren zentralizazioari dagokionez.
+
+6. “Sabotaje Algoritmikoak” botereari eta etekinen maximizazioari mesede egiten dien umiliazio algoritmikoa arbuiatzen du, elkar-laguntza eta solidaritate jardueretan zentratuz.
+
+7. Tekno-politikaren lehen urratsa ez da teknologikoa, politikoa baizik. Ikuspegi feminista erradikal, antifaxista eta dekolonialak erronka politikoa dira “Sabotaje Algoritmikoarentzat”, interdependentzia eta zaintza kolektiboko gaiak “inperio algoritmikoaren” optimizazio erredukzionisten aurrean kokatzen dituztelako.
+
+8. “Sabotaje Algoritmikoak” bortizkeria algoritmikoaren eta teknosoluzionismo faxistaren aurka borrokatzen du, pentsamolde ezberdin bat, “kontrainteligentzia” kolektibo bat adieraz dezaketen erresistentzia artistiko eta aktibistetan arreta jarriz.
+
+9. “Sabotaje algoritmikoa” teknologia kaltegarriaren murrizketa komunitarioaren beharraren defentsa emantzipatzailea da, algoritmoaren “gainetik” eta “azpitik” segregazio abstraktuaren aurka borrokatuz.
+
+<span style="color:grey">The Basque translation was prepared by Beñat Irasuegi Ibarra.</span>
+
+{{< /tab >}}
 {{< /tabs >}}
 
 ## Supplemental Information

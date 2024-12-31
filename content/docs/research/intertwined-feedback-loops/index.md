@@ -39,8 +39,6 @@ images:
 
 The Algorithmic Sabotage Research Group (ASRG) has drawn a series of intertwined feedback loops that unfold from several interrelated briefs for intellectual and practical exploration. These critically subversive flowcharts have been informed by research on digital labour exploitation, invisible infrastructures, techno-colonialism, automatised technologies of tracking, monitoring, and surveillance, and many other contemporary phenomena at the intersection between technology and society.
 
-<span style="color:grey">* Please be advised that this page is currently the subject of active research and will be updated in a timely manner as new information emerges. The following seven abstract diagrams represent a small sample from a larger series of forty.</span>
-
 ### ABOLISHING AI
 
 This is a preliminary version of an intertwined feedback loop that promotes an AI abolitionist praxis by exposing the multiplicity of its harms and its irrevocable entanglement with various registers of violence, its nationalist, authoritarian and fascist logics, and its ideological commitment to algorithmic cruelty on a grand scale.
@@ -103,11 +101,15 @@ The diagram is available for download in PDF format via the following link: http
 
 ### TECHNOPOLITICS OF FRONTS
 
-This is a preliminary version of an intertwined feedback loop that  illustrates the procedures, aesthetic qualities, and functions of the critical concept of _‘Technopolitics of Fronts’_. <span style="color:grey">* Further information can be accessed via the following link: https://algorithmic-sabotage.github.io/asrg/technopolitics-of-fronts/.</span>
+This intertwined feedback loop provides an illustrative overview of the procedural aspects, aesthetic qualities, and functional characteristics associated with the critical concept of _‘Technopolitics of Fronts.’_ <span style="color:grey">* Further information can be accessed via the following link: https://algorithmic-sabotage.github.io/asrg/technopolitics-of-fronts/.</span>
 
 <div class="caption"><img src="images/output-639.png"><span style="color:grey">Diagram: © Algorithmic Sabotage Research Group</span></div>
 
 The diagram is available for download in PDF format via the following link: https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/
+
+***
+
+<span style="color:grey">* Please be advised that this page is currently the subject of active research and will be updated in a timely manner as new information emerges. The following seven abstract diagrams represent a small sample from a larger series of forty.</span>
 
 ## Supplemental Information
 

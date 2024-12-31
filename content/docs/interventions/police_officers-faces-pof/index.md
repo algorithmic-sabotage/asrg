@@ -6,7 +6,7 @@ bookToc: false
 url: /police_officers-faces-pof
 date: 2024-06-17
 modified: 2024-09-17
-Tags: ['Counter Surveillance', 'Scrapism', 'Copwatch', 'Social Engineering', 'OSINT', 'Artivism', 'Data', 'Face recognition', 'Counter-Intelligence', 'Social Justice', 'Police', 'Cops', 'Police Officers', 'Dataset', 'AI', 'Headshot', 'Prefigurative Techno-Politics', 'ASRG', 'Algorithmic Sabotage']
+Tags: ['Counter Surveillance', 'Scrapism', 'Copwatch', 'Social Engineering', 'OSINT', 'Artivism', 'Data', 'Counter Data', 'Face recognition', 'Counter-Intelligence', 'Social Justice', 'Police', 'Cops', 'Police Officers', 'Dataset', 'AI', 'Headshot', 'Prefigurative Techno-Politics', 'ASRG', 'Algorithmic Sabotage']
 images:
 - images/output-787.png
 ---

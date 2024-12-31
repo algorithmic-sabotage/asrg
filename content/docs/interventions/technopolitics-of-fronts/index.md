@@ -41,7 +41,7 @@ Please be advised that, over the forthcoming period, the proceedings of the asse
 
 The essay, entitled _“The Aesthetics of Technopolitics of Fronts”_, was authored by the _Communitarian Assembly on ‘Technopolitics of Fronts’_ in October 2024 and is available upon request.<span style="color:grey"> *  If you wish to gain access to the essay, kindly direct your request to the following email address: `technopolitics-of-fronts@proton.me`.</span>
 
-<div class="caption"><img src="images/output-629.png"><strong>TECHNOPOLITICS OF FRONTS</strong>: A preliminary version of an intertwined feedback loop that unfold from several interrelated briefs and terms for intellectual and practical exploration. The above abstract flowchart illustrates the procedures, aesthetic qualities, and functions of the concept of ‘Technopolitics of Fronts’. <a href="https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
+<div class="caption"><img src="images/output-629.png"><strong>TECHNOPOLITICS OF FRONTS</strong>: The above abstract flowchart provides an illustrative overview of the procedural aspects, aesthetic qualities, and functional characteristics associated with the critical concept of ‘Technopolitics of Fronts.’ <a href="https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
 
 #### Abstract
 
