@@ -1,11 +1,11 @@
 ---
 title: Manifesto on “Algorithmic Sabotage”
 title_h1: Manifesto on “Algorithmic Sabotage”
-description: This is a preliminary version of a document comprising ten statements, numbered from 0 to 9, which delineate the underlying principles, strategic approaches and aesthetic manifestations of the critical notion of ‘Algorithmic Sabotage’ within the framework of digital culture and information technology.
+description: This document presents a preliminary version comprising ten propositions, numbered from 0 to 9, that articulate the underlying principles, strategic approaches, and aesthetic manifestations of the critical concept of “algorithmic sabotage” within the broader context of digital culture and information technology.
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-12-31
+modified: 2025-01-08
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -19,11 +19,11 @@ images:
 
 _“To create? No, to destroy, destroy and destroy again, whatever the strength left in these muscles allows. Because destruction is the power that is left. The only thing worth a penny. Everything else will pass and be gone. Only their destruction will last. It’s a paradox with few equivalents. The young and capable of building new worlds, those who for years, on a daily basis, laid the foundations of faith for a better humanity, must now make hasty action, sabotage, destruction, the supreme achievements of life.” — Anonymous Partisan_
 
-The _Manifesto on “Algorithmic Sabotage”_ is comprised of ten statements, numbered from 0 to 9, which delineate the underlying principles, strategic approaches and aesthetic manifestations of the critical notion of _“Algorithmic Sabotage”_ within the framework of digital culture and information technology. The text’s purpose is not only a theoretical dissemination of militant algorithmic agency, resistance and refusal, but the diffusion of radical theory/criticism that stems from the energy of insurrectionary desire. The _Manifesto on “Algorithmic Sabotage”_ represents the relentless march of a political theory that constantly and ambidirectionally turns discourse into praxis in order to declare its presence in the liberation struggle.
+The _Manifesto on “Algorithmic Sabotage”_ comprises ten propositions, numbered from 0 to 9, that delineate the underlying principles, strategic approaches, and aesthetic manifestations of the critical concept of _“algorithmic sabotage”_ within the broader context of digital culture and information technology. The document seeks not only to promote a robust theoretical framework for militant algorithmic agency, resistance, and refusal but also to propagate radical theory and criticism emanating from the energy of insurrectionary desire. The _Manifesto on “Algorithmic Sabotage”_ represents the relentless march of a political theory that continually and ambidirectionally turns discourse into praxis, asserting its presence within the context of contemporary liberation struggles.
 
 ***
 
-The Manifesto on “Algorithmic Sabotage” has been written by the [Algorithmic Sabotage Research Group (ASRG)](https://tldr.nettime.org/@asrg), please consider it under the [GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.en.html). <span style="color:grey">* It should be noted that the “Manifesto” is designed to be developed and will be updated on this page on a regular basis. The following translations will be updated accordingly.</span>
+The _Manifesto on “Algorithmic Sabotage”_ has been authored by the Algorithmic Sabotage Research Group (ASRG) and is distributed under the provisions of the [GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.en.html). <span style="color:grey">* It is important to note that the _“Manifesto”_ is conceived as a dynamic and evolving document, which will be periodically revised and updated on this platform. In tandem with these revisions, the available translations will also be updated to reflect the most current version of the text.</span>
 
 {{< tabs "mas-v2024.5.1" >}}
 {{< tab "EN" >}} 
@@ -791,39 +791,35 @@ _Atenas, 2024ko maiatza_
 
 ## Supplemental Information
 
-### Download
+### Contact
 
-The English-language version of the Manifesto on “Algorithmic Sabotage” is available for download in [printable PDF](https://cryptpad.fr/file/#/2/file/wxjjDNHepi9BLwIGDUvzlZpO/) format.
+Should you wish to contribute—whether through an addition, improvement, critical commentary, or any form of feedback—we invite you to contact us at the following email address: [x7kekmg7@proton.me](mailto:x7kekmg7@proton.me).
 
-### Contribute
-
-#### Contact
-
-Should you wish to make a contribution, whether as an addition, an improvement, a piece of critical commentary or feedback of any kind, you are invited to contact us at the following email address: [x7kekmg7@proton.me](mailto:x7kekmg7@proton.me).
-
-We will answer to your request quicker if you encrypt your E-Mails via GPG. To obtain our public key, kindly refer to the link provided [here](DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7.asc) or utilise a public key server by entering the following command:
+For a faster response, we recommend encrypting your emails via GPG. To obtain our public key, please refer to the link provided [here](DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7.asc) or use a public key server by entering the following command:
 
 ```
 gpg --recv-keys DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7
 ```
 
-Please attach your public GPG key to the email request to make things easier for us.
+We kindly request that you include your public GPG key with your email correspondence to facilitate efficient processing on our end.
+
+### Contribute
 
 #### Translations
 
-Should one wish to translate the Manifesto on “Algorithmic Sabotage” into a new language or to improve an existing translation, the following instructions should be followed.
+Should you wish to translate the _Manifesto on “Algorithmic Sabotage”_ into a new language or enhance an existing translation, please adhere to the following instructions.
 
-We attach considerable importance to internationalism, and our intention is to translate the Manifesto on “Algorithmic Sabotage” as widely as possible into a variety of languages. The base language of our interventions is English. Consequently, the original text is written in English, which can then be translated into other languages by any interested party.
+We place significant value on internationalism and are committed to ensuring that the _Manifesto on “Algorithmic Sabotage”_ is translated into a diverse array of languages. The original document is written in English. As such, the English version is the primary reference for all interested parties wishing to undertake translation into other languages.
 
-In order to achieve high-quality translations and enhance accessibility for non-English readers, it is essential that translators possess a comprehensive understanding of both English and the target language. 
+In order to guarantee the quality and accuracy of translations and to increase accessibility for non-English-speaking audiences, it is essential that translators possess a robust understanding of both English and the target language.
 
-It is requested that translators:
+We respectfully request that translators:
 
-- Have a comprehensive understanding of the English language.
+- Possess a high level of proficiency and a nuanced understanding of the English language.
 
-- Furthermore, it is required that they have a professional or near-professional level of proficiency in the target language, which will be the language being translated. In the case of a native speaker of that language, this will be sufficient.
+- Maintain professional or near-professional proficiency in the target language. For native speakers of the target language, this level of competence is generally deemed sufficient.
 
-We kindly request that you forward the translation file, accompanied by the language of your choice, to the following e-mail address: `x7kekmg7@proton.me`. The aforementioned file should be named `mas-languagecode.md`, in which the `languagecode` denotes the two-letter language code. For instance, `mas-es.md` represents the Spanish language.
+Upon completion of the translation, kindly submit the file along with the name of the language to the following email address: `x7kekmg7@proton.me`. The file should be titled according to the format `mas-languagecode`, where `languagecode` refers to the two-letter code for the language (e.g., `mas-es.md` for Spanish).
 
 ### Selected Coverage, Online and Printed
 

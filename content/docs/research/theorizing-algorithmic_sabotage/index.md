@@ -1,10 +1,10 @@
 ---
 title: Theorizing “Algorithmic Sabotage”
 title_h1: "Theorizing “Algorithmic Sabotage”"
-description: As a central component of the Algorithmic Sabotage Research Group (ASRG) research initiative, the text, entitled Theorizing “Algorithmic Sabotage,” constitutes the introductory section of a cooperative and multi-authored effort that aims to analyze, conceptualize, and theoretically delineate the critical notion of “algorithmic sabotage” through an active, open, and collectively-driven writing process.
+description: As a central component of the Algorithmic Sabotage Research Group (ASRG) research initiative, the text titled Theorizing “Algorithmic Sabotage” serves as the introductory section of a collaborative, multi-authored endeavor that seeks to critically analyze, conceptualize, and theoretically delineate the concept of “algorithmic sabotage” through an active, open, and collectively driven process of authorship.
 url: /theorizing-algorithmic_sabotage
 date: 2024-06-13
-modified: 2024-12-13
+modified: 2025-01-08
 author: ASRG
 Tags: ['ASRG', 'Algorithmic Sabotage', 'Artivism', 'Counter-Intelligence', 'Intervention', 'Militant Liberation Struggles', 'Theorizing', 'Theorizing Algorithmic Sabotage', 'Prefigurative Techno-Politics', 'Algorithmic Sabotage Research Group']
 aliases:
@@ -21,13 +21,13 @@ images:
 
 _“To criticize and deconstruct complex artifacts such as AI monopolies, first we should engage in the meticulous work of deconnectionism, undoing—step by step, file by file, dataset by dataset, piece of metadata by piece of metadata, correlation by correlation, pattern by pattern—the social and economic fabric that constitutes them in origin[^1].”_
 
-The text, entitled _Theorizing “Algorithmic Sabotage,”_ constitutes the introductory section of a collective and cooperative multi-authored effort aimed at theoretically determining the critical notion of _“algorithmic sabotage”_ and delineating a framework for conceptualizing and analyzing its various operationalizations as a prefigurative praxis that acts directly to disrupt the threat while simultaneously defending spaces outside of algorithmic capture. This analytical approach is constituted through the articulation of discrete theoretical statements, collectively and cooperatively developed through a multi-stage open authorship process. The resulting statements elucidate the underlying principles, strategic approaches, and aesthetic manifestations of the critical notion of _“algorithmic sabotage”_ within the framework of digital culture and information technology. _Theorizing “Algorithmic Sabotage”_ represents a central component of the ongoing research initiative of the [Algorithmic Sabotage Research Group (ASRG)](https://algorithmic-sabotage.github.io/asrg/about/).
+The text, entitled _Theorizing “Algorithmic Sabotage,”_ constitutes the introductory section of a collaborative, multi-authored endeavor dedicated to the theoretical exploration of the critical concept of _“algorithmic sabotage.”_ It seeks to articulate a comprehensive analytical framework for its conceptualization and the examination of its diverse operationalizations, positioning it as a form of prefigurative praxis that directly disrupts the threat while simultaneously defending spaces outside of algorithmic capture. This analytical approach is delineated through a series of discrete theoretical propositions, collectively developed via a multi-stage, open authorship process. The resultant propositions elucidate the underlying principles, strategic approaches, and aesthetic manifestations of the critical notion of _“algorithmic sabotage”_ within the broader framework of digital culture and information technology. _Theorizing “Algorithmic Sabotage”_ represents a central component of the ongoing research initiative of the Algorithmic Sabotage Research Group (ASRG).
 
 ### Statements
 
-The following section presents a representative sample of discrete statements produced through an active, open, and collectively driven writing process with substantial contributions from a heterogeneous mixture of authors. Readers are encouraged to contribute freely to the ongoing development of the content, with the understanding that their input will be considered and incorporated as appropriate.
+The following section presents a representative sample of discrete propositions generated through a dynamic, open, and collaborative writing process, shaped by the substantial contributions of a diverse group of authors. Readers are invited to actively engage in the ongoing development of the content, with the understanding that their contributions will be evaluated and integrated as deemed appropriate.
 
-An ongoing, editable version of the text, entitled _Theorizing “Algorithmic Sabotage,”_ is accessible on a [Riseup Pad](https://pad.riseup.net/) (a browser-based collaborative text editor that enables the online creation and editing of documents based on [Etherpad](https://etherpad.org/)), via the following link: https://pad.riseup.net/p/tkuH3DkO3zCUR2WXICJX-keep.
+An ongoing, editable version of the text titled Theorizing “Algorithmic Sabotage” is available on a [Riseup Pad](https://pad.riseup.net/)—a browser-based collaborative text editor that enables the online creation and editing of documents based on [Etherpad](https://etherpad.org/). The text can be accessed via the following link: https://pad.riseup.net/p/tkuH3DkO3zCUR2WXICJX-keep.
 
 {{% details title="**`[11-14-24] - Theorizing “Algorithmic Sabotage”`**" open=false %}}
 
@@ -153,13 +153,13 @@ An ongoing, editable version of the text, entitled _Theorizing “Algorithmic Sa
 
 {{% /details %}}
 
-<span style="color:grey">* Please be advised that the project, _Theorizing “Algorithmic Sabotage,”_ is currently the subject of active research. Updates will be provided in a timely manner as new information emerges.</span>
+<span style="color:grey">* Kindly note that the project, _Theorizing “Algorithmic Sabotage,”_ is presently undergoing active research. Updates will be disseminated in due course as new findings and developments emerge.</span>
 
 ## Supplemental Information
 
 ### Preliminary Reading
 
-Please direct your attention to the preliminary reading list provided below, which was utilized as a reference point for the co-authoring process. It should be noted that this list, which will be updated on a regular basis, is not exhaustive and is intended to serve as a point of departure for additional research.
+Please refer to the preliminary reading list provided below, which has served as a foundational reference for the co-authoring process. It is important to emphasize that this list, which will be periodically revised, is not exhaustive and is intended primarily as an initial framework to guide further research and exploration.
 
 {{% details title="**`[10-26-24] - Preliminary Reading List`**" open=false %}}
 
@@ -193,9 +193,9 @@ Please direct your attention to the preliminary reading list provided below, whi
 
 ### Contact {#contact}
 
-Should you wish to provide comments or suggestions regarding this text, we kindly request that you direct them to our email address, which is: `x7kekmg7@proton.me`.
+If you wish to offer comments or suggestions pertaining to this text, we kindly invite you to send them to our designated email address: `x7kekmg7@proton.me`.
 
-To ensure secure email communication, we request that you use our GPG key in conjunction with the aforementioned email address. You can obtain the relevant public key either from [here](https://algorithmic-sabotage.github.io/asrg/about/DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7.asc) or from a public key server by entering the following command:
+For secure email communication, we encourage the use of our GPG key in conjunction with the provided email address. The corresponding public key can be accessed either from [here](https://algorithmic-sabotage.github.io/asrg/about/DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7.asc) or retrieved from a public key server by executing the following command:
 
 ```
 gpg --recv-keys DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7

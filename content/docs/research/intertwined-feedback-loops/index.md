@@ -1,10 +1,10 @@
 ---
 title: Intertwined Feedback Loops
 title_h1: "Intertwined Feedback Loops"
-description: A series of intertwined feedback loops that unfold from several interrelated briefs, which are designed to facilitate intellectual and practical exploration.
+description: A series of intertwined feedback loops, arising from several interrelated briefs, strategically designed to facilitate both intellectual inquiry and practical exploration.
 url: /intertwined-feedback-loops
 date: 2024-06-13
-modified: 2024-08-30
+modified: 2025-01-08
 author: ASRG
 Tags: ['Feedback Loops', 'Artivism', 'Abolishing AI', 'AI Dissidents', 'Algorithmic Empire', 'Technopolitics of Refusal', 'Algorithmic Sabotage', 'AI’s Algorithmic Violence', 'Technopolitics of Fronts', 'ASRG', 'AI']
 aliases:
@@ -37,85 +37,85 @@ images:
 
 ## Context
 
-The Algorithmic Sabotage Research Group (ASRG) has drawn a series of intertwined feedback loops that unfold from several interrelated briefs for intellectual and practical exploration. These critically subversive flowcharts have been informed by research on digital labour exploitation, invisible infrastructures, techno-colonialism, automatised technologies of tracking, monitoring, and surveillance, and many other contemporary phenomena at the intersection between technology and society.
+The Algorithmic Sabotage Research Group (ASRG) has developed a series of interconnected feedback loops that emerge from several interrelated briefs for intellectual and practical exploration. These critically subversive flowcharts are informed by research on digital labor exploitation, invisible infrastructures, techno-colonialism, and the automated technologies of tracking, monitoring, and surveillance, alongside numerous other contemporary phenomena situated at the intersection of technology and society.
 
-### ABOLISHING AI
+### Abolishing AI
 
-This is a preliminary version of an intertwined feedback loop that promotes an AI abolitionist praxis by exposing the multiplicity of its harms and its irrevocable entanglement with various registers of violence, its nationalist, authoritarian and fascist logics, and its ideological commitment to algorithmic cruelty on a grand scale.
+This preliminary version of an intertwined feedback loop advocates for an AI abolitionist praxis by critically exposing the multiplicity of its detrimental impacts, along with its inextricable entanglement in various forms of violence. It examines the nationalist, authoritarian, and fascist logics underpinning AI systems, alongside their ideological commitment to large-scale algorithmic cruelty.
 
 <div class="caption"><img src="images/output-378.png"><span style="color:grey">Diagram: © Algorithmic Sabotage Research Group</span></div>
 
-The diagram is available for download in PDF format via the following link: https://cryptpad.fr/file/#/2/file/ts0tiWAKkphB5yhEkd3bEhDv/
+The diagram is accessible for download in PDF format through the following link: https://cryptpad.fr/file/#/2/file/ts0tiWAKkphB5yhEkd3bEhDv/
 
 ***
 
-### AI DISSIDENTS
+### AI Dissidents
 
-This intertwined feedback loop serves to illustrate the inherent constraints and obfuscations associated with AI within the context of _“Algorithmic Empire.”_
+This intertwined feedback loop aims to critically elucidate the inherent constraints and obfuscations embedded within AI, particularly in relation to the conceptual framework of _“Algorithmic Empire.”_
 
 <div class="caption"><img src="images/output-162.png"><span style="color:grey">Diagram: © Algorithmic Sabotage Research Group</span></div>
 
-The diagram is available for download in PDF format via the following link: https://cryptpad.fr/file/#/2/file/xoK2qrqbuUwwV57HfVk12HVi/
+The diagram is accessible for download in PDF format through the following link: https://cryptpad.fr/file/#/2/file/xoK2qrqbuUwwV57HfVk12HVi/
 
 ***
 
-### ALGORITHMIC EMPIRE
+### Algorithmic Empire
 
-This visual representation provides an illustrative overview of the framework of _“Algorithmic Empire,”_ delineating its fundamental origins, operational mechanisms, and prevailing practices.
+This visual representation offers a comprehensive overview of the conceptual framework of _“Algorithmic Empire,”_ delineating its foundational origins, operational mechanisms, and prevailing practices within the broader socio-political and technological dynamics.
 
 <div class="caption"><img src="images/output-500.png"><span style="color:grey">Diagram: © Algorithmic Sabotage Research Group</span></div>
 
-The diagram is available for download in PDF format via the following link: https://cryptpad.fr/file/#/2/file/Xfn7sBZ8sBdeJhEDaPswn-Ik/
+The diagram is accessible for download in PDF format through the following link: https://cryptpad.fr/file/#/2/file/Xfn7sBZ8sBdeJhEDaPswn-Ik/
 
 ***
 
-### TECHNOPOLITICS OF REFUSAL
+### Technopolitics of Refusal
 
-An intertwined feedback loop between the technopolitical strategies of refusal, the techniques of disruption and the potentialities of resistance in the context of _“Algorithmic Empire”_.
+An intertwined feedback loop between technopolitical strategies of refusal, disruptive techniques, and the potentialities of resistance, situated within the context of the _“Algorithmic Empire.”_
 
 <div class="caption"><img src="images/output-022.png"><span style="color:grey">Diagram: © Algorithmic Sabotage Research Group</span></div>
 
-The diagram is available for download in PDF format via the following link: https://cryptpad.fr/file/#/2/file/+Q3LBu5wMSSwfJfK8XtdASo1/
+The diagram is accessible for download in PDF format through the following link: https://cryptpad.fr/file/#/2/file/+Q3LBu5wMSSwfJfK8XtdASo1/
 
 ***
 
-### ALGORITHMIC SABOTAGE
+### Algorithmic Sabotage
 
-This intertwined feedback loop examines the underlying principles, strategic methodologies and aesthetic dimensions of _“Algorithmic Sabotage”_.
+This intertwined feedback loop provides a critical examination of the underlying principles, strategic approaches, and aesthetic manifestations inherent to _“Algorithmic Sabotage,”_ positioning them within a broader theoretical and praxis-oriented framework.
 
 <div class="caption"><img src="images/output-091.png"><span style="color:grey">Diagram: © Algorithmic Sabotage Research Group</span></div>
 
-The diagram is available for download in PDF format via the following link: https://cryptpad.fr/file/#/2/file/oBrgH8sY9GdGv8Anpi7-iHpR/
+The diagram is accessible for download in PDF format through the following link: https://cryptpad.fr/file/#/2/file/oBrgH8sY9GdGv8Anpi7-iHpR/
 
 ***
 
-### AI’S ALGORITHMIC VIOLENCE
+### AI’s Algorithmic Violence
 
-This is an initial version of an intertwined feedback loop that illustrates the various manifestations of algorithmic violence perpetrated by AI in epistemic, administrative, and structural forms.
+This preliminary version of an intertwined feedback loop offers a critical analysis of the multifaceted manifestations of algorithmic violence perpetuated by AI in epistemic, administrative, and structural forms.
 
 <div class="caption"><img src="images/output-031.png"><span style="color:grey">Diagram: © Algorithmic Sabotage Research Group</span></div>
 
-The diagram is available for download in PDF format via the following link: https://cryptpad.fr/file/#/2/file/HlQw9BYZPRBP9FyCzipqKIWy/
+The diagram is accessible for download in PDF format through the following link: https://cryptpad.fr/file/#/2/file/HlQw9BYZPRBP9FyCzipqKIWy/
 
 ***
 
-### TECHNOPOLITICS OF FRONTS
+### Technopolitics of Fronts
 
-This intertwined feedback loop provides an illustrative overview of the procedural aspects, aesthetic qualities, and functional characteristics associated with the critical concept of _‘Technopolitics of Fronts.’_ <span style="color:grey">* Further information can be accessed via the following link: https://algorithmic-sabotage.github.io/asrg/technopolitics-of-fronts/.</span>
+This intertwined feedback loop offers a critical overview of the procedural aspects, aesthetic qualities, and functional characteristics associated with the concept of the _“Technopolitics of Fronts,”_ examining its theoretical foundations and practical extensions.
 
 <div class="caption"><img src="images/output-639.png"><span style="color:grey">Diagram: © Algorithmic Sabotage Research Group</span></div>
 
-The diagram is available for download in PDF format via the following link: https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/
+The diagram is accessible for download in PDF format through the following link: https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/
 
 ***
 
-<span style="color:grey">* Please be advised that this page is currently the subject of active research and will be updated in a timely manner as new information emerges. The following seven abstract diagrams represent a small sample from a larger series of forty.</span>
+<span style="color:grey">* Please be advised that this page is presently the focus of ongoing research and will be updated in due course as new information emerges. The seven abstract diagrams provided above constitute a representative subset from a broader series of forty.</span>
 
 ## Supplemental Information
 
-Please find below a preliminary reading list, which will be updated on a regular basis.
+Presented below is a preliminary reading list, which will be subject to periodic updates in alignment with the ongoing development of the subject area.
 
-{{% details title="**Preliminary Reading List**" open=true %}}
+{{% details title="**`[09-12-24] - Preliminary Reading List`**" open=true %}}
 
 - Crawford, K. and Paglen, T. (2019) Excavating AI: The Politics of Images in Machine Learning Training Sets, excavating.ai. Available at: https://excavating.ai/.
 

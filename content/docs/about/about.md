@@ -13,35 +13,33 @@ It examines the multifaceted manifestations of artistic activism and its role in
 
 ### Research Questions
 
-The framework within which the Algorithmic Sabotage Research Group (ASRG) operates is related to the analysis of the critical concept of “Algorithmic Sabotage” as a means of consciously working on artistic-activist and prefigurative techno-political strategies and aesthetics against the necropolitical technologies that reinforce structural injustices, algorithmic authoritarianism and the harmfulness of unrestrained technosolutionism.
+The Algorithmic Sabotage Research Group (ASRG) operates within a rigorously interrogated conceptual framework that foregrounds the in-depth analysis of the critical notion of _“algorithmic sabotage.”_ This concept functions as a foundational lens for the methodical formulation of artistic-activist and prefigurative techno-political strategies and aesthetics, aimed at contesting, subverting, and dismantling necropolitical technologies that perpetuate entrenched structural injustices, entrench algorithmic authoritarianism, and intensify the deleterious impacts of unchecked technosolutionism.
 
-The research is guided by the following questions:
+The research is organized around the following core inquiries:
 
-- How can “Algorithmic Sabotage”, art and activism be combined to challenge and resist the paradigm of an all-controlling and regulating technology?
+1. How can the intersection of _“algorithmic sabotage,”_ art, and activism be strategically harnessed to disrupt and challenge the dominance of pervasive, regulatory technological paradigms, while cultivating subversive aesthetic and political counter-narratives?
 
-- How does technological disobedience through “Algorithmic Sabotage” contribute to new forms of action, digital tools and content?
+2. In what ways does technological disobedience, conceptualized through the critical concept of _“algorithmic sabotage,”_ enable the emergence of novel modalities of collective agency, the design and development of digital tools, and the creation of transformative, militantly content-driven interventions that challenge and disrupt hegemonic technological infrastructures?
 
-- Acknowledging that refusal has a technopolitics: what are the wider implications of “Algorithmic Sabotage” as an act of dissent and refusal for politics, society and the arts?
+3. Given that refusal constitutes a critical form of technopolitical praxis, what are the broader implications of _“algorithmic sabotage”_ as a mechanism for dissent and resistance within political, social, and artistic contexts, particularly in challenging systemic power structures?
 
-- How can “Algorithmic Sabotage” through artistic activism, strengthen self-organised and technologically-based tactics of producing justice and promoting accountability?
-
-***
+4. How can _“algorithmic sabotage,”_ within the context of artistic activism, inform and empower self-organized, technologically-mediated strategies that advance justice, promote accountability, and facilitate the achievement of equitable and inclusive societal outcomes?
 
 ### Contact
 
 #### Email
 
-Should you have any requests, questions, suggestions or critiques, you are invited to contact the following email address: [x7kekmg7@proton.me](mailto:x7kekmg7@proton.me). We will endeavour to respond to your message as soon as is reasonably possible. Should no reply be received within a week, we kindly request that you resend your message. <span style="color:grey">*  It should be noted that emails containing tracking links or tracking pixels may be automatically deleted.</span>
+Should you have any inquiries, suggestions, or feedback, we invite you to contact us via the following email address: [x7kekmg7@proton.me](mailto:x7kekmg7@proton.me). We will make every effort to respond to your correspondence in a timely manner. In the event that no response is received within one week, we respectfully request that you resend your message. <span style="color:grey">* Please be advised that emails containing tracking links or tracking pixels may be automatically filtered and deleted.</span>
 
-Should you wish to facilitate a prompt response to your request, you are encouraged to encrypt your emails via GPG. Our public key can be obtained [here](DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7.asc) or from a public key server using the following command:
+For expedited handling of your request, we encourage the use of email encryption via GPG. Our public key is available [here](DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7.asc) or can be retrieved from a public key server using the following command:
 
 ```
 gpg --recv-keys DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7
 ```
 
-It would be greatly appreciated if you could attach your public GPG key to the email request, as this will greatly facilitate the process for us.
+We would greatly appreciate it if you could attach your public GPG key to your email request, as this will significantly expedite the processing of your correspondence.
 
-Those wishing to remain anonymous may wish to consider utilising the [Tor Browser](https://www.torproject.org/download/), ideally on a computer located outside of one's place of residence or employment. This will also serve to enhance the level of security available.
+For individuals seeking to maintain anonymity, we recommend utilizing the [Tor Browser](https://www.torproject.org/download/), preferably on a device located outside of one’s place of residence or workplace. This approach will further enhance the security and confidentiality of your communication.
 
 #### Social Media
 
@@ -51,13 +49,13 @@ Please be advised that our presence on <a rel="me" href="https://tldr.nettime.or
 
 #### Messaging
 
-We utilise [Signal](https://signal.org/) for the purpose of private messaging. Should you wish to send us a message, you are invited to do so via the following email address: `x7kekmg7@proton.me`. Please include your Signal number or username in the message, and we shall proceed accordingly.
+We utilize [Signal](https://signal.org/) for secure, private messaging. Should you wish to initiate communication, we invite you to contact us via the following email address: `x7kekmg7@proton.me`. Kindly include your Signal number or username in your message, and we will proceed accordingly.
 
 ### Support Us
 
 #### Support Us With Your Skills
 
-Should you wish to express your interest in contributing your particular skills and expertise to our research and forthcoming interventions, we would be grateful if you could send us an email at `x7kekmg7@proton.me`. In your message, please indicate the specific skills you possess and how you believe you can assist. We will contact you at the appropriate time to discuss your potential involvement in greater detail.
+Should you wish to express interest in contributing your specialized skills and expertise to our ongoing research and forthcoming interventions, we respectfully request that you contact us via email at `x7kekmg7@proton.me`. In your correspondence, please provide a detailed outline of the specific competencies you possess and explain how you envision your contributions advancing our efforts. We will reach out to you at an appropriate time to engage in a more comprehensive discussion regarding your potential involvement.
 
 ### About this Site
 
