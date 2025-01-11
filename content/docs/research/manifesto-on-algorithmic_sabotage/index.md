@@ -5,7 +5,7 @@ description: This document presents a preliminary version comprising ten proposi
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2025-01-08
+modified: 2025-01-11
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -13,7 +13,7 @@ images:
 
 {{< titling >}}
 
-<div class="caption"><img src="images/output-927.png">Graphic: © Algorithmic Sabotage Research Group<span style="color:grey"> | The typeface used is Trickster from Velvetyne Foundry: https://velvetyne.fr/fonts/trickster/</span></div>
+<div class="caption"><img src="files/images/overturn-sticker-a6.png"><strong>“I will overturn, overturn, overturn”</strong> is a sticker designed by <a href="https://www.apsara.ch/">Apsara Flury</a>, available for download in both <a href="files/overturn-sticker-a6.pdf">PDF</a> and <a href="files/overturn-sticker-a6.eps">EPS</a> formats. It is distributed under the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a> Public Domain Dedication.</div>
 
 ## Context
 
@@ -795,7 +795,7 @@ _Atenas, 2024ko maiatza_
 
 Should you wish to contribute—whether through an addition, improvement, critical commentary, or any form of feedback—we invite you to contact us at the following email address: [x7kekmg7@proton.me](mailto:x7kekmg7@proton.me).
 
-For a faster response, we recommend encrypting your emails via GPG. To obtain our public key, please refer to the link provided [here](DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7.asc) or use a public key server by entering the following command:
+For a faster response, we recommend encrypting your emails via GPG. To obtain our public key, please refer to the link provided [here](https://algorithmic-sabotage.github.io/asrg/about/DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7.asc) or use a public key server by entering the following command:
 
 ```
 gpg --recv-keys DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7

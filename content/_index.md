@@ -8,7 +8,7 @@ images:
 ---
 
 {{< home-item 
-    src="manifesto-on-algorithmic_sabotage/images/output-924.png" 
+    src="manifesto-on-algorithmic_sabotage/files/images/output-924.png" 
     title="Manifesto on “Algorithmic Sabotage”"
     subtitle="This document presents a preliminary version comprising ten propositions, numbered from 0 to 9, that articulate the underlying principles, strategic approaches, and aesthetic manifestations of the critical concept of “algorithmic sabotage” within the broader context of digital culture and information technology."
     link="manifesto-on-algorithmic_sabotage/"
@@ -35,7 +35,7 @@ images:
 {{< home-item 
     src="police_officers-faces-pof/images/output-137.png" 
     title="Police Officers Faces (POF)"
-    subtitle="This is a large-scale face recognition dataset comprising approximately 90,000 headshot photographs of thousands of police officers. It is intended as a tool to empower community members engaged in copwatch and other counter-surveillance practices."
+    subtitle="A large-scale facial recognition dataset encompassing approximately 90,000 images of thousands of law enforcement officers. This dataset has been meticulously curated to serve as a tool, equipping investigative journalists, human rights researchers, and digital activists with the necessary means to advance justice, foster transparency, and strengthen advocacy efforts. By facilitating critical inquiry and enabling informed action, the dataset aims to contribute to the ongoing efforts to hold systems of power accountable and promote the protection of fundamental rights."
     link="police_officers-faces-pof/"
 >}}
 

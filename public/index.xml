@@ -92,49 +92,33 @@
       <description>&lt;h1&gt;Police Officers Faces (POF)&lt;/h1&gt;
 
 &lt;ul class=&#34;subtitle&#34;&gt;
-	&lt;li&gt;This is a large-scale face recognition dataset comprising approximately 90,000 headshot photographs of thousands of police officers. It is intended as a tool to empower community members engaged in copwatch and other counter-surveillance practices.&lt;/li&gt;
+	&lt;li&gt;A large-scale facial recognition dataset encompassing approximately 90,000 images of thousands of law enforcement officers. This dataset has been meticulously curated to serve as a tool, equipping investigative journalists, human rights researchers, and digital activists with the necessary means to advance justice, foster transparency, and strengthen advocacy efforts. By facilitating critical inquiry and enabling informed action, the dataset aims to contribute to the ongoing efforts to hold systems of power accountable and promote the protection of fundamental rights.&lt;/li&gt;
 	&lt;li&gt;
-	Posted: Jun 17, 2024. Modified: Sep 17, 2024
+	Posted: Jun 17, 2024. Modified: Jan 11, 2025
 	
 &lt;/ul&gt;
 &lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
-
   &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
-    &lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;images/output-274.gif&#34;&gt;The above &lt;code&gt;GIF&lt;/code&gt; file contains one hundred randomly selected sample images from the &lt;em&gt;“POF”&lt;/em&gt; face recognition dataset, each of which has been annotated with the &lt;code&gt;Big Lips&lt;/code&gt; face attribute label. &lt;span style=&#34;color:grey&#34;&gt;In order to protect the privacy of the individuals depicted, the faces have been redacted.&lt;/span&gt;&lt;/div&gt;
-
+    &lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;images/output-274.gif&#34;&gt;The &lt;code&gt;GIF&lt;/code&gt; above displays 100 randomly selected sample images from the &lt;em&gt;“POF”&lt;/em&gt; face recognition dataset, each annotated with the &lt;code&gt;Big Lips&lt;/code&gt; facial attribute label. &lt;span style=&#34;color:grey&#34;&gt;In compliance with privacy considerations, all facial features have been redacted.&lt;/span&gt;&lt;/div&gt;
   &lt;/div&gt;
-
   &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
-    &lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;images/output-367.gif&#34;&gt;The above &lt;code&gt;GIF&lt;/code&gt; file contains one hundred randomly selected sample images from the &lt;em&gt;“POF”&lt;/em&gt; face recognition dataset, each of which has been annotated with the &lt;code&gt;Mouth Closed&lt;/code&gt; face attribute label. &lt;span style=&#34;color:grey&#34;&gt;In order to protect the privacy of the individuals depicted, the faces have been redacted.&lt;/span&gt;&lt;/div&gt;
-
+    &lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;images/output-367.gif&#34;&gt;The &lt;code&gt;GIF&lt;/code&gt; above displays 100 randomly selected sample images from the &lt;em&gt;“POF”&lt;/em&gt; face recognition dataset, each annotated with the &lt;code&gt;Mouth Closed&lt;/code&gt; facial attribute label. &lt;span style=&#34;color:grey&#34;&gt;In compliance with privacy considerations, all facial features have been redacted.&lt;/span&gt;&lt;/div&gt;
   &lt;/div&gt;
-
   &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
-    &lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;images/output-536.gif&#34;&gt;The above &lt;code&gt;GIF&lt;/code&gt; file contains one hundred randomly selected sample images from the &lt;em&gt;“POF”&lt;/em&gt; face recognition dataset, each of which has been annotated with the &lt;code&gt;Square Face&lt;/code&gt; face attribute label. &lt;span style=&#34;color:grey&#34;&gt;In order to protect the privacy of the individuals depicted, the faces have been redacted.&lt;/span&gt;&lt;/div&gt;
-
+    &lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;images/output-536.gif&#34;&gt;The &lt;code&gt;GIF&lt;/code&gt; above displays 100 randomly selected sample images from the &lt;em&gt;“POF”&lt;/em&gt; face recognition dataset, each annotated with the &lt;code&gt;Square Face&lt;/code&gt; facial attribute label. &lt;span style=&#34;color:grey&#34;&gt;In compliance with privacy considerations, all facial features have been redacted.&lt;/span&gt;&lt;/div&gt;
   &lt;/div&gt;
-
 &lt;/div&gt;
-
 &lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
-
   &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
-    &lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;images/output-719.gif&#34;&gt;The above &lt;code&gt;GIF&lt;/code&gt; file contains one hundred randomly selected sample images from the &lt;em&gt;“POF”&lt;/em&gt; face recognition dataset, each of which has been annotated with the &lt;code&gt;No Eyewear&lt;/code&gt; face attribute label. &lt;span style=&#34;color:grey&#34;&gt;In order to protect the privacy of the individuals depicted, the faces have been redacted.&lt;/span&gt;&lt;/div&gt;
-
+    &lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;images/output-719.gif&#34;&gt;The &lt;code&gt;GIF&lt;/code&gt; above displays 100 randomly selected sample images from the &lt;em&gt;“POF”&lt;/em&gt; face recognition dataset, each annotated with the &lt;code&gt;No Eyewear&lt;/code&gt; facial attribute label. &lt;span style=&#34;color:grey&#34;&gt;In compliance with privacy considerations, all facial features have been redacted.&lt;/span&gt;&lt;/div&gt;
   &lt;/div&gt;
-
   &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
-    &lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;images/output-827.gif&#34;&gt;The above &lt;code&gt;GIF&lt;/code&gt; file contains one hundred randomly selected sample images from the &lt;em&gt;“POF”&lt;/em&gt; face recognition dataset, each of which has been annotated with the &lt;code&gt;Arched Eyebrows&lt;/code&gt; face attribute label. &lt;span style=&#34;color:grey&#34;&gt;In order to protect the privacy of the individuals depicted, the faces have been redacted.&lt;/span&gt;&lt;/div&gt;
-
+    &lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;images/output-827.gif&#34;&gt;The &lt;code&gt;GIF&lt;/code&gt; above displays 100 randomly selected sample images from the &lt;em&gt;“POF”&lt;/em&gt; face recognition dataset, each annotated with the &lt;code&gt;Arched Eyebrows&lt;/code&gt; facial attribute label. &lt;span style=&#34;color:grey&#34;&gt;In compliance with privacy considerations, all facial features have been redacted.&lt;/span&gt;&lt;/div&gt;
   &lt;/div&gt;
-
   &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
-    &lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;images/output-897.gif&#34;&gt;The above &lt;code&gt;GIF&lt;/code&gt; file contains one hundred randomly selected sample images from the &lt;em&gt;“POF”&lt;/em&gt; face recognition dataset, each of which has been annotated with the &lt;code&gt;Middle Aged&lt;/code&gt; face attribute label. &lt;span style=&#34;color:grey&#34;&gt;In order to protect the privacy of the individuals depicted, the faces have been redacted.&lt;/span&gt;&lt;/div&gt;
-
+    &lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;images/output-897.gif&#34;&gt;The &lt;code&gt;GIF&lt;/code&gt; above displays 100 randomly selected sample images from the &lt;em&gt;“POF”&lt;/em&gt; face recognition dataset, each annotated with the &lt;code&gt;Middle Aged&lt;/code&gt; facial attribute label. &lt;span style=&#34;color:grey&#34;&gt;In compliance with privacy considerations, all facial features have been redacted.&lt;/span&gt;&lt;/div&gt;
   &lt;/div&gt;
-
 &lt;/div&gt;
-
 &lt;h2 id=&#34;context&#34;&gt;
   Context
   &lt;a class=&#34;anchor&#34; href=&#34;#context&#34;&gt;#&lt;/a&gt;
@@ -206,10 +190,10 @@
 &lt;ul class=&#34;subtitle&#34;&gt;
 	&lt;li&gt;This document presents a preliminary version comprising ten propositions, numbered from 0 to 9, that articulate the underlying principles, strategic approaches, and aesthetic manifestations of the critical concept of “algorithmic sabotage” within the broader context of digital culture and information technology.&lt;/li&gt;
 	&lt;li&gt;
-	Posted: Jun 13, 2024. Modified: Jan 8, 2025
+	Posted: Jun 13, 2024. Modified: Jan 11, 2025
 	
 &lt;/ul&gt;
-&lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;images/output-927.png&#34;&gt;Graphic: © Algorithmic Sabotage Research Group&lt;span style=&#34;color:grey&#34;&gt; | The typeface used is Trickster from Velvetyne Foundry: https://velvetyne.fr/fonts/trickster/&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;files/images/overturn-sticker-a6.png&#34;&gt;&lt;strong&gt;“I will overturn, overturn, overturn”&lt;/strong&gt; is a sticker designed by &lt;a href=&#34;https://www.apsara.ch/&#34;&gt;Apsara Flury&lt;/a&gt;, available for download in both &lt;a href=&#34;files/overturn-sticker-a6.pdf&#34;&gt;PDF&lt;/a&gt; and &lt;a href=&#34;files/overturn-sticker-a6.eps&#34;&gt;EPS&lt;/a&gt; formats. It is distributed under the &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/&#34;&gt;CC0 1.0 Universal&lt;/a&gt; Public Domain Dedication.&lt;/div&gt;
 &lt;h2 id=&#34;context&#34;&gt;
   Context
   &lt;a class=&#34;anchor&#34; href=&#34;#context&#34;&gt;#&lt;/a&gt;
