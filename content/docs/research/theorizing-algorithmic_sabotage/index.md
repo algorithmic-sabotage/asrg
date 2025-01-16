@@ -4,7 +4,7 @@ title_h1: "Theorizing “Algorithmic Sabotage”"
 description: As a central component of the Algorithmic Sabotage Research Group (ASRG) research initiative, the text titled Theorizing “Algorithmic Sabotage” serves as the introductory section of a collaborative, multi-authored endeavor that seeks to critically analyze, conceptualize, and theoretically delineate the concept of “algorithmic sabotage” through an active, open, and collectively driven process of authorship.
 url: /theorizing-algorithmic_sabotage
 date: 2024-06-13
-modified: 2025-01-08
+modified: 2025-01-15
 author: ASRG
 Tags: ['ASRG', 'Algorithmic Sabotage', 'Artivism', 'Counter-Intelligence', 'Intervention', 'Militant Liberation Struggles', 'Theorizing', 'Theorizing Algorithmic Sabotage', 'Prefigurative Techno-Politics', 'Algorithmic Sabotage Research Group']
 aliases:
@@ -15,7 +15,7 @@ images:
 
 {{< titling >}}
 
-<div class="caption"><img src="images/output-948.png">Graphic: © Algorithmic Sabotage Research Group<span style="color:grey"> | The typeface used is Trickster from Velvetyne Foundry: https://velvetyne.fr/fonts/trickster/</span></div>
+<div class="caption"><img src="files/images/output-380.png">An image illustrating the front and back covers of the e-brochure <em>Theorizing “Algorithmic Sabotage”</em>. The design and layout were developed by <a href="https://www.apsara.ch/">Apsara Flury</a>.</div>
 
 ## Context
 
@@ -27,7 +27,7 @@ The text, entitled _Theorizing “Algorithmic Sabotage,”_ constitutes the intr
 
 The following section presents a representative sample of discrete propositions generated through a dynamic, open, and collaborative writing process, shaped by the substantial contributions of a diverse group of authors. Readers are invited to actively engage in the ongoing development of the content, with the understanding that their contributions will be evaluated and integrated as deemed appropriate.
 
-An ongoing, editable version of the text titled Theorizing “Algorithmic Sabotage” is available on a [Riseup Pad](https://pad.riseup.net/)—a browser-based collaborative text editor that enables the online creation and editing of documents based on [Etherpad](https://etherpad.org/). The text can be accessed via the following link: https://pad.riseup.net/p/tkuH3DkO3zCUR2WXICJX-keep.
+An ongoing, editable version of the text titled _Theorizing “Algorithmic Sabotage”_ is available on a [Riseup Pad](https://pad.riseup.net/)—a browser-based collaborative text editor that enables the online creation and editing of documents based on [Etherpad](https://etherpad.org/). The text can be accessed via the following link: https://pad.riseup.net/p/tkuH3DkO3zCUR2WXICJX-keep.
 
 {{% details title="**`[11-14-24] - Theorizing “Algorithmic Sabotage”`**" open=false %}}
 
@@ -191,9 +191,15 @@ Please refer to the preliminary reading list provided below, which has served as
 
 {{% /details %}}
 
-### Contact {#contact}
+### Download
 
-If you wish to offer comments or suggestions pertaining to this text, we kindly invite you to send them to our designated email address: `x7kekmg7@proton.me`.
+#### E-Brochure
+
+The initial version of the text is available for download as an e-brochure in [PDF](files/e-brochure-theorizing-algorithmic_sabotage-a5.pdf) format. Entitled _Theorizing “Algorithmic Sabotage”_, this brochure has been edited by the Algorithmic Sabotage Research Group (ASRG). The design and layout were created by [Apsara Flury](https://www.apsara.ch/) and produced using the [Alternative Layout System](https://alternativelayoutsystem.com/), a framework developed by Giliane Cachin and INT Studio. The publication incorporates the typefaces _Authentic Sans_ by [AUTHENTIC](https://authentic.website/) and _Generation Mono_ by [Nguyen Gobber](https://nguyengobber.com/typefaces/generation-mono). It is distributed under the terms of the _Collective Conditions for Re-Use (CC4r) 1.0_ license. For a comprehensive explanation of this licensing framework, please refer to the official documentation available at https://constantvzw.org/wefts/cc4r.en.html.
+
+### Contact
+
+If you wish to offer comments or suggestions pertaining to this text, we kindly invite you to send them to our designated email address: [x7kekmg7@proton.me](mailto:x7kekmg7@proton.me).
 
 For secure email communication, we encourage the use of our GPG key in conjunction with the provided email address. The corresponding public key can be accessed either from [here](https://algorithmic-sabotage.github.io/asrg/about/DD4FF0D691C7C8F501C1CD0441CC385A75C16CD7.asc) or retrieved from a public key server by executing the following command:
 

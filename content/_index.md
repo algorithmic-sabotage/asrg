@@ -15,7 +15,7 @@ images:
 >}}
 
 {{< home-item
-    src="theorizing-algorithmic_sabotage/images/output-945.png"
+    src="theorizing-algorithmic_sabotage/files/images/output-945.png"
     title="Theorizing “Algorithmic Sabotage”"
     subtitle="As a central component of the Algorithmic Sabotage Research Group (ASRG) research initiative, the text titled Theorizing “Algorithmic Sabotage” serves as the introductory section of a collaborative, multi-authored endeavor that seeks to critically analyze, conceptualize, and theoretically delineate the concept of “algorithmic sabotage” through an active, open, and collectively driven process of authorship."
     link="theorizing-algorithmic_sabotage/"
@@ -42,7 +42,7 @@ images:
 {{< home-item 
     src="technopolitics-of-fronts/images/output-641.png" 
     title="Communitarian Assembly on ‘Technopolitics of Fronts’"
-    subtitle="A bottom-up, horizontally organised mechanism that functions as a means of uniting the spaces of artistic activism, technical concern and collective action. The Communitarian Assembly on ‘Technopolitics of Fronts’ provide a structure that counterbalances those aspects of computing that are toxic to ethics."
+    subtitle="The Communitarian Assembly on ‘Technopolitics of Fronts’ represents a self-organizing, horizontally structured framework, meticulously designed to integrate and align the intersecting domains of artistic activism, technological concern, and collective action, oriented towards advancing and amplifying community-driven efforts to constrain the harmful practices associated with contemporary hyperscale computation."
     link="technopolitics-of-fronts/"
 >}}
 

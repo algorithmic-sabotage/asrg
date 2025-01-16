@@ -1,11 +1,11 @@
 ---
 title: Technopolitics of Fronts
 title_h1: "Communitarian Assembly on ‘Technopolitics of Fronts’"
-description: A bottom-up, horizontally organised mechanism that functions as a means of uniting the spaces of artistic activism, technical concern and collective action. The Communitarian Assembly on ‘Technopolitics of Fronts’ provide a structure that counterbalances those aspects of computing that are toxic to ethics.
+description: The Communitarian Assembly on ‘Technopolitics of Fronts’ represents a self-organizing, horizontally structured framework, meticulously designed to integrate and align the intersecting domains of artistic activism, technological concern, and collective action, oriented towards advancing and amplifying community-driven efforts to constrain the harmful practices associated with contemporary hyperscale computation.
 bookToc: false
 url: /technopolitics-of-fronts
 date: 2024-09-07
-modified: 2024-10-19
+modified: 2025-01-15
 Tags: ['Technopolitics of Fronts', 'Resistance', 'Communitarian Assembly', 'Solidarity', 'Artivism', 'Anti-fascist Radical Care', 'Feminist Methods', 'Decolonial Tactics']
 images:
 - images/output-787.png
@@ -15,39 +15,59 @@ images:
 
 <div class="caption"><img src="images/output-641.png">Graphic: © Communitarian Assembly on ‘Technopolitics of Fronts’<span style="color:grey"> | The typeface used is Avara from Velvetyne Foundry: https://velvetyne.fr/fonts/avara/</span></div>
 
+<span style="color:grey">* Please note that the information provided on this page is intended as a preliminary overview and is subject to updates and revisions as new data and insights become available. These updates pertain to the actions, interventions, and deliberative processes of the assembly body.</span>
+
 ## Context
 
 _“Nothing’s more important than stopping fascism, because fascism will stop us all.”_ — Fred Hampton, Black Panther Party[^1]
 
 _“If you think technology will solve your problems, you don’t understand technology — and you don’t understand your problems.”_ — Laurie Anderson[^2] 
 
-... The Algorithmic Sabotage Research Group (ASRG) is proceeding with the formation of the Communitarian Assembly on ‘Technopolitics of Fronts’. A self-​constituting, bottom-up, horizontally organised structure that counterbalances those aspects of computing that are toxic to ethics. A structural alternative framework that _‘slow the universalizing process by unsettling existing assumptions, boundaries and patterns of political action’[^3]_. The objective of the Communitarian Assembly on ‘Technopolitics of Fronts’ is to create a kind of circuit-breaker, where the complexities of situated knowledge can be counterposed to the harmfulness of unrestrained automated algorithmic solutionism. As an adoptive structure that reverses exclusion and exception and enables participation and empowerment, the Communitarian Assembly on ‘Technopolitics of Fronts’ acts as a brake to the careless and often cruel consequences of fake automation and thoughtless algorithmic optimisation, mitigating the risk that comes with the new powers of machinery embedded in patterns that deepen harm.
+The Algorithmic Sabotage Research Group (ASRG) is undertaking the formation of the _Communitarian Assembly on ‘Technopolitics of Fronts.’_ This initiative constitutes a self-organizing, bottom-up, and horizontally structured movement-building framework, strategically conceived to facilitate and enhance community-driven efforts focused on constraining the pernicious and deleterious practices of contemporary hyperscale computation. The assembly aims to function as a critical counterforce to the often reckless and ethically problematic consequences of unrestrained reductive technosolutionism, fake automation, and algorithmic operations of hyper-abstracted optimization, striving to mitigate the risks posed by the expanding influence of computational algorithms embedded in frameworks that perpetuate and amplify harm.
+
+### Assembly Objectives
+
+The core objectives of the _Communitarian Assembly on ‘Technopolitics of Fronts’_ are articulated as follows:
+
+1. To operate as a pivotal and strategically coordinated platform for the orchestration of collective action, thereby enabling the systematic mobilization of a diverse coalition of individuals and groups in alignment with a rigorously conceptualized and strategically articulated framework of resistance.
+
+2. To serve as a prominent and transformative exemplification of the radical reconfiguration within a specific segment of the artistic-activist movement, functioning as a critical catalyst for the mobilization of collective action and the fostering of strategic counteraction against entrenched power structures emblematic of techno-feudal dynamics.
 
 ### Mode of Operation
 
-`2024-09-10`: The present operational mode of the Communitarian Assembly on ‘Technopolitics of Fronts’ is as follows:
+The operational framework of the _Communitarian Assembly on ‘Technopolitics of Fronts’_ is outlined below.
 
-{{< hint warning >}}
-In its inaugural phase of operations, the Communitarian Assembly on ‘Technopolitics of Fronts’ functions as a closed, non-public assembly with regard to both its organisational procedure and its operational activity.
- 
-Please be advised that, over the forthcoming period, the proceedings of the assembly will become progressively available to the public, thus facilitating direct engagement with the central aspects of the consultation process.
-{{% /hint %}}
+In its preliminary phase, the _Communitarian Assembly on ‘Technopolitics of Fronts’_ operates as a closed, non-public entity, wherein both its organizational procedures and operational activities remain confidential and restricted. This initial structure is designed to foster a focused and controlled development of the assembly's core processes, ensuring that foundational decisions and internal deliberations are insulated from external pressures during the nascent stages of the initiative.
 
-<span style="color:grey"> * It is important to note that as new information becomes available concerning the operational activity of the assembly, the content of this page will be updated in a timely manner.</span>
+It is important to emphasize that, over the coming period, the proceedings of the assembly will progressively transition towards greater public accessibility, allowing for incremental transparency and the facilitation of broader engagement. This phased release of information aims to encourage direct participation from the public in the central aspects of the consultation process, while simultaneously safeguarding the integrity and deliberative autonomy of the assembly during its formative phase.
 
-## Essays
+### Publications (Selection)
+
+This subsection will present and facilitate access to the texts, articles, and essays authored by the assembly body, offering a detailed overview of their thematic focus, underlying objectives, and their significance within the broader context of the initiative.
+
+{{% details title="**`[2024-25] - The Aesthetics of ‘Technopolitics of Fronts’`**" open=false %}}
 
 ### The Aesthetics of ‘Technopolitics of Fronts’
 
-The essay, entitled _“The Aesthetics of Technopolitics of Fronts”_, was authored by the _Communitarian Assembly on ‘Technopolitics of Fronts’_ in October 2024 and is available upon request.<span style="color:grey"> *  If you wish to gain access to the essay, kindly direct your request to the following email address: `technopolitics-of-fronts@proton.me`.</span>
+The essay, authored by the _Communitarian Assembly on ‘Technopolitics of Fronts’_ in October 2024, epitomizes a meticulously deliberate and methodologically rigorous approach in articulating a critical and nuanced analysis of the procedural dimensions, aesthetic qualities, and functional dynamics that are integral to the prefigurative framework of _‘Technopolitics of Fronts.’_
 
-<div class="caption"><img src="images/output-629.png"><strong>TECHNOPOLITICS OF FRONTS</strong>: The above abstract flowchart provides an illustrative overview of the procedural aspects, aesthetic qualities, and functional characteristics associated with the critical concept of ‘Technopolitics of Fronts.’ <a href="https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/">Download the diagram as a PDF</a><span style="color:grey"> | Diagram: © Algorithmic Sabotage Research Group</span></div>
+<div class="caption"><img src="https://algorithmic-sabotage.github.io/asrg/intertwined-feedback-loops/images/output-639.png"><strong>TECHNOPOLITICS OF FRONTS:</strong> This intertwined feedback loop offers a critical overview of the procedural aspects, aesthetic qualities, and functional characteristics associated with the concept of the <em>“Technopolitics of Fronts,”</em> examining its theoretical foundations and practical extensions. <a href="https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/">Download the diagram as a PDF</a> <span style="color:grey">| Diagram: © Algorithmic Sabotage Research Group</span></div>
 
 #### Abstract
 
-The essay offers a theoretical analysis of the aesthetic manifestations of the critical concept of ‘Technopolitics of Fronts,’ as operationalised within the realms of political, cultural, societal and technological struggles against the technopolitical equivalents of political liberalism. It provides insights into the ethical considerations and prefigurative methodologies, tactics, and practices of resistance, agency, and refusal associated with it.
+This essay undertakes a rigorous and methodologically robust theoretical analysis of the procedural dimensions, aesthetic manifestations, and functional attributes that are inextricably linked to the critical concept of _‘Technopolitics of Fronts.’_ It provides a comprehensive and systematic examination of the operationalization of this concept, scrutinizing its deployment across the intersecting domains of political, cultural, societal, and technological struggles, elucidating the intricate and multifaceted interrelations between its conceptual foundations and practical facets.
 
-<span style="color:grey">* Please be advised that the essay will be made available for download in PDF format via this page within the next short period of time. Furthermore, a limited edition of 50 hand-made paper copies will be distributed free of charge. The Algorithmic Sabotage Research Group (ASRG) will assume responsibility for shipping costs to any location where a request is received. To request a copy, please refer to the following instructions for the appropriate contact details.</span>
+The analysis delves into the ethical commitments, prefigurative methodologies, and praxis of radically assertive resistance, agency, and refusal, which form the foundational pillars of this framework. By critically interrogating these interrelated aesthetic and political dynamics, the essay elucidates the mechanisms through which such efforts aim to subvert, disrupt, and dismantle entrenched reactionary technopolitical power structures, contributing to a deeper and more sophisticated understanding within the complex and ever-evolving fabric of global socio-political processes.
+
+#### License Information
+
+This essay is distributed under the terms of the _Collective Conditions for Re-Use (CC4r) 1.0_ license. For a comprehensive overview of this licensing framework, please refer to the official documentation available at https://constantvzw.org/wefts/cc4r.en.html.
+
+***
+
+<span style="color:grey">* We wish to inform you that we are currently engaged in the development of an expanded and more comprehensive revision of the text. This forthcoming version will offer a thorough exploration and critical elaboration of the theoretical frameworks and conceptual foundations introduced in the initial essay. The updated version is expected to be freely accessible on this page in the near future.</span>
+
+{{% /details %}}
 
 ## Supplemental Information
 
@@ -55,24 +75,20 @@ The essay offers a theoretical analysis of the aesthetic manifestations of the c
 
 #### Email
 
-Should you have any requests, questions, suggestions or critiques regarding the Communitarian Assembly on 'Technopolitics of Fronts', please direct them to the following email address, which should be used as the preferred method of communication: [technopolitics-of-fronts@proton.me](mailto:technopolitics-of-fronts@proton.me).
+For any inquiries, requests, suggestions, or critiques concerning the _Communitarian Assembly on ‘Technopolitics of Fronts,’_ we respectfully request that all correspondence be directed to the designated email address: [technopolitics-of-fronts@proton.me](mailto:technopolitics-of-fronts@proton.me). This email has been established as the official and preferred channel of communication.
 
 #### Private Email
 
-In order to facilitate secure and confidential communication and a more prompt response to your enquiry, it is required that you encrypt your emails using GPG.
-
-You can obtain our public key [here](166C7E7BF589AEDDABD355F420FA7BD9C51114C8.asc) or from a public key server using the following command:
+For secure and encrypted communications, please ensure emails are encrypted using GPG. The Assembly’s public encryption key is available for download via the provided hyperlink [here](166C7E7BF589AEDDABD355F420FA7BD9C51114C8.asc), or it can be retrieved from a public key server using the following command:
 
 ```
 gpg --recv-keys 166C7E7BF589AEDDABD355F420FA7BD9C51114C8
 ```
 
-We kindly request that you attach your public GPG key to the email request, as this will facilitate the process for all parties involved.
+Additionally, we kindly request that you attach your public GPG key to your email, which will facilitate seamless and efficient communication for all parties involved.
 
 [^1]: Alk, H. (Director) (1971) The Murder of Fred Hampton. Chicago, IL: The Film Group.
 
 [^2]: Sterling, B. (2020) Laurie Anderson, machine learning artist-in-residence, Wired. Available at: https://www.wired.com/beyond-the-beyond/2020/03/laurie-anderson-machine-learning-artist-residence/.
-
-[^3]: Mitchell, A. (2015) Posthumanist post-colonialism?, Worldly (blog). Available at: https://worldlyir.wordpress.com/2015/02/26/posthumanist-postcolonialism/. 
 
 
