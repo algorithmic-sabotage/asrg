@@ -5,7 +5,7 @@ description: This document presents a preliminary version comprising ten proposi
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2025-01-11
+modified: 2025-01-20
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -785,6 +785,64 @@ _Atenas, 2024ko maiatza_
 9. “Sabotaje algoritmikoa” teknologia kaltegarriaren murrizketa komunitarioaren beharraren defentsa emantzipatzailea da, algoritmoaren “gainetik” eta “azpitik” segregazio abstraktuaren aurka borrokatuz.
 
 <span style="color:grey">The Basque translation was prepared by Beñat Irasuegi Ibarra.</span>
+
+{{< /tab >}}
+{{< tab "SQ" >}} 
+
+### Manifesto mbi "Sabotazhin Algoritmik"
+
+_Athinë, Maj 2024_
+
+0. "Sabotazhi Algoritmik" është një figurë e teknodisobiediencë për militantizmin që mungon në kritikën e thelluar të teknologjisë.
+
+1. Në vend të një kundërshtimi atavistik ndaj teknologjisë, "Sabotazhi Algoritmik" mund të kuptohet si një formë e kundërpushtetit që lind nga forca e komunitetit që e ushtron atë.
+
+2. "Sabotazhi Algoritmik" sfidon kornizën ideologjike kapitaliste që ushqehet me mjerimin, duke realizuar një akt nënversioni në të tashmen, duke çmontuar format bashkëkohore të dominimit algoritmik dhe duke rikthyer hapësira për veprim etik përballë mendjemadhësisë dhe automatizmit të përgjithshëm.
+
+3. "Sabotazhi Algoritmik" është një angazhim i orientuar drejt veprimit për solidaritet, që parashikon të sfidojë çdo sistem të klasifikimit shoqëror, ligjor dhe algoritmik.
+
+4. "Sabotazhi Algoritmik" është pjesë e një rinovimi strukturor të një lëvizjeje më të gjerë për autonominë shoqërore, që kundërshton abuzimet e teknologjisë hegjemonike përmes aksioneve të drejtpërdrejta dhe të egra, duke u rreshtuar me idealet e drejtësisë shoqërore dhe barazisë.
+
+5. "Sabotazhi Algoritmik" transformon radikalisht strukturat tona teknopolitike, duke i larguar ato nga padrejtësitë strukturore, perspektivat supremaciste dhe fuqinë autoritare necropolitike të ngulitura në 'perandorinë algoritmike', duke theksuar materialitetin dhe pasojat e saj si në aspektin e emetimeve të karbonit, ashtu edhe në atë të centralizimit të kontrollit.
+
+6. "Sabotazhi Algoritmik" refuzon përuljen algoritmike për maksimizimin e pushtetit dhe fitimit, duke u përqendruar në aktivitete të ndihmës së ndërsjellë dhe solidaritetit.
+
+7. Hapi i parë i teknopolitikës është politik, dhe jo teknologjik. Perspektivat radikale feministe, anti-fashiste dhe dekoloniale paraqesin një sfidë politike për "Sabotazhin Algoritmik", duke vënë theksin mbi çështjet e ndërvarësisë dhe kujdesit kolektiv, përballë optimizimeve reduktive të "perandorisë algoritmike".
+
+8. "Sabotazhi Algoritmik" lufton kundër dhunës algoritmike dhe teknosolutionizmit fashist, duke u fokusuar në rezistencat artistike-aktiviste që mund të shprehin një mentalitet alternativ, një "kundërinteligjencë" kolektive.
+
+9. "Sabotazhi Algoritmik" është një mbrojtje emancipuese e nevojës për kufizim komunitar të teknologjisë dëmprurëse, një luftë kundër segregimit abstrakt "lart" dhe "poshtë" algoritmit.
+
+<span style="color:grey">The Albanian translation was prepared by L. Mirela.</span>
+
+ {{< /tab >}}
+ {{< tab "HY" >}} 
+
+### Մանիֆեստ «Ալգորիթմական Սաբոտաժի» մասին
+
+_Աթենք, Մայիս 2024_
+
+0. «Ալգորիթմական սաբոտաժը» տեխնո-անհնազանդության կերպար է, որը լրացնում է տեխնոլոգիայի քննադատությունից բացակայող մարտականությունը:
+
+1. Ի տարբերություն տեխնոլոգիայից հետադիմական խուսափման, «Ալգորիթմական սաբոտաժը» կարող է ընկալվել որպես հակաուժի ձև, որը ծագում է այն համայնքի ուժից, որն այն կիրառում է:
+
+2. «Ալգորիթմական սաբոտաժը» անցնում է կապիտալիստական գաղափարախոսական կառուցվածքի միջով, որն բարգավաճում է տառապանքի հաշվին՝ ներկայում կատարելով ապակայունացման աշխատանք, ապամոնտաժելով ալգորիթմական գերիշխանության ժամանակակից ձևերը և վերանվաճելով բարոյական գործողությունների տարածքներ՝ ընդհանուր անտարբերությունից և ավտոմատիզմից:
+
+3. «Ալգորիթմական սաբոտաժը» գործողությունների վրա հիմնված հանձնառություն է դեպի համերաշխություն, որը գերազանցում է սոցիալական, իրավական կամ ալգորիթմական դասակարգման ցանկացած համակարգ:
+
+4. «Ալգորիթմական սաբոտաժը» ավելի լայն սոցիալական ինքնավարության շարժման կառուցվածքային վերանորոգման մասն է, որը ընդդիմանում է հեգեմոնիկ տեխնոլոգիայի հափշտակություններին՝ վայրի ուղիղ գործողությունների միջոցով՝ իր գիտակցված հավատարիմությամբ սոցիալական արդարության և հավասարության իդեալներին:
+
+5. «Ալգորիթմական սաբոտաժը» արմատապես վերակառուցում է մեր տեխնո-քաղաքական հարաբերությունները՝ հեռու կառուցվածքային անարդարություններից, գերակայության տեսանկյուններից և «ալգորիթմական կայսրության» շերտավորված նեկրոպոլիտիկ ավտորիտար ուժից՝ ընդգծելով դրա նյութականությունը և հետևանքները՝ ինչպես ածխածնի արտանետումների, այնպես էլ վերահսկողության կենտրոնացման առումով:
+
+6. «Ալգորիթմական սաբոտաժը» մերժում է ալգորիթմական նվաստացումը՝ հանուն իշխանության և շահույթի առավելագույնացման՝ կենտրոնանալով փոխօգնության և համերաշխության գործողությունների վրա:
+
+7. Տեխնո-քաղաքականության առաջին քայլը ոչ թե տեխնոլոգիական է, այլ քաղաքական: Ռադիկալ ֆեմինիստական, հակաֆաշիստական և դեկոլոնիալ հայացքները «Ալգորիթմական սաբոտաժի» համար քաղաքական մարտահրավեր են, որոնք փոխկախվածության և հավաքական խնամքի հարցերը դնում են «ալգորիթմական կայսրության» վերացական օպտիմալացումներին հակառակ:
+
+8. «Ալգորիթմական սաբոտաժը» պայքարում է ալգորիթմական բռնության և ֆաշիստական տեխնո-լուծողականության դեմ՝ կենտրոնանալով արվեստա-ակտիվիստական դիմադրությունների վրա, որոնք կարող են արտահայտել այլ մտածելակերպ՝ հավաքական «հակահետախուզություն»:
+
+9. «Ալգորիթմական սաբոտաժը» վնասակար տեխնոլոգիայի հանրային սահմանափակման անհրաժեշտության ազատագրական պաշտպանություն է՝ պայքար «ալգորիթմի վերևում» և «ներքևում» վերացական տարանջատման դեմ:
+
+<span style="color:grey">The Armenian translation was prepared by Kayl Cobanyan.</span>
 
 {{< /tab >}}
 {{< /tabs >}}

@@ -42,7 +42,7 @@ images:
 {{< home-item 
     src="technopolitics-of-fronts/images/output-641.png" 
     title="Communitarian Assembly on ‘Technopolitics of Fronts’"
-    subtitle="The Communitarian Assembly on ‘Technopolitics of Fronts’ represents a self-organizing, horizontally structured framework, meticulously designed to integrate and align the intersecting domains of artistic activism, technological concern, and collective action, oriented towards advancing and amplifying community-driven efforts to constrain the harmful practices associated with contemporary hyperscale computation."
+    subtitle="The Communitarian Assembly on ‘Technopolitics of Fronts’ constitutes a self-organizing, horizontally structured framework rigorously designed to integrate and align the intersecting domains of artistic activism, technological concerns, and collective action, with the aim of advancing and amplifying community-driven efforts to constrain the harmful practices associated with contemporary hyperscale computation."
     link="technopolitics-of-fronts/"
 >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Technopolitics of Fronts
 title_h1: "Communitarian Assembly on ‘Technopolitics of Fronts’"
-description: The Communitarian Assembly on ‘Technopolitics of Fronts’ represents a self-organizing, horizontally structured framework, meticulously designed to integrate and align the intersecting domains of artistic activism, technological concern, and collective action, oriented towards advancing and amplifying community-driven efforts to constrain the harmful practices associated with contemporary hyperscale computation.
+description: The Communitarian Assembly on ‘Technopolitics of Fronts’ constitutes a self-organizing, horizontally structured framework rigorously designed to integrate and align the intersecting domains of artistic activism, technological concerns, and collective action, with the aim of advancing and amplifying community-driven efforts to constrain the harmful practices associated with contemporary hyperscale computation.
 bookToc: false
 url: /technopolitics-of-fronts
 date: 2024-09-07
