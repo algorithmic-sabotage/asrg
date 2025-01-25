@@ -8,7 +8,7 @@ title: "Sabot in the Age of AI"
 weight: 10
 ---
 
-<div class="caption"><img src="poison.madhouse-project.png">A captured screenshot showcasing the <code>iocaine</code> <a href="https://poison.madhouse-project.org/">demonstration</a> site in operation. The primary objective of <code>iocaine</code> is to generate a stable, infinite maze of randomized garbage. Each page is randomly generated but adheres to a consistent structure: an optional <em>'back'</em> link (pointing to <code>../</code>), followed by a series of Markov chain-generated paragraphs of varying lengths, and an unordered list of links at the bottom. Each link is relative to the current page and features a randomized URI along with accompanying randomized text. For further details on its functionality, refer to <a href="https://git.madhouse-project.org/algernon/iocaine/src/branch/main/docs/how-it-works.md">docs/how-it-works.md</a>.</div>
+<div class="caption"><img src="poison.madhouse-project.png">A captured screenshot showcasing the <code>iocaine</code> <a href="https://poison.madhouse-project.org/">demonstration</a> site in operation. The primary objective of <code>iocaine</code> is to generate a stable, infinite maze of randomized garbage. Each page is randomly generated but adheres to a consistent structure: an optional <em>'back'</em> link (pointing to <code>../</code>), followed by a series of Markov chain-generated paragraphs of varying lengths, and an unordered list of links at the bottom. Each link is relative to the current page and features a randomized URI along with accompanying randomized text. Additional details on its functionality can be found on the <a href="https://iocaine.madhouse-project.org/">dedicated website</a>.</div>
 
 ## Context
 
@@ -17,7 +17,6 @@ This formulated list diligently records strategically offensive methodologies an
 ###  List of Resources
 
 **Table 1: Offensive Methods and Strategic Approaches for Facilitating (Algorithmic) Sabotage, Framework Disruption, and Intentional Data Poisoning**
-
 
 | **No.** | **Tool/Method**         | **Description**                                                                                                                                                                                                                                                                                         | **Source**                                             |
 |---------|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
@@ -29,7 +28,7 @@ This formulated list diligently records strategically offensive methodologies an
 | 6.      | **`konterfai`**          | A proof-of-concept model-poisoner for LLMs that generates nonsensical content ("bullshit") to degrade these models.                                                                                                                           | [URL](https://codeberg.org/konterfai/konterfai)        |
 | 7.      | **`caddy-defender`**     | A middleware plugin for [Caddy](https://caddyserver.com/) that blocks or manipulates requests based on client IP. Useful for preventing unwanted traffic or polluting AI training data with garbage responses.                                | [URL](https://github.com/JasonLovesDoggo/caddy-defender)|
 | 8.      | **`marko`**              | Implements the [Dissociated Press](https://en.wikipedia.org/wiki/Dissociated_press) algorithm as both a library and CLI tool. It generates indefinite output based on character- or word-based Markov models.                                  | [URL](https://codeberg.org/timmc/marko/)               |
-
+| 9.      | **`markov-tarpit`**              | This software can run as a back-end for a webserver, in order to trickle out a Markov chain generated output. The intended use is tarpitting "AI" bots while feeding them, slowly, useless data.                                  | [URL](https://git.rys.io/libre/markov-tarpit)               |
 
 <div class="caption"><strong>Table 1:</strong> This table provides a comprehensive, analytical overview of diverse computational methods and offensive techniques explicitly designed to facilitate (algorithmic) sabotage, deliberate disruption, and targeted poisoning within the operational workflows of artificial intelligence (AI) systems. Each resource delineated herein has been meticulously structured to erode the integrity of AI models, with particular emphasis on destabilizing their data acquisition mechanisms, subverting training pipelines, and circumventing the foundational operational frameworks that underpin their functionality and reliability.</div>
 
