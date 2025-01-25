@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on ASRG</title>
+    <link>http://localhost:1313/asrg/posts/</link>
+    <description>Recent content in Blog on ASRG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/asrg/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sabot in the Age of AI</title>
+      <link>http://localhost:1313/asrg/posts/sabot-in-the-age-of-ai/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/posts/sabot-in-the-age-of-ai/</guid>
+      <description>&lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;poison.madhouse-project.png&#34;&gt;A captured screenshot showcasing the &lt;code&gt;iocaine&lt;/code&gt; &lt;a href=&#34;https://poison.madhouse-project.org/&#34;&gt;demonstration&lt;/a&gt; site in operation. The primary objective of &lt;code&gt;iocaine&lt;/code&gt; is to generate a stable, infinite maze of randomized garbage. Each page is randomly generated but adheres to a consistent structure: an optional &lt;em&gt;&#39;back&#39;&lt;/em&gt; link (pointing to &lt;code&gt;../&lt;/code&gt;), followed by a series of Markov chain-generated paragraphs of varying lengths, and an unordered list of links at the bottom. Each link is relative to the current page and features a randomized URI along with accompanying randomized text. For further details on its functionality, refer to &lt;a href=&#34;https://git.madhouse-project.org/algernon/iocaine/src/branch/main/docs/how-it-works.md&#34;&gt;docs/how-it-works.md&lt;/a&gt;.&lt;/div&gt;&#xA;&lt;h2 id=&#34;context&#34;&gt;&#xA;  Context&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#context&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This formulated list diligently records strategically offensive methodologies and purposefully orchestrated tactics intended to facilitate (algorithmic) sabotage, including the deliberate disruption of systems and processes, alongside the targeted poisoning or corruption of data within the operational workflows of artificial intelligence (AI) systems. These approaches seek to destabilize critical mechanisms, undermine foundational structures, and challenge the overall reliability, functionality, and integrity of AI-driven frameworks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
