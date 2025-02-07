@@ -1,11 +1,11 @@
 ---
 title: Manifesto on “Algorithmic Sabotage”
 title_h1: Manifesto on “Algorithmic Sabotage”
-description: This document presents a preliminary version comprising ten propositions, numbered from 0 to 9, that articulate the underlying principles, strategic approaches, and aesthetic manifestations of the critical concept of “algorithmic sabotage” within the broader context of digital culture and information technology.
+description: The “Manifesto” articulates a systematically structured sequence of ten distinct propositions, enumerated from 0 to 9, each delineating the underlying principles, strategic approaches, and aesthetic manifestations that shape the critical concept of “algorithmic sabotage” within the expansive and intricately interwoven frameworks of digital culture and information technology.
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2025-01-20
+modified: 2025-02-06
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -19,11 +19,13 @@ images:
 
 _“To create? No, to destroy, destroy and destroy again, whatever the strength left in these muscles allows. Because destruction is the power that is left. The only thing worth a penny. Everything else will pass and be gone. Only their destruction will last. It’s a paradox with few equivalents. The young and capable of building new worlds, those who for years, on a daily basis, laid the foundations of faith for a better humanity, must now make hasty action, sabotage, destruction, the supreme achievements of life.” — Anonymous Partisan_
 
-The _Manifesto on “Algorithmic Sabotage”_ comprises ten propositions, numbered from 0 to 9, that delineate the underlying principles, strategic approaches, and aesthetic manifestations of the critical concept of _“algorithmic sabotage”_ within the broader context of digital culture and information technology. The document seeks not only to promote a robust theoretical framework for militant algorithmic agency, resistance, and refusal but also to propagate radical theory and criticism emanating from the energy of insurrectionary desire. The _Manifesto on “Algorithmic Sabotage”_ represents the relentless march of a political theory that continually and ambidirectionally turns discourse into praxis, asserting its presence within the context of contemporary liberation struggles.
+The _Manifesto on “Algorithmic Sabotage”_ is structured around ten propositions, numbered from 0 to 9, each delineating the underlying principles, strategic approaches, and aesthetic manifestations that constitute the critical concept of _“algorithmic sabotage”_ within the continuously shifting and intricately intersecting contexts of digital culture and information technology. The document seeks not only to advance a robust, methodologically coherent framework—serving as a structural foundation for militant and tactically assertive resistance, agency, and refusal, in conjunction with strategically prefigurative and critically interventionist technopolitical orientations—but also to disseminate radical theoretical perspectives and criticism, emanating from the transformative impetus of insurrectionary desire. The _“Manifesto”_ embodies the uncompromising trajectory of a political theory that persistently and ambidirectionally turns discourse into praxis, firmly asserting its presence within the tumultuous dynamics of contemporary liberation struggles.
 
 ***
 
-The _Manifesto on “Algorithmic Sabotage”_ has been authored by the Algorithmic Sabotage Research Group (ASRG) and is distributed under the provisions of the [GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.en.html). <span style="color:grey">* It is important to note that the _“Manifesto”_ is conceived as a dynamic and evolving document, which will be periodically revised and updated on this platform. In tandem with these revisions, the available translations will also be updated to reflect the most current version of the text.</span>
+The _Manifesto on “Algorithmic Sabotage”_ is authored by the Algorithmic Sabotage Research Group (ASRG) and disseminated under the terms of the _GNU Free Documentation License v1.3_. The complete licensing framework detailed in the official documentation, available at https://www.gnu.org/licenses/fdl-1.3.en.html.
+
+The _“Manifesto”_ is designed as a dynamic, evolving document that undergoes periodic revisions and updates. It has been translated into over twenty-eight languages, with all revisions systematically incorporated into each translation, thereby ensuring the preservation of both textual and conceptual fidelity to the most current version.
 
 {{< tabs "mas-v2024.5.1" >}}
 {{< tab "EN" >}} 

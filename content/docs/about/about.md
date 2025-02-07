@@ -13,13 +13,13 @@ It examines the multifaceted manifestations of artistic activism and its role in
 
 ### Research Questions
 
-The Algorithmic Sabotage Research Group (ASRG) operates within a rigorously interrogated conceptual framework that foregrounds the in-depth analysis of the critical notion of _“algorithmic sabotage.”_ This concept functions as a foundational lens for the methodical formulation of artistic-activist and prefigurative techno-political strategies and aesthetics, aimed at contesting, subverting, and dismantling necropolitical technologies that perpetuate entrenched structural injustices, entrench algorithmic authoritarianism, and intensify the deleterious impacts of unchecked technosolutionism.
+The Algorithmic Sabotage Research Group (ASRG) operates within a rigorously interrogated conceptual framework that foregrounds the in-depth analysis of the critical concept of _“algorithmic sabotage.”_ This concept functions as a foundational lens for the methodical formulation of artistic-activist and prefigurative techno-political strategies and aesthetics, aimed at contesting, subverting, and dismantling necropolitical technologies that perpetuate entrenched structural injustices, entrench algorithmic authoritarianism, and intensify the deleterious impacts of unchecked technofascistic solutionism.
 
 The research is organized around the following core inquiries:
 
 1. How can the intersection of _“algorithmic sabotage,”_ art, and activism be strategically harnessed to disrupt and challenge the dominance of pervasive, regulatory technological paradigms, while cultivating subversive aesthetic and political counter-narratives?
 
-2. In what ways does technological disobedience, conceptualized through the critical concept of _“algorithmic sabotage,”_ enable the emergence of novel modalities of collective agency, the design and development of digital tools, and the creation of transformative, militantly content-driven interventions that challenge and disrupt hegemonic technological infrastructures?
+2. In what ways does technological disobedience, conceptualized through the critical concept of _“algorithmic sabotage,”_ enable the emergence of novel modalities of collective agency, the design and development of digital tools, and the creation of transformative, militantly content-driven interventions that challenge and disrupt hegemonic technological edifice?
 
 3. Given that refusal constitutes a critical form of technopolitical praxis, what are the broader implications of _“algorithmic sabotage”_ as a mechanism for dissent and resistance within political, social, and artistic contexts, particularly in challenging systemic power structures?
 

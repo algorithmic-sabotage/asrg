@@ -10,7 +10,7 @@ images:
 {{< home-item 
     src="manifesto-on-algorithmic_sabotage/files/images/output-924.png" 
     title="Manifesto on “Algorithmic Sabotage”"
-    subtitle="This document presents a preliminary version comprising ten propositions, numbered from 0 to 9, that articulate the underlying principles, strategic approaches, and aesthetic manifestations of the critical concept of “algorithmic sabotage” within the broader context of digital culture and information technology."
+    subtitle="The “Manifesto” articulates a systematically structured sequence of ten distinct propositions, enumerated from 0 to 9, each delineating the underlying principles, strategic approaches, and aesthetic manifestations that shape the critical concept of “algorithmic sabotage” within the expansive and intricately interwoven frameworks of digital culture and information technology."
     link="manifesto-on-algorithmic_sabotage/"
 >}}
 
