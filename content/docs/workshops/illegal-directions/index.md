@@ -19,11 +19,11 @@ images:
 
 ### About the Workshop
 
-In this intensive, one-day, eight-hour workshop, the Algorithmic Sabotage Research Group (ASRG) will conduct a detailed examination of the critical concept of _“algorithmic sabotage”_ as a prefigurative praxis aimed at disrupting, impeding, and circumventing computational machinery that sustains structural injustices, exacerbates neoliberal inequalities, and expands various dimensions of necropolitics within systems that already facilitate forms of segregation, racialization, and exclusion.
+In this intensive, one-day, eight-hour workshop, the Algorithmic Sabotage Research Group (ASRG) will undertake a comprehensive and in-depth analysis of the critical concept of _“algorithmic sabotage,”_ situating it as a prefigurative praxis explicitly designed to oppose a technopolitics that exacerbates neoliberal inequalities and amplifies various dimensions of necropolitics within systems that already perpetuate forms of segregation, racialization, and exclusion.
 
-Throughout the workshop, the critical notion of _“algorithmic sabotage”_ will be operationalized through both _“legal”_ and _“illegal”_ approaches. Its application will be analyzed within the contexts of political, cultural, societal, and technological struggles, both _“above”_ and _“below”_ the algorithm. The insights derived will contribute to a deeper understanding of its aesthetic manifestations, ethical implications, and the methodologies, tactics, and practices of resistance, agency, and refusal that underpin this praxis.
+Throughout the workshop, _“algorithmic sabotage”_ will be operationalized through both _“legal”_ and _“illegal”_ orientations, with its application analyzed within broader political, cultural, societal, and technological struggles—both _“above”_ and _“below”_ the algorithm. The insights generated will deepen the understanding of its strategic approaches and aesthetic manifestations, contributing to the development of transformative alternatives centered on agency, resistance, and refusal.
 
-<span style="color:grey">* The artistic approach will play a central role in the introduction and formulation of methods and tactics that foster awareness, experimentation, and agency. Moreover, it will provide critical literacy in the context of advanced computation, which has the potential to exacerbate existing inequalities and injustices, thereby deepening divisions and advancing the trajectory toward algorithmic authoritarianism.</span>
+<span style="color:grey">* The artistic approach will play a central role in introducing and formulating methods and tactics that foster awareness, experimentation, and agency. Additionally, it will provide critical literacy in the context of advanced computation, which has the potential to deepen existing inequalities and injustices, intensifying divisions and advancing the trajectory toward algorithmic authoritarianism.</span>
 
 ### Workshop Outcomes
 

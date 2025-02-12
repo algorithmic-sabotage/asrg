@@ -13,17 +13,15 @@ It examines the multifaceted manifestations of artistic activism and its role in
 
 ### Research Questions
 
-The Algorithmic Sabotage Research Group (ASRG) operates within a rigorously interrogated conceptual framework that foregrounds the in-depth analysis of the critical concept of _“algorithmic sabotage.”_ This concept functions as a foundational lens for the methodical formulation of artistic-activist and prefigurative techno-political strategies and aesthetics, aimed at contesting, subverting, and dismantling necropolitical technologies that perpetuate entrenched structural injustices, entrench algorithmic authoritarianism, and intensify the deleterious impacts of unchecked technofascistic solutionism.
+The Algorithmic Sabotage Research Group (ASRG) operates within a rigorously constructed analytical framework that forms the foundation for a comprehensive, multidimensional analysis of the critical concept of _“algorithmic sabotage”_—a concept approached with maximal alignment to a technopolitics conducive to human and environmental flourishing. Situated as a paradigm formed through dialectical interplay and strategically coordinated synergy, this concept integrates the intricate dynamics of agency, refusal, and resistance while simultaneously grounding the methodological development of militant tactics, prefigurative technopolitical frameworks, and radical aesthetics, aimed at creating rupture points within advanced computation, which fuses off-the-scale technology with emergent totalitarianism—perpetuating systemic injustices and exacerbating the harms of unchecked technofascistic solutionism.
 
-The research is organized around the following core inquiries:
+The research is structured around the following core questions:
 
-1. How can the intersection of _“algorithmic sabotage,”_ art, and activism be strategically harnessed to disrupt and challenge the dominance of pervasive, regulatory technological paradigms, while cultivating subversive aesthetic and political counter-narratives?
+1. How can the intersection of _“algorithmic sabotage,”_ art, and activism be strategically harnessed to sever and disrupt entrenched computational assemblages that, through their pervasive reactionary technopolitics, exert a suffocating grip on our lives, freedoms, and sense of agency? In what ways can this convergence provide fertile ground for the emergence of subversive aesthetic and political counter-narratives?
 
-2. In what ways does technological disobedience, conceptualized through the critical concept of _“algorithmic sabotage,”_ enable the emergence of novel modalities of collective agency, the design and development of digital tools, and the creation of transformative, militantly content-driven interventions that challenge and disrupt hegemonic technological edifice?
+2. What broader applications does _“algorithmic sabotage”_ offer as a powerful bottom-up mechanism for mobilizing alternative approaches rooted in feminist and decolonial perspectives? How can it contribute to the realization of emancipatory visions by advancing convivial technologies that uphold pro-social values—such as care, solidarity, mutual aid, creativity, diversity, and inclusion—and drive the reassertion and reconstitution of the commons?
 
-3. Given that refusal constitutes a critical form of technopolitical praxis, what are the broader implications of _“algorithmic sabotage”_ as a mechanism for dissent and resistance within political, social, and artistic contexts, particularly in challenging systemic power structures?
-
-4. How can _“algorithmic sabotage,”_ within the context of artistic activism, inform and empower self-organized, technologically-mediated strategies that advance justice, promote accountability, and facilitate the achievement of equitable and inclusive societal outcomes?
+3. How can _“algorithmic sabotage”_ function as a critical conduit for both reclamation and enlightenment, informing and empowering grassroots, self-organized, and technologically mediated initiatives that advance justice, enhance accountability, and catalyze the reconstruction of equitable societal perspectives? In the context of institutionalized cruelty and neglect, how might it encourage uncompromising radicality—from anonymous everyday solidarity to bold acts of resistance?
 
 ### Contact
 
@@ -45,7 +43,7 @@ For individuals seeking to maintain anonymity, we recommend utilizing the [Tor B
 
 Please be advised that our presence on <a rel="me" href="https://tldr.nettime.org/@asrg">Mastodon</a> can be located at the following handle: `@asrg@tldr.nettime.org`.
 
-<span style="color:grey">*  tldr.nettime is an instance for artists, researchers, and activists interested in exploring the intersections of technology, culture, and politics.</span>
+<span style="color:grey">* [tldr.nettime](https://tldr.nettime.org/about) is an instance for artists, researchers, and activists interested in exploring the intersections of technology, culture, and politics.</span>
 
 #### Messaging
 
