@@ -5,7 +5,7 @@ description: The “Manifesto” articulates a systematically structured sequenc
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2025-02-06
+modified: 2025-02-17
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -890,4 +890,7 @@ Upon completion of the translation, kindly submit the file along with the name o
 - Labomedia (2024) Le Mardi 23 juillet 2024 : Participation à l’atelier du mardi informel de la générale à propos du manifeste du sabotage algorithmique, Labomedia. Available at: https://labomedia.org/le-mardi-23-juillet-2024-participation-a-latelier-du-mardi-informel-de-la-generale-a-propos-du-manifeste-du-sabotage-algorithmique/.
 
 - Drop #17. Manifesto on Algorithmic Sabotage (2024) REINCANTAMENTO Drops. Available at: https://reincantamentox.substack.com/p/drop-17-manifesto-on-algorithmic?utm_source=profile&utm_medium=reader2.
+
+- Ibarra, B.I. (2025) Sabotaje Algoritmikoaren Alde, etzi.pm. Available at: https://etzi.pm/sabotaje-algoritmikoaren-alde/.
+
 
