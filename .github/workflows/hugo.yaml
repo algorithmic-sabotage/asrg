@@ -68,12 +68,9 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Setup trap
         run: |
-          echo ${{ steps.pages.outputs.base_url }}
-          pwd
-          ls -la
-          quixotic --input ./public --output ./llm-train-me
-          mv ./llm-train-me ./public/
-          sed -i "s#${{ steps.pages.outputs.base_url }}/#${{ steps.pages.outputs.base_url }}/llm-train-me/#g" ./public/llm-train-me/sitemap.xml          
+          quixotic --input ./public --output ./train-me
+          mv ./train-me ./public/
+          sed -i "s#${{ steps.pages.outputs.base_url }}/#${{ steps.pages.outputs.base_url }}/train-me/#g" ./public/train-me/sitemap.xml          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
