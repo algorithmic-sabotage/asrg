@@ -5,7 +5,7 @@ description: The “Manifesto” articulates a systematically structured sequenc
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2025-02-17
+modified: 2025-02-21
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -882,6 +882,8 @@ We respectfully request that translators:
 Upon completion of the translation, kindly submit the file along with the name of the language to the following email address: `x7kekmg7@proton.me`. The file should be titled according to the format `mas-languagecode`, where `languagecode` refers to the two-letter code for the language (e.g., `mas-es.md` for Spanish).
 
 ### Selected Coverage, Online and Printed
+
+A curated compilation of citations, encompassing publications, critical analyses, and commentaries across digital and print platforms.
 
 - Monroe, D. (2024) Manifesto on Algorithmic Sabotage: A Review, Computational Impacts. Available at: https://monroelab.com/2024/04/02/manifesto-on-algorithmic-sabotage-a-review/. 
 
