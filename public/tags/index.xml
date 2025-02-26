@@ -6,8 +6,64 @@
     <description>Recent content in Tags on ASRG</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/asrg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/asrg/tags/AI/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/AI/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bots</title>
+      <link>http://localhost:1313/asrg/tags/Bots/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Bots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crawlers</title>
+      <link>http://localhost:1313/asrg/tags/Crawlers/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Crawlers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fake Content</title>
+      <link>http://localhost:1313/asrg/tags/Fake-Content/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Fake-Content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>http://localhost:1313/asrg/tags/LLM/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/LLM/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poisoning Mechanism</title>
+      <link>http://localhost:1313/asrg/tags/Poisoning-Mechanism/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Poisoning-Mechanism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quixotic</title>
+      <link>http://localhost:1313/asrg/tags/Quixotic/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Quixotic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trapping AI</title>
+      <link>http://localhost:1313/asrg/tags/Trapping-AI/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Trapping-AI/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Agency</title>
       <link>http://localhost:1313/asrg/tags/Agency/</link>
@@ -146,13 +202,6 @@
       <link>http://localhost:1313/asrg/tags/Technopolitics-of-Fronts/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/asrg/tags/Technopolitics-of-Fronts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI</title>
-      <link>http://localhost:1313/asrg/tags/AI/</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/asrg/tags/AI/</guid>
       <description></description>
     </item>
     <item>

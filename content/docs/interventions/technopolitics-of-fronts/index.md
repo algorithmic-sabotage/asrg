@@ -45,7 +45,7 @@ It is important to emphasize that, over the coming period, the proceedings of th
 
 This subsection will present and facilitate access to the texts, articles, and essays authored by the assembly body, offering a detailed overview of their thematic focus, underlying objectives, and their significance within the broader context of the initiative.
 
-{{% details title="**`[2024-25] - The Aesthetics of ‘Technopolitics of Fronts’`**" open=false %}}
+{{% details title="**`[11-25-24] - The Aesthetics of ‘Technopolitics of Fronts’`**" open=false %}}
 
 ### The Aesthetics of ‘Technopolitics of Fronts’
 
