@@ -9,7 +9,7 @@ weight: 10
 
 It examines the multifaceted manifestations of artistic activism and its role in exposing, critiquing, disrupting and countering the encroachments of algorithmic systems of power, control, and exploitation, with the objective of strengthening, promoting, and defending human rights values and fundamental freedoms by offering interdisciplinary pathways to empower the public. 
 
-<div class="caption"><img src="images/output-119.png">Graphic: © Algorithmic Sabotage Research Group<span style="color:grey"> | The typeface used is Trickster from Velvetyne Foundry: https://velvetyne.fr/fonts/trickster/</span></div>
+<div class="caption"><img src="images/output-926.png">Visual: © Algorithmic Sabotage Research Group (ASRG). <span style="color:grey">The typeface used is <em>Terminal Grotesque</em>, provided by Velvetyne Foundry (available at: <a href="https://velvetyne.fr/fonts/terminal-grotesque/">https://velvetyne.fr/fonts/terminal-grotesque/</a>).</span></div>
 
 ### Research Questions
 

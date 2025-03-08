@@ -13,7 +13,7 @@ images:
 
 {{< titling >}}
 
-<div class="caption"><img src="images/output-641.png">Graphic: © Communitarian Assembly on ‘Technopolitics of Fronts’<span style="color:grey"> | The typeface used is Avara from Velvetyne Foundry: https://velvetyne.fr/fonts/avara/</span></div>
+<div class="caption"><img src="images/output-641.png">Visual: © Communitarian Assembly on ‘Technopolitics of Fronts’. <span style="color:grey">The typeface used is <em>Avara</em>, provided by Velvetyne Foundry (available at: <a href="https://velvetyne.fr/fonts/avara/">https://velvetyne.fr/fonts/avara/</a>).</span></div>
 
 <span style="color:grey">* Please note that the information provided on this page is intended as a preliminary overview and is subject to updates and revisions as new data and insights become available. These updates pertain to the actions, interventions, and deliberative processes of the assembly body.</span>
 
@@ -58,10 +58,6 @@ The essay, authored by the _Communitarian Assembly on ‘Technopolitics of Front
 This essay undertakes a rigorous and methodologically robust theoretical analysis of the procedural dimensions, aesthetic manifestations, and functional attributes that are inextricably linked to the critical concept of _‘Technopolitics of Fronts.’_ It provides a comprehensive and systematic examination of the operationalization of this concept, scrutinizing its deployment across the intersecting domains of political, cultural, societal, and technological struggles, elucidating the intricate and multifaceted interrelations between its conceptual foundations and practical facets.
 
 The analysis delves into the ethical commitments, prefigurative methodologies, and praxis of radically assertive resistance, agency, and refusal, which form the foundational pillars of this framework. By critically interrogating these interrelated aesthetic and political dynamics, the essay elucidates the mechanisms through which such efforts aim to subvert, disrupt, and dismantle entrenched reactionary technopolitical power structures, contributing to a deeper and more sophisticated understanding within the complex and ever-evolving fabric of global socio-political processes.
-
-#### License Information
-
-This essay is distributed under the terms of the _Collective Conditions for Re-Use (CC4r) 1.0_ license. For a comprehensive overview of this licensing framework, please refer to the official documentation available at https://constantvzw.org/wefts/cc4r.en.html.
 
 ***
 

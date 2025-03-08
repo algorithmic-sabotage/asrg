@@ -13,7 +13,7 @@ images:
 
 {{< titling >}}
 
-<div class="caption"><img src="images/output-925.png">Graphic: © Algorithmic Sabotage Research Group<span style="color:grey"> | The typeface used is Trickster from Velvetyne Foundry: https://velvetyne.fr/fonts/trickster/</span></div>
+<div class="caption"><img src="images/output-925.png">Visual: © Algorithmic Sabotage Research Group (ASRG). <span style="color:grey">The typeface used is <em>Trickster</em>, provided by Velvetyne Foundry (available at: <a href="https://velvetyne.fr/fonts/trickster/">https://velvetyne.fr/fonts/trickster/</a>).</span></div>
 
 <span style="color:grey">* Please note that this page will be updated regularly to reflect any new information pertaining to the workshop titled _Illegal Directions ── ‘Algorithmic Sabotage’ & Self-Organization_. Updates will include details on the venue, scheduled dates, and relevant information regarding the registration process.</span>
 
