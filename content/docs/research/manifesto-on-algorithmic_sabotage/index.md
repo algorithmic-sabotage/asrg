@@ -5,7 +5,7 @@ description: The “Manifesto” articulates a systematically structured sequenc
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2025-03-07
+modified: 2025-03-11
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -873,9 +873,38 @@ _এথেন্স, মে ২০২৪_
 
 9. "অ্যালগরিদমিক অন্তর্ঘাত" ক্ষতিকর প্রযুক্তির সাম্প্রদায়িক সীমাবদ্ধতার প্রয়োজনের একটি মুক্তিদায়ী প্রতিরক্ষা, অ্যালগরিদমের "উপরে" এবং "নীচে" বিমূর্ত বিভাজনের বিরুদ্ধে একটি সংগ্রাম।
 
-<span style="color:grey">The Bengali translation was completed by an individual who has opted to remain anonymous.</span>
+<span style="color:grey">The Bengali translation was prepared by an individual who has opted to remain anonymous.</span>
 
 {{< /tab >}}
+{{< tab "VI" >}} 
+
+### Tuyên Ngôn về “Phá Hoại Thuật Toán”
+
+_Aten, Tháng 5, 2024_
+
+0. “Phá Hoại Thuật Toán” là một hình thức phản kháng công nghệ, đại diện cho sự chiến đấu mà thiếu vắng trong phê phán công nghệ.
+
+1. Thay vì sự ác cảm nguyên thủy đối với công nghệ, “Phá Hoại Thuật Toán” có thể được hiểu như một hình thức phản quyền lực xuất phát từ sức mạnh của cộng đồng sử dụng nó.
+
+2. “Phá Hoại Thuật Toán” cắt xuyên qua khuôn khổ tư tưởng tư bản chủ nghĩa, vốn dựa vào sự khổ đau, bằng cách thực hiện một công việc phá hoại trong hiện tại, tháo dỡ các hình thức thống trị thuật toán đương đại và giành lại không gian cho hành động đạo đức khỏi sự vô tâm và tự động hóa phổ biến.
+
+3. “Phá Hoại Thuật Toán” là một cam kết hành động hướng tới tình đoàn kết, đi trước bất kỳ hệ thống phân loại xã hội, pháp lý hay thuật toán nào.
+
+4. “Phá Hoại Thuật Toán” là một phần trong sự đổi mới cấu trúc của một phong trào rộng lớn hơn vì tự trị xã hội, chống lại sự tàn phá của công nghệ thống trị thông qua hành động trực tiếp hoang dã, tự giác liên kết với các lý tưởng về công lý xã hội và bình đẳng.
+
+5. “Phá Hoại Thuật Toán” tái cấu trúc một cách triệt để các sắp xếp công nghệ chính trị của chúng ta, tách biệt khỏi những bất công cấu trúc, những quan điểm siêu quyền và quyền lực độc tài necropolitical lồng ghép vào “đế chế thuật toán”, làm nổi bật tính vật chất và hệ quả của nó dưới cả hai khía cạnh phát thải carbon và sự tập trung hóa quyền lực.
+
+6. “Phá Hoại Thuật Toán” từ chối sự làm nhục thuật toán vì lợi ích quyền lực và tối đa hóa lợi nhuận, tập trung vào các hoạt động hỗ trợ lẫn nhau và tình đoàn kết.
+
+7. Bước đầu tiên của chính trị công nghệ không phải là công nghệ mà là chính trị. Các quan điểm nữ quyền cấp tiến, chống phát xít và phi thực dân là một thử thách chính trị đối với “Phá Hoại Thuật Toán”, đặt các vấn đề về sự phụ thuộc lẫn nhau và chăm sóc tập thể đối lập với những tối ưu hóa giảm thiểu của “đế chế thuật toán”.
+
+8. “Phá Hoại Thuật Toán” đấu tranh chống lại bạo lực thuật toán và chủ nghĩa giải pháp công nghệ phát xít, tập trung vào các phong trào kháng cự nghệ thuật-aktivist có thể biểu đạt một tư duy khác biệt, một “tình báo phản động” tập thể.
+
+9. “Phá Hoại Thuật Toán” là một sự bảo vệ giải phóng đối với nhu cầu kìm hãm công nghệ có hại trong cộng đồng, một cuộc đấu tranh chống lại sự phân biệt trừu tượng “trên” và “dưới” thuật toán.
+
+<span style="color:grey">The Vietnamese translation was prepared by T. Đơn. Please note that this translation is in draft form and will be updated once the final version is available.</span>
+
+ {{< /tab >}}
 {{< /tabs >}}
 
 ## Supplemental Information
