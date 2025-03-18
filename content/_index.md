@@ -24,7 +24,7 @@ images:
 {{< home-item 
     src="intertwined-feedback-loops/images/output-378.png" 
     title="Intertwined Feedback Loops"
-    subtitle="A series of intertwined feedback loops, arising from several interrelated briefs, strategically designed to facilitate both intellectual inquiry and practical exploration."
+    subtitle="A series of abstract flowcharts—grounded in complex and interrelated contexts, encompassing both theoretical and applied dimensions—strategically designed to advance critical research and practical exploration."
     link="intertwined-feedback-loops/"
 >}}
 

@@ -411,29 +411,29 @@ _Athén, 2024 Május_
  {{< /tab >}}
   {{< tab "PL" >}} 
 
-### Manifest w sprawie „Algorytmicznego Sabotażu”
+### Manifest „O Sabotażu Algorytmicznym”
 
-_Ateny, Maj 2024_
+_Ateny, maj 2024_
 
-0. „Algorytmicznego Sabotażu” jest figurą techno-nieposłuszeństwa dla bojowości, której brakuje w krytyce technologii.
+0. „Sabotaż Algorytmiczny” to figura techno-nieposłuszeństwa dla bojowości, której brakuje w krytyce technologii.
 
-1. Zamiast atawistycznej niechęci do technologii, „Algorytmicznego Sabotażu” można odczytać jako formę przeciwwładzy, która wyłania się z siły społeczności, która nią włada.
+1. Zamiast atawistycznej awersji do technologii, „Sabotaż Algorytmiczny” można odczytywać jako formę kontrwładzy, wyłaniającą się z siły wspólnoty, która go stosuje.
 
-2. „Algorytmicznego Sabotażu” przecina kapitalistyczne ramy ideologiczne, które rozwijają się na nieszczęściu, wykonując pracę wywrotową w teraźniejszości, demontując współczesne formy algorytmicznej dominacji i odzyskując przestrzenie dla etycznego działania z uogólnionej bezmyślności i automatyzmu.
+2. „Sabotaż Algorytmiczny” przełamuje kapitalistyczne ramy ideologiczne, które utrzymują się dzięki wyzyskowi, poprzez wykonywanie pracy subwersji w teraźniejszości, demontaż współczesnych mechanizmów algorytmicznej dominacji oraz odzyskiwanie przestrzeni dla etycznego działania z rąk wszechobecnego automatyzmu i systemowej bezmyślności.
 
-3. „Algorytmicznego Sabotażu” to zorientowane na działanie zobowiązanie do solidarności, które poprzedza jakikolwiek system klasyfikacji społecznej, prawnej lub algorytmicznej.
+3. „Sabotaż Algorytmiczny” to ukierunkowane na działanie zobowiązanie do solidarności, które poprzedza jakikolwiek system klasyfikacji społecznej, prawnej czy algorytmicznej.
 
-4. „Algorytmicznego Sabotażu” jest częścią strukturalnej odnowy szerszego ruchu na rzecz autonomii społecznej, który sprzeciwia się drapieżnictwu hegemonicznej technologii poprzez dzikie akcje bezpośrednie, świadomie dostosowując się do ideałów sprawiedliwości społecznej i egalitaryzmu.
+4. „Sabotaż Algorytmiczny” stanowi element strukturalnej odnowy szerszego ruchu na rzecz autonomii społecznej, który przeciwstawia się eksploatacyjnym mechanizmom hegemonicznej technologii poprzez spontaniczne działania bezpośrednie, świadomie wpisując się w ideały sprawiedliwości społecznej i egalitaryzmu.
 
-5. „Algorytmicznego Sabotażu” radykalnie przekształca nasze technopolityczne ustalenia z dala od strukturalnych niesprawiedliwości, supremacjonistycznych perspektyw i nekropolitycznej autorytarnej władzy, które są częścią »algorytmicznego imperium«, podkreślając jego materialność i konsekwencje zarówno pod względem emisji dwutlenku węgla, jak i centralizacji kontroli.
+5. „Sabotaż Algorytmiczny” radykalnie przekształca nasze układy technopolityczne, uwalniając je od strukturalnych niesprawiedliwości, supremacjonistycznych perspektyw i nekropolitycznej autorytarnej władzy wpisanej w „imperium algorytmiczne”, jednocześnie uwydatniając jego materialność oraz konsekwencje zarówno w zakresie emisji węglowych, jak i centralizacji kontroli.
 
-6. „Algorytmicznego Sabotażu” odrzuca algorytmiczne upokarzanie dla władzy i maksymalizacji zysków, koncentrując się na działaniach wzajemnej pomocy i solidarności.
+6. „Sabotaż Algorytmiczny” odrzuca algorytmiczne upokorzenie dla władzy i maksymalizacji zysków, koncentrując się na działaniach wzajemnej pomocy i solidarności.
 
-7. Pierwszy krok technopolityki nie jest technologiczny, lecz polityczny. Radykalne feministyczne, antyfaszystowskie i dekolonialne perspektywy stanowią polityczne wyzwanie dla „Algorytmicznego Sabotażu”, stawiając kwestie współzależności i zbiorowej troski przeciwko redukcyjnym optymalizacjom „algorytmicznego imperium”.
+7. Pierwszy krok w technopolityce nie jest technologiczny, lecz polityczny. Radykalne perspektywy feministyczne, antyfaszystowskie i dekolonialne stanowią polityczne wyzwanie dla „Sabotażu Algorytmicznego”, przeciwstawiając kwestie współzależności i zbiorowej troski redukcjonistycznym optymalizacjom narzucanym przez „imperium algorytmiczne”.
 
-8. „Algorytmicznego Sabotażu” walczy z algorytmiczną przemocą i faszystowskim techno-rozwiązaniem, koncentrując się na artystyczno-aktywistycznym oporze, który może wyrażać inną mentalność, zbiorowy »kontrwywiad«.
+8. „Sabotaż Algorytmiczny” walczy przeciwko algorytmicznej przemocy i faszystowskiemu techno-solutionizmowi, koncentrując się na oporze artystyczno-aktywistycznym, który może wyrażać odmienną mentalność, zbiorową „kontr-inteligencję”.
 
-9. „Algorytmicznego Sabotażu” to emancypacyjna obrona potrzeby wspólnotowego ograniczenia szkodliwej technologii, walka z abstrakcyjną segregacją „powyżej” i „poniżej” algorytmu.
+9. „Sabotaż Algorytmiczny” to emancypacyjna obrona konieczności wspólnotowego ograniczania szkodliwej technologii, walka przeciwko abstrakcyjnej segregacji „ponad” i „poniżej” algorytmu.
 
 <span style="color:grey">The Polish translation was prepared by Anastazja Sękowska.</span>
 
@@ -791,29 +791,29 @@ _Atenas, 2024ko maiatza_
 {{< /tab >}}
 {{< tab "SQ" >}} 
 
-### Manifesto mbi "Sabotazhin Algoritmik"
+### Manifesto mbi “Sabotazhin Algoritmik”
 
 _Athinë, Maj 2024_
 
-0. "Sabotazhi Algoritmik" është një figurë e teknodisobiediencë për militantizmin që mungon në kritikën e thelluar të teknologjisë.
+0. “Sabotazhi Algoritmik” është një figurë e techno-ndërshtimit për militantizmin që mungon në kritikën e teknologjisë.
 
-1. Në vend të një kundërshtimi atavistik ndaj teknologjisë, "Sabotazhi Algoritmik" mund të kuptohet si një formë e kundërpushtetit që lind nga forca e komunitetit që e ushtron atë.
+1. Në vend të një aversioni atavistik ndaj teknologjisë, “Sabotazhi Algoritmik” mund të kuptohet si një formë kundër-pushteti që lind nga forca e komunitetit që e përdor atë.
 
-2. "Sabotazhi Algoritmik" sfidon kornizën ideologjike kapitaliste që ushqehet me mjerimin, duke realizuar një akt nënversioni në të tashmen, duke çmontuar format bashkëkohore të dominimit algoritmik dhe duke rikthyer hapësira për veprim etik përballë mendjemadhësisë dhe automatizmit të përgjithshëm.
+2. “Sabotazhi Algoritmik” sfidon kornizën ideologjike kapitaliste që ushqehet me mjerimin, duke realizuar një akt nënversioni në të tashmen, duke çmontuar format bashkëkohore të dominimit algoritmik dhe duke rikthyer hapësira për veprim etik përballë mendjemadhësisë dhe automatizmit të përgjithshëm.
 
-3. "Sabotazhi Algoritmik" është një angazhim i orientuar drejt veprimit për solidaritet, që parashikon të sfidojë çdo sistem të klasifikimit shoqëror, ligjor dhe algoritmik.
+3. “Sabotazhi Algoritmik” është një angazhim orientuar nga veprimi për solidaritetin që paraprin çdo sistem klasifikimi shoqëror, ligjor ose algoritmik.
 
-4. "Sabotazhi Algoritmik" është pjesë e një rinovimi strukturor të një lëvizjeje më të gjerë për autonominë shoqërore, që kundërshton abuzimet e teknologjisë hegjemonike përmes aksioneve të drejtpërdrejta dhe të egra, duke u rreshtuar me idealet e drejtësisë shoqërore dhe barazisë.
+4. “Sabotazhi Algoritmik” është pjesë e një rinovimi struktural të një lëvizjeje më të gjerë për autonominë shoqërore që kundërshton shfrytëzimet e teknologjisë hegjemonike përmes aksioneve të drejtpërdrejta të egra, duke u rreshtuar vetë me qëllim me idealet e drejtësisë shoqërore dhe barazisë.
 
-5. "Sabotazhi Algoritmik" transformon radikalisht strukturat tona teknopolitike, duke i larguar ato nga padrejtësitë strukturore, perspektivat supremaciste dhe fuqinë autoritare necropolitike të ngulitura në 'perandorinë algoritmike', duke theksuar materialitetin dhe pasojat e saj si në aspektin e emetimeve të karbonit, ashtu edhe në atë të centralizimit të kontrollit.
+5. “Sabotazhi Algoritmik” transformon radikalisht strukturat tona teknopolitike, duke i larguar ato nga padrejtësitë strukturore, perspektivat supremaciste dhe fuqinë autoritare necropolitike të ngulitura në 'perandorinë algoritmike', duke theksuar materialitetin dhe pasojat e saj si në aspektin e emetimeve të karbonit, ashtu edhe në atë të centralizimit të kontrollit.
 
-6. "Sabotazhi Algoritmik" refuzon përuljen algoritmike për maksimizimin e pushtetit dhe fitimit, duke u përqendruar në aktivitete të ndihmës së ndërsjellë dhe solidaritetit.
+6. “Sabotazhi Algoritmik” refuzon poshtërimin algoritmik për maksimizimin e pushtetit dhe fitimit, duke u përqendruar në aktivitete ndihme reciproke dhe solidariteti.
 
-7. Hapi i parë i teknopolitikës është politik, dhe jo teknologjik. Perspektivat radikale feministe, anti-fashiste dhe dekoloniale paraqesin një sfidë politike për "Sabotazhin Algoritmik", duke vënë theksin mbi çështjet e ndërvarësisë dhe kujdesit kolektiv, përballë optimizimeve reduktive të "perandorisë algoritmike".
+7. Hapi i parë i teknopolitikës nuk është teknologjik, por politik. Perspektivat radikale feministe, anti-fashiste dhe dekoloniale janë një sfidë politike për “Sabotazhin Algoritmik”, duke vënë çështjet e ndërvarësisë dhe kujdesit kolektiv përballë optimizimeve reduktive të “perandorisë algoritmike”.
 
-8. "Sabotazhi Algoritmik" lufton kundër dhunës algoritmike dhe teknosolutionizmit fashist, duke u fokusuar në rezistencat artistike-aktiviste që mund të shprehin një mentalitet alternativ, një "kundërinteligjencë" kolektive.
+8. “Sabotazhi Algoritmik” lufton kundër dhunës algoritmike dhe teknosolutionizmit fashist, duke u fokusuar në rezistencat artistike-aktiviste që mund të shprehin një mentalitet alternativ, një “kundërinteligjencë” kolektive.
 
-9. "Sabotazhi Algoritmik" është një mbrojtje emancipuese e nevojës për kufizim komunitar të teknologjisë dëmprurëse, një luftë kundër segregimit abstrakt "lart" dhe "poshtë" algoritmit.
+9. “Sabotazhi Algoritmik” është një mbrojtje emancipuese e nevojës për kufizim komunitar të teknologjisë dëmprurëse, një luftë kundër segregimit abstrakt “lart” dhe “poshtë” algoritmit.
 
 <span style="color:grey">The Albanian translation was prepared by L. Mirela.</span>
 
