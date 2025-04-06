@@ -13,7 +13,7 @@
   <meta property="og:type" content="article">
     <meta property="article:section" content="docs">
     <meta property="article:published_time" content="2025-02-22T00:00:00+00:00">
-    <meta property="article:modified_time" content="2025-02-23T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-04-05T00:00:00+00:00">
     <meta property="article:tag" content="Trapping AI">
     <meta property="article:tag" content="LLM">
     <meta property="article:tag" content="Quixotic">
@@ -35,7 +35,7 @@
 <link rel="icon" href="/asrg/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/asrg/book.min.db94fdc8cafe326bd4d36218d798d33e18985c8e1c0225c1f3ba77043588f348.css" integrity="sha256-25T9yMr&#43;MmvU02IY15jTPhiYXI4cAiXB87p3BDWI80g=" crossorigin="anonymous">
   <script defer src="/asrg/flexsearch.min.js"></script>
-  <script defer src="/asrg/en.search.min.ef77efa0cb2b17fa27b9a7eb15cf9925776c7a626b3c945cf76e95b0462e5719.js" integrity="sha256-73fvoMsrF/onuafrFc&#43;ZJXdsemJrPJRc926VsEYuVxk=" crossorigin="anonymous"></script>
+  <script defer src="/asrg/en.search.min.21cc3548891a328d2c8bb2c059803c65b45349b97cf74d2cfd40c24781fe72f8.js" integrity="sha256-Icw1SIkaMo0si7LAWYA8ZbRTSbl8900s/UDCR4H&#43;cvg=" crossorigin="anonymous"></script>
 
   <script defer src="/asrg/sw.min.bc8f0afcfd53af9e88bc7d3e1fdf33fc12a26b7abc7687de0097ba4ec6ee2bc0.js" integrity="sha256-vI8K/P1Tr56IvH0&#43;H98z/BKia3q8dofeAJe6TsbuK8A=" crossorigin="anonymous"></script>
 <!--
@@ -326,23 +326,23 @@ https://github.com/alex-shpak/hugo-book
 <ul class="subtitle">
 	<li>This is a methodically structured poisoning mechanism designed to feed nonsensical data to persistent bots and aggressive “AI” scrapers that circumvent robots.txt directives.</li>
 	<li>
-	Posted: Feb 22, 2025. Modified: Feb 23, 2025
+	Posted: Feb 22, 2025. Modified: Apr 5, 2025
 	
 </ul>
 <div class="caption"><img src="images/Racknitz_-_The_Turk_3.jpg">Joseph Racknitz, The Mechanical Turk, 1789. <span style="color:grey">Public domain.</span></div>
-<p><em>&ldquo;I don&rsquo;t think any development is &lsquo;only&rsquo; technical. All technology is embedded in history, politics and our social imaginaries. It&rsquo;s more helpful to think in terms of technopolitics, where the technical and political dimensions are intertwined like strands of DNA. AI in particular is an apparatus, a configuration of concepts, investments, policies, institutions and subjectivities that act in concert to produce a certain kind of end result. In the case of AI, the historical currents it&rsquo;s channelling include eugenics and white supremacy.&rdquo; — Dan McQuillan, 2025<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></em></p>
+<p><em>“I don&rsquo;t think any development is &lsquo;only&rsquo; technical. All technology is embedded in history, politics and our social imaginaries. It&rsquo;s more helpful to think in terms of technopolitics, where the technical and political dimensions are intertwined like strands of DNA. AI in particular is an apparatus, a configuration of concepts, investments, policies, institutions and subjectivities that act in concert to produce a certain kind of end result. In the case of AI, the historical currents it&rsquo;s channelling include eugenics and white supremacy.” — Dan McQuillan, 2025<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></em></p>
 <h2 id="context">
   Context
   <a class="anchor" href="#context">#</a>
 </h2>
-<p>This guide provides a comprehensive analysis of implementing a data poisoning mechanism within static websites hosted on <em>GitHub Pages</em> and generated using <a href="https://gohugo.io/" target="_blank">Hugo</a>, a static site generator. Specifically, we describe its application to our website. The approach employs <a href="https://marcusb.org/hacks/quixotic.html" target="_blank">Quixotic</a>, which operates through a simple Markov Chain-based text generator, to feed deceptive data to bots and large language model (LLM) crawlers that disregard <code>robots.txt</code> directives.</p>
-<p>This process statically generates incoherent data by systematically modifying the website’s original content. Approximately 20% of the words are substituted with contextually incongruous replacements. These semantic perturbations intentionally diminish the coherence and interpretability of the text, obfuscating the underlying information. To ensure persistent and adaptive interference, the data regenerates periodically, incorporating randomized variations with each website build.</p>
-<p>Through the strategic embedding of subtle yet cumulative distortions within training datasets, this method aims to incrementally erode model integrity, thereby contributing—albeit to a limited extent—to its progressive destabilization. It is important to note that this implementation is grounded in the methodological framework outlined by <a href="https://tzovar.as/about/" target="_blank">Bastian Greshake Tzovaras</a> and is comprehensively documented in the following resource: <a href="https://tzovar.as/algorithmic-sabotage-ssg/" target="_blank">https://tzovar.as/algorithmic-sabotage-ssg/</a>.</p>
+<p>This guide provides a comprehensive analysis of implementing a data poisoning mechanism within static websites hosted on <em>GitHub Pages</em> and generated using <a href="https://gohugo.io/" target="_blank">Hugo</a>, a static site generator. Specifically, we describe its application to our own website. The approach employs <a href="https://marcusb.org/hacks/quixotic.html" target="_blank">Quixotic</a>—a program designed to feed fake content to bots and large language model (LLM) scrapers that ignore <code>robots.txt</code>—which operates by way of a simple Markov Chain text generator.</p>
+<p>This process statically generates incoherent data by systematically modifying the website’s original content. Approximately 30% of the words are substituted with contextually incongruous replacements. These semantic perturbations intentionally diminish the coherence and interpretability of the text, obfuscating the underlying information. To ensure persistent and adaptive interference, the data regenerates periodically, incorporating randomized variations with each website build.</p>
+<p>Through the strategic embedding of subtle yet cumulative distortions within training datasets, this approach aims to incrementally erode model integrity, thereby contributing—albeit to a limited extent—to its progressive destabilization. It is important to note that this implementation is grounded in the methodological framework outlined by <em>Bastian Greshake Tzovaras</em> and is comprehensively documented in the following resources: <a href="https://tzovar.as/algorithmic-sabotage-ssg/" target="_blank">here</a> and <a href="https://tzovar.as/algorithmic-sabotage-ii/" target="_blank">here</a>.</p>
 <h3 id="implementation">
   Implementation
   <a class="anchor" href="#implementation">#</a>
 </h3>
-<p>To automate the building and deployment of your site to <em>GitHub Pages</em>, you must configure a workflow using <em>GitHub Actions</em>. In your local repository, create a new folder named <code>.github/workflows</code> and either add a new or update the existing <code>hugo.yaml</code> file with the following contents:</p>
+<p>To automate the build and deployment process of a static website on <em>GitHub Pages</em>, it is necessary to configure a workflow using <em>GitHub Actions</em>. Within the local repository, a <code>.github/workflows</code> directory should be created, and a <code>hugo.yaml</code> file—either newly added or updated—should include the following contents:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#75715e"># Sample workflow for building and deploying a Hugo site to GitHub Pages</span>
 </span></span><span style="display:flex;"><span><span style="color:#f92672">name</span>: <span style="color:#ae81ff">Deploy Hugo site to Pages</span>
 </span></span><span style="display:flex;"><span>
@@ -383,12 +383,15 @@ https://github.com/alex-shpak/hugo-book
 </span></span><span style="display:flex;"><span>        <span style="color:#f92672">run</span>: |<span style="color:#e6db74">
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          git clone https://github.com/marcus0x62/quixotic
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          cd quixotic
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          git checkout 42ba17d178864ab3fb946c5d534535d3b52c6551
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          cargo build
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          cargo install --path . --bin quixotic</span>
 </span></span><span style="display:flex;"><span>      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Install Hugo CLI</span>
 </span></span><span style="display:flex;"><span>        <span style="color:#f92672">run</span>: |<span style="color:#e6db74">
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &amp;&amp; sudo dpkg -i ${{ runner.temp }}/hugo.deb          </span>
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          &amp;&amp; sudo dpkg -i ${{ runner.temp }}/hugo.deb    </span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Install python depedencies</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">run</span>: <span style="color:#ae81ff">python3 -m pip install Pillow</span>
 </span></span><span style="display:flex;"><span>      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Install Dart Sass</span>
 </span></span><span style="display:flex;"><span>        <span style="color:#f92672">run</span>: <span style="color:#ae81ff">sudo snap install dart-sass</span>
 </span></span><span style="display:flex;"><span>      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Checkout</span>
@@ -413,7 +416,11 @@ https://github.com/alex-shpak/hugo-book
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">            --baseURL &#34;${{ steps.pages.outputs.base_url }}/&#34;</span>
 </span></span><span style="display:flex;"><span>      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Setup trap</span>
 </span></span><span style="display:flex;"><span>        <span style="color:#f92672">run</span>: |<span style="color:#e6db74">
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          quixotic --input ./public --output ./train-me
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          quixotic --input ./public --output ./train-me --percent 0.30 --scramble-images 0.50
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          find ./train-me -name &#39;*.jpg&#39;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          python3 img-poison.py ./train-me/*.jpg ./train-me/*/*.jpg ./train-me/*/*/*.jpg ./train-me/*/*/*/*.jpg
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          find ./train-me -name &#39;*.png&#39;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          python3 img-poison.py ./train-me/*.png ./train-me/*/*.png ./train-me/*/*/*.png ./train-me/*/*/*/*.png
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          mv ./train-me ./public/
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          sed -i &#34;s#${{ steps.pages.outputs.base_url }}/#${{ steps.pages.outputs.base_url }}/train-me/#g&#34; ./public/train-me/sitemap.xml          </span>
 </span></span><span style="display:flex;"><span>      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Upload artifact</span>
@@ -432,200 +439,230 @@ https://github.com/alex-shpak/hugo-book
 </span></span><span style="display:flex;"><span>      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Deploy to GitHub Pages</span>
 </span></span><span style="display:flex;"><span>        <span style="color:#f92672">id</span>: <span style="color:#ae81ff">deployment</span>
 </span></span><span style="display:flex;"><span>        <span style="color:#f92672">uses</span>: <span style="color:#ae81ff">actions/deploy-pages@v4</span>
-</span></span></code></pre></div><p>The content above has been adapted from Hugo’s official documentation and subsequently modified to align with the specific context. <span style="color:grey">* For a more comprehensive understanding, please refer to the section on <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/" target="_blank">Hosting on GitHub Pages</a> in the official documentation.</span></p>
-<p>In summary, we modify our workflow to install and run <code>quixotic</code>, using the <code>_site</code> folder as input (to train the Markov generator on our website content) and the <code>train-me</code> folder as output. Subsequently, we transfer the Markov-modified content into the <code>_site</code> folder (e.g., <code>_site/train-me</code>).</p>
-<p>To prevent “legitimate” bots—those explicitly authorized to crawl our site—from inadvertently accessing the directory containing Markov-modified content, we extend the <code>robots.txt</code> file by including a general <code>Disallow</code> directive for all user agents, as illustrated in the following example:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-txt" data-lang="txt"><span style="display:flex;"><span>User-Agent: *
-</span></span><span style="display:flex;"><span>Disallow: /train-me
-</span></span></code></pre></div><p>This precaution ensures that scrapers adhering to access restrictions do not inadvertently crawl sections of the site containing modified data.</p>
+</span></span></code></pre></div><p>The content above has been adapted from Hugo’s official documentation and subsequently modified to align with the specific context. <span style="color:grey">* For a more comprehensive understanding, please refer to the section titled <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/" target="_blank">“Host on GitHub Pages”</a> in the official documentation.</span></p>
+<h4 id="implementation-notes">
+  Implementation Notes
+  <a class="anchor" href="#implementation-notes">#</a>
+</h4>
+<p>As part of this approach, we modify our workflow to install and run <code>quixotic</code>, using the <code>public</code> folder as input (to train the Markov generator on our website content) and the <code>train-me</code> folder as output. The website content is slightly modified with nonsensical substitutions: approximately 30% of the words are replaced, and around 50% of the images on the website are transposed. Notably, the associated alt text and caption content remain unchanged, resulting in inconsistencies between the visual material and its corresponding textual descriptions. Subsequently, the Markov-modified content is transferred to the <code>public</code> folder (e.g., <code>public/train-me</code>).</p>
+<p>In addition, we incorporate code snippets by <a href="https://social.ty-penguin.org.uk/@pengfold/statuses/01JQPVVWD7DP6DFTYNS9DDDC43" target="_blank">Alun Jones</a> to further amplify and refine the options for scrambling images provided by <code>quixotic</code>, adding another layer of complexity to the alterations and increasing the inconsistency between the visual content and its original form. The code snippet picks up blocks from random locations within an image and shuffles them by a slight offset. The objective is to generate files that preserve their file format integrity as JPG or PNG while undergoing sufficient alteration to render their content unintelligible—thereby undermining their utility in AI training processes.</p>
+<p>To integrate the above methodology into the build stage of our static website, we made three minor adjustments: a lightweight Python wrapper for the functions provided by Alun, modifications to our workflow to ensure the necessary image manipulation libraries for Python are available, and the incorporation of the script into the build process. The following script implements the image poisoning technique as described, enabling the modification of image data in alignment with the specified methodology.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-py" data-lang="py"><span style="display:flex;"><span><span style="color:#f92672">import</span> random
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> glob
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> sys
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> PIL <span style="color:#f92672">import</span> Image
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">munge</span>(inpic, outpic, quality<span style="color:#f92672">=</span><span style="color:#ae81ff">60</span>):
+</span></span><span style="display:flex;"><span>    im <span style="color:#f92672">=</span> Image<span style="color:#f92672">.</span>open(inpic)
+</span></span><span style="display:flex;"><span>    boxsize <span style="color:#f92672">=</span> (im<span style="color:#f92672">.</span>size[<span style="color:#ae81ff">0</span>]<span style="color:#f92672">//</span><span style="color:#ae81ff">16</span>, im<span style="color:#f92672">.</span>size[<span style="color:#ae81ff">1</span>]<span style="color:#f92672">//</span><span style="color:#ae81ff">16</span>)
+</span></span><span style="display:flex;"><span>    shift <span style="color:#f92672">=</span> max(boxsize[<span style="color:#ae81ff">0</span>]<span style="color:#f92672">//</span><span style="color:#ae81ff">8</span>, boxsize[<span style="color:#ae81ff">1</span>]<span style="color:#f92672">//</span><span style="color:#ae81ff">8</span>, <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> i <span style="color:#f92672">in</span> range(<span style="color:#ae81ff">1500</span>):
+</span></span><span style="display:flex;"><span>        x <span style="color:#f92672">=</span> random<span style="color:#f92672">.</span>randint(shift, im<span style="color:#f92672">.</span>size[<span style="color:#ae81ff">0</span>]<span style="color:#f92672">-</span>boxsize[<span style="color:#ae81ff">0</span>]<span style="color:#f92672">-</span>shift)
+</span></span><span style="display:flex;"><span>        y <span style="color:#f92672">=</span> random<span style="color:#f92672">.</span>randint(shift, im<span style="color:#f92672">.</span>size[<span style="color:#ae81ff">1</span>]<span style="color:#f92672">-</span>boxsize[<span style="color:#ae81ff">1</span>]<span style="color:#f92672">-</span>shift)
+</span></span><span style="display:flex;"><span>        im2 <span style="color:#f92672">=</span> im<span style="color:#f92672">.</span>crop((x, y, x<span style="color:#f92672">+</span>boxsize[<span style="color:#ae81ff">0</span>], y<span style="color:#f92672">+</span>boxsize[<span style="color:#ae81ff">1</span>]))
+</span></span><span style="display:flex;"><span>        im<span style="color:#f92672">.</span>paste(im2, (x<span style="color:#f92672">+</span>shift<span style="color:#f92672">*</span>random<span style="color:#f92672">.</span>choice((<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>)), y<span style="color:#f92672">+</span>shift<span style="color:#f92672">*</span>random<span style="color:#f92672">.</span>choice((<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>))))
+</span></span><span style="display:flex;"><span>    im<span style="color:#f92672">.</span>save(outpic, quality<span style="color:#f92672">=</span>quality, exif<span style="color:#f92672">=</span>im<span style="color:#f92672">.</span>getexif())
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>print(<span style="color:#e6db74">&#39;image poison: PICs&#39;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> pattern <span style="color:#f92672">in</span> sys<span style="color:#f92672">.</span>argv[<span style="color:#ae81ff">1</span>:]:
+</span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">&#39;</span><span style="color:#ae81ff">\t</span><span style="color:#e6db74">{}</span><span style="color:#e6db74">&#39;</span><span style="color:#f92672">.</span>format(pattern))
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> pic <span style="color:#f92672">in</span> glob<span style="color:#f92672">.</span>glob(pattern):
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">try</span>:
+</span></span><span style="display:flex;"><span>            munge(pic, pic)
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">except</span>:
+</span></span><span style="display:flex;"><span>            print(<span style="color:#e6db74">&#39;WARNING: error while processing &#39;</span>, pic)
+</span></span><span style="display:flex;"><span>            <span style="color:#66d9ef">pass</span>
+</span></span></code></pre></div><p>Moreover, to prevent “legitimate” bots—those explicitly authorized to crawl our site—from inadvertently accessing the directory containing Markov-modified content, we extend the <code>robots.txt</code> file by including a general <code>Disallow</code> directive for all user agents, as illustrated in the following example:</p>
+<pre tabindex="0"><code>User-Agent: *
+Disallow: /train-me
+</code></pre><p>This precaution theoretically “ensures” that scrapers complying with access restrictions do not inadvertently crawl sections of the site containing modified data.</p>
 <p>Finally, we generate an additional <code>sitemap.xml</code> to list all modified pages. With each new build of the website, the randomly modified pages are updated accordingly.</p>
 <h4 id="further-consideration">
   Further Consideration:
   <a class="anchor" href="#further-consideration">#</a>
 </h4>
-<p>If you are interested in extending your <code>robots.txt</code> file and setting specific rules to manage access to your website, below you will find an extensive list of web scrapers and crawlers linked to AI companies and the training of large language models (LLMs), which can be blocked by appropriately adjusting the file.</p>
+<p>If you are interested in extending your <code>robots.txt</code> file and setting specific rules to manage access to your website, below you will find an extensive list of web scrapers and crawlers linked to artificial intelligence (AI) companies and the training of large language models (LLMs), which can be blocked by appropriately adjusting the file.</p>
 <details ><summary><strong><code>[02-19-25] - AI Block List</code></strong></summary>
   <div class="markdown-inner">
-    <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-txt" data-lang="txt"><span style="display:flex;"><span># AI-Block-List-02192025
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>User-agent: Agent GPT
-</span></span><span style="display:flex;"><span>User-agent: AgentGPT
-</span></span><span style="display:flex;"><span>User-agent: AI Article Writer
-</span></span><span style="display:flex;"><span>User-agent: AI Content Detector
-</span></span><span style="display:flex;"><span>User-agent: AI Dungeon
-</span></span><span style="display:flex;"><span>User-agent: AI Search Engine
-</span></span><span style="display:flex;"><span>User-agent: AI SEO Crawler
-</span></span><span style="display:flex;"><span>User-agent: AI Writer
-</span></span><span style="display:flex;"><span>User-agent: AI21 Labs
-</span></span><span style="display:flex;"><span>User-agent: AI2Bot
-</span></span><span style="display:flex;"><span>User-agent: AIBot
-</span></span><span style="display:flex;"><span>User-agent: AISearchBot
-</span></span><span style="display:flex;"><span>User-agent: AlexaTM
-</span></span><span style="display:flex;"><span>User-agent: Alpha AI
-</span></span><span style="display:flex;"><span>User-agent: AlphaAI
-</span></span><span style="display:flex;"><span>User-agent: Amazon Bedrock
-</span></span><span style="display:flex;"><span>User-agent: Amazon Lex
-</span></span><span style="display:flex;"><span>User-agent: Amazonbot
-</span></span><span style="display:flex;"><span>User-agent: Amelia
-</span></span><span style="display:flex;"><span>User-agent: anthropic-ai
-</span></span><span style="display:flex;"><span>User-agent: AnthropicAI
-</span></span><span style="display:flex;"><span>User-agent: AnyPicker
-</span></span><span style="display:flex;"><span>User-agent: Anyword
-</span></span><span style="display:flex;"><span>User-agent: Applebot
-</span></span><span style="display:flex;"><span>User-agent: Articoolo
-</span></span><span style="display:flex;"><span>User-agent: AutoGPT
-</span></span><span style="display:flex;"><span>User-agent: Automated Writer
-</span></span><span style="display:flex;"><span>User-agent: AwarioRssBot
-</span></span><span style="display:flex;"><span>User-agent: AwarioSmartBot
-</span></span><span style="display:flex;"><span>User-agent: BingAI
-</span></span><span style="display:flex;"><span>User-agent: Brave Leo AI
-</span></span><span style="display:flex;"><span>User-agent: Bytespider
-</span></span><span style="display:flex;"><span>User-agent: CatBoost
-</span></span><span style="display:flex;"><span>User-agent: CC-Crawler
-</span></span><span style="display:flex;"><span>User-agent: CCBot
-</span></span><span style="display:flex;"><span>User-agent: ChatGPT
-</span></span><span style="display:flex;"><span>User-agent: Chinchilla
-</span></span><span style="display:flex;"><span>User-agent: Claude-Web
-</span></span><span style="display:flex;"><span>User-agent: ClaudeBot
-</span></span><span style="display:flex;"><span>User-agent: ClearScope
-</span></span><span style="display:flex;"><span>User-agent: cohere-ai
-</span></span><span style="display:flex;"><span>User-agent: cohere-training-data-crawler
-</span></span><span style="display:flex;"><span>User-agent: Common Crawl
-</span></span><span style="display:flex;"><span>User-agent: commoncrawl
-</span></span><span style="display:flex;"><span>User-agent: Content Harmony
-</span></span><span style="display:flex;"><span>User-agent: Content King
-</span></span><span style="display:flex;"><span>User-agent: Content Optimizer
-</span></span><span style="display:flex;"><span>User-agent: Content Samurai
-</span></span><span style="display:flex;"><span>User-agent: ContentAtScale
-</span></span><span style="display:flex;"><span>User-agent: ContentBot
-</span></span><span style="display:flex;"><span>User-agent: Contentedge
-</span></span><span style="display:flex;"><span>User-agent: Conversion AI
-</span></span><span style="display:flex;"><span>User-agent: CopyAI
-</span></span><span style="display:flex;"><span>User-agent: Copymatic
-</span></span><span style="display:flex;"><span>User-agent: Copyscape
-</span></span><span style="display:flex;"><span>User-agent: CrawlQ AI
-</span></span><span style="display:flex;"><span>User-agent: Crawlspace
-</span></span><span style="display:flex;"><span>User-agent: crew AI
-</span></span><span style="display:flex;"><span>User-agent: crewAI
-</span></span><span style="display:flex;"><span>User-agent: DALL-E
-</span></span><span style="display:flex;"><span>User-agent: DataForSeoBot
-</span></span><span style="display:flex;"><span>User-agent: DeepAI
-</span></span><span style="display:flex;"><span>User-agent: DeepL
-</span></span><span style="display:flex;"><span>User-agent: DeepMind
-</span></span><span style="display:flex;"><span>User-agent: DeepSeek
-</span></span><span style="display:flex;"><span>User-agent: DepolarizingGPT
-</span></span><span style="display:flex;"><span>User-agent: DialoGPT
-</span></span><span style="display:flex;"><span>User-agent: Diffbot
-</span></span><span style="display:flex;"><span>User-agent: DuckAssistBot
-</span></span><span style="display:flex;"><span>User-agent: FacebookBot
-</span></span><span style="display:flex;"><span>User-agent: Firecrawl
-</span></span><span style="display:flex;"><span>User-agent: Flyriver
-</span></span><span style="display:flex;"><span>User-agent: Frase AI
-</span></span><span style="display:flex;"><span>User-agent: FriendlyCrawler
-</span></span><span style="display:flex;"><span>User-agent: Gemini
-</span></span><span style="display:flex;"><span>User-agent: Gemma
-</span></span><span style="display:flex;"><span>User-agent: GenAI
-</span></span><span style="display:flex;"><span>User-agent: Google Bard AI
-</span></span><span style="display:flex;"><span>User-agent: Google-CloudVertexBot
-</span></span><span style="display:flex;"><span>User-agent: Google-Extended
-</span></span><span style="display:flex;"><span>User-agent: GoogleOther
-</span></span><span style="display:flex;"><span>User-agent: GPT-2
-</span></span><span style="display:flex;"><span>User-agent: GPT-3
-</span></span><span style="display:flex;"><span>User-agent: GPT-4
-</span></span><span style="display:flex;"><span>User-agent: GPTBot
-</span></span><span style="display:flex;"><span>User-agent: GPTZero
-</span></span><span style="display:flex;"><span>User-agent: Grammarly
-</span></span><span style="display:flex;"><span>User-agent: Grok
-</span></span><span style="display:flex;"><span>User-agent: Hemingway Editor
-</span></span><span style="display:flex;"><span>User-agent: Hugging Face
-</span></span><span style="display:flex;"><span>User-agent: Hypotenuse AI
-</span></span><span style="display:flex;"><span>User-agent: iaskspider
-</span></span><span style="display:flex;"><span>User-agent: ICC-Crawler
-</span></span><span style="display:flex;"><span>User-agent: ImagesiftBot
-</span></span><span style="display:flex;"><span>User-agent: img2dataset
-</span></span><span style="display:flex;"><span>User-agent: INK Editor
-</span></span><span style="display:flex;"><span>User-agent: INKforall
-</span></span><span style="display:flex;"><span>User-agent: IntelliSeek.ai
-</span></span><span style="display:flex;"><span>User-agent: Inferkit
-</span></span><span style="display:flex;"><span>User-agent: ISSCyberRiskCrawler
-</span></span><span style="display:flex;"><span>User-agent: JasperAI
-</span></span><span style="display:flex;"><span>User-agent: Kafkai
-</span></span><span style="display:flex;"><span>User-agent: Kangaroo
-</span></span><span style="display:flex;"><span>User-agent: Keyword Density AI
-</span></span><span style="display:flex;"><span>User-agent: LeftWingGPT
-</span></span><span style="display:flex;"><span>User-agent: LLaMA
-</span></span><span style="display:flex;"><span>User-agent: magpie-crawler
-</span></span><span style="display:flex;"><span>User-agent: MarketMuse
-</span></span><span style="display:flex;"><span>User-agent: Meltwater
-</span></span><span style="display:flex;"><span>User-agent: Meta AI
-</span></span><span style="display:flex;"><span>User-agent: Meta Llama
-</span></span><span style="display:flex;"><span>User-agent: Meta.AI
-</span></span><span style="display:flex;"><span>User-agent: Meta-AI
-</span></span><span style="display:flex;"><span>User-agent: Meta-ExternalAgent
-</span></span><span style="display:flex;"><span>User-agent: Meta-ExternalFetcher
-</span></span><span style="display:flex;"><span>User-agent: MetaAI
-</span></span><span style="display:flex;"><span>User-agent: MetaTagBot
-</span></span><span style="display:flex;"><span>User-agent: Mistral
-</span></span><span style="display:flex;"><span>User-agent: Narrative Device
-</span></span><span style="display:flex;"><span>User-agent: Neural Text
-</span></span><span style="display:flex;"><span>User-agent: NeuralSEO
-</span></span><span style="display:flex;"><span>User-agent: OAI-SearchBot
-</span></span><span style="display:flex;"><span>User-agent: OAI SearchBot
-</span></span><span style="display:flex;"><span>User-agent: omgili
-</span></span><span style="display:flex;"><span>User-agent: OmniGPT
-</span></span><span style="display:flex;"><span>User-agent: Open AI
-</span></span><span style="display:flex;"><span>User-agent: OpenAI
-</span></span><span style="display:flex;"><span>User-agent: OpenText AI
-</span></span><span style="display:flex;"><span>User-agent: Outwrite
-</span></span><span style="display:flex;"><span>User-agent: Page Analyzer AI
-</span></span><span style="display:flex;"><span>User-agent: PanguBot
-</span></span><span style="display:flex;"><span>User-agent: Paraphraser.io
-</span></span><span style="display:flex;"><span>User-agent: peer39_crawler
-</span></span><span style="display:flex;"><span>User-agent: PerplexityBot
-</span></span><span style="display:flex;"><span>User-agent: PetalBot
-</span></span><span style="display:flex;"><span>User-agent: ProWritingAid
-</span></span><span style="display:flex;"><span>User-agent: QuillBot
-</span></span><span style="display:flex;"><span>User-agent: RightWingGPT
-</span></span><span style="display:flex;"><span>User-agent: RobotSpider
-</span></span><span style="display:flex;"><span>User-agent: Rytr
-</span></span><span style="display:flex;"><span>User-agent: SaplingAI
-</span></span><span style="display:flex;"><span>User-agent: Scalenut
-</span></span><span style="display:flex;"><span>User-agent: Scrapy
-</span></span><span style="display:flex;"><span>User-agent: ScriptBook
-</span></span><span style="display:flex;"><span>User-agent: SearchGPT
-</span></span><span style="display:flex;"><span>User-agent: SemrushBot
-</span></span><span style="display:flex;"><span>User-agent: SEO Content Machine
-</span></span><span style="display:flex;"><span>User-agent: SEO Robot
-</span></span><span style="display:flex;"><span>User-agent: Sidetrade
-</span></span><span style="display:flex;"><span>User-agent: Simplified AI
-</span></span><span style="display:flex;"><span>User-agent: SlickWrite
-</span></span><span style="display:flex;"><span>User-agent: Spin Rewriter
-</span></span><span style="display:flex;"><span>User-agent: Spinbot
-</span></span><span style="display:flex;"><span>User-agent: Stability
-</span></span><span style="display:flex;"><span>User-agent: Sudowrite
-</span></span><span style="display:flex;"><span>User-agent: Surfer AI
-</span></span><span style="display:flex;"><span>User-agent: Text Blaze
-</span></span><span style="display:flex;"><span>User-agent: TextCortex
-</span></span><span style="display:flex;"><span>User-agent: The Knowledge AI
-</span></span><span style="display:flex;"><span>User-agent: Timpibot
-</span></span><span style="display:flex;"><span>User-agent: VelenPublicWebCrawler
-</span></span><span style="display:flex;"><span>User-agent: Vidnami AI
-</span></span><span style="display:flex;"><span>User-agent: WebChatGPT
-</span></span><span style="display:flex;"><span>User-agent: Webzio
-</span></span><span style="display:flex;"><span>User-agent: Whisper
-</span></span><span style="display:flex;"><span>User-agent: WordAI
-</span></span><span style="display:flex;"><span>User-agent: Wordtune
-</span></span><span style="display:flex;"><span>User-agent: Writecream
-</span></span><span style="display:flex;"><span>User-agent: WriterZen
-</span></span><span style="display:flex;"><span>User-agent: Writescope
-</span></span><span style="display:flex;"><span>User-agent: Writesonic
-</span></span><span style="display:flex;"><span>User-agent: x.AI
-</span></span><span style="display:flex;"><span>User-agent: xAI
-</span></span><span style="display:flex;"><span>User-agent: YouBot
-</span></span><span style="display:flex;"><span>User-agent: Zero GTP
-</span></span><span style="display:flex;"><span>User-agent: ZimmWriter
-</span></span><span style="display:flex;"><span>Disallow: /
-</span></span></code></pre></div>
+    <pre tabindex="0"><code># AI-Block-List-02192025
+<p>User-agent: Agent GPT
+User-agent: AgentGPT
+User-agent: AI Article Writer
+User-agent: AI Content Detector
+User-agent: AI Dungeon
+User-agent: AI Search Engine
+User-agent: AI SEO Crawler
+User-agent: AI Writer
+User-agent: AI21 Labs
+User-agent: AI2Bot
+User-agent: AIBot
+User-agent: AISearchBot
+User-agent: AlexaTM
+User-agent: Alpha AI
+User-agent: AlphaAI
+User-agent: Amazon Bedrock
+User-agent: Amazon Lex
+User-agent: Amazonbot
+User-agent: Amelia
+User-agent: anthropic-ai
+User-agent: AnthropicAI
+User-agent: AnyPicker
+User-agent: Anyword
+User-agent: Applebot
+User-agent: Articoolo
+User-agent: AutoGPT
+User-agent: Automated Writer
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+User-agent: BingAI
+User-agent: Brave Leo AI
+User-agent: Bytespider
+User-agent: CatBoost
+User-agent: CC-Crawler
+User-agent: CCBot
+User-agent: ChatGPT
+User-agent: Chinchilla
+User-agent: Claude-Web
+User-agent: ClaudeBot
+User-agent: ClearScope
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: Common Crawl
+User-agent: commoncrawl
+User-agent: Content Harmony
+User-agent: Content King
+User-agent: Content Optimizer
+User-agent: Content Samurai
+User-agent: ContentAtScale
+User-agent: ContentBot
+User-agent: Contentedge
+User-agent: Conversion AI
+User-agent: CopyAI
+User-agent: Copymatic
+User-agent: Copyscape
+User-agent: CrawlQ AI
+User-agent: Crawlspace
+User-agent: crew AI
+User-agent: crewAI
+User-agent: DALL-E
+User-agent: DataForSeoBot
+User-agent: DeepAI
+User-agent: DeepL
+User-agent: DeepMind
+User-agent: DeepSeek
+User-agent: DepolarizingGPT
+User-agent: DialoGPT
+User-agent: Diffbot
+User-agent: DuckAssistBot
+User-agent: FacebookBot
+User-agent: Firecrawl
+User-agent: Flyriver
+User-agent: Frase AI
+User-agent: FriendlyCrawler
+User-agent: Gemini
+User-agent: Gemma
+User-agent: GenAI
+User-agent: Google Bard AI
+User-agent: Google-CloudVertexBot
+User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: GPT-2
+User-agent: GPT-3
+User-agent: GPT-4
+User-agent: GPTBot
+User-agent: GPTZero
+User-agent: Grammarly
+User-agent: Grok
+User-agent: Hemingway Editor
+User-agent: Hugging Face
+User-agent: Hypotenuse AI
+User-agent: iaskspider
+User-agent: ICC-Crawler
+User-agent: ImagesiftBot
+User-agent: img2dataset
+User-agent: INK Editor
+User-agent: INKforall
+User-agent: IntelliSeek.ai
+User-agent: Inferkit
+User-agent: ISSCyberRiskCrawler
+User-agent: JasperAI
+User-agent: Kafkai
+User-agent: Kangaroo
+User-agent: Keyword Density AI
+User-agent: LeftWingGPT
+User-agent: LLaMA
+User-agent: magpie-crawler
+User-agent: MarketMuse
+User-agent: Meltwater
+User-agent: Meta AI
+User-agent: Meta Llama
+User-agent: Meta.AI
+User-agent: Meta-AI
+User-agent: Meta-ExternalAgent
+User-agent: Meta-ExternalFetcher
+User-agent: MetaAI
+User-agent: MetaTagBot
+User-agent: Mistral
+User-agent: Narrative Device
+User-agent: Neural Text
+User-agent: NeuralSEO
+User-agent: OAI-SearchBot
+User-agent: OAI SearchBot
+User-agent: omgili
+User-agent: OmniGPT
+User-agent: Open AI
+User-agent: OpenAI
+User-agent: OpenText AI
+User-agent: Outwrite
+User-agent: Page Analyzer AI
+User-agent: PanguBot
+User-agent: Paraphraser.io
+User-agent: peer39_crawler
+User-agent: PerplexityBot
+User-agent: PetalBot
+User-agent: ProWritingAid
+User-agent: QuillBot
+User-agent: RightWingGPT
+User-agent: RobotSpider
+User-agent: Rytr
+User-agent: SaplingAI
+User-agent: Scalenut
+User-agent: Scrapy
+User-agent: ScriptBook
+User-agent: SearchGPT
+User-agent: SemrushBot
+User-agent: SEO Content Machine
+User-agent: SEO Robot
+User-agent: Sidetrade
+User-agent: Simplified AI
+User-agent: SlickWrite
+User-agent: Spin Rewriter
+User-agent: Spinbot
+User-agent: Stability
+User-agent: Sudowrite
+User-agent: Surfer AI
+User-agent: Text Blaze
+User-agent: TextCortex
+User-agent: The Knowledge AI
+User-agent: Timpibot
+User-agent: VelenPublicWebCrawler
+User-agent: Vidnami AI
+User-agent: WebChatGPT
+User-agent: Webzio
+User-agent: Whisper
+User-agent: WordAI
+User-agent: Wordtune
+User-agent: Writecream
+User-agent: WriterZen
+User-agent: Writescope
+User-agent: Writesonic
+User-agent: x.AI
+User-agent: xAI
+User-agent: YouBot
+User-agent: Zero GTP
+User-agent: ZimmWriter
+Disallow: /
+</code></pre></p>
   </div>
 </details>
 <p><span style="color:grey">* Please note that the information provided on this page serves as a preliminary overview and is subject to updates and revisions as new data and insights become available.</span></p>

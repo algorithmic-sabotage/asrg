@@ -1,7 +1,3 @@
-#!/usr/bin/python3
-#
-# Quick hack to modify the pixel data in a jpeg
-# and save to another file.
 import random
 import glob
 import sys
@@ -18,7 +14,7 @@ def munge(inpic, outpic, quality=60):
         im.paste(im2, (x+shift*random.choice((-1, 1)), y+shift*random.choice((-1, 1))))
     im.save(outpic, quality=quality, exif=im.getexif())
 
-print('image poison: JPGs')
+print('image poison: PICs')
 for pattern in sys.argv[1:]:
     print('\t{}'.format(pattern))
     for pic in glob.glob(pattern):

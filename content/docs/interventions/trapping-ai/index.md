@@ -5,7 +5,7 @@ description: This is a methodically structured poisoning mechanism designed to f
 bookToc: false
 url: /trapping-ai
 date: 2025-02-22
-modified: 2025-02-23
+modified: 2025-04-05
 Tags: ['Trapping AI', 'LLM', 'Quixotic', 'Crawlers', 'Bots', 'Poisoning Mechanism', 'AI', 'Fake Content']
 images:
 - images/output-787.png
@@ -15,19 +15,19 @@ images:
 
 <div class="caption"><img src="images/Racknitz_-_The_Turk_3.jpg">Joseph Racknitz, The Mechanical Turk, 1789. <span style="color:grey">Public domain.</span></div>
 
-_"I don't think any development is 'only' technical. All technology is embedded in history, politics and our social imaginaries. It's more helpful to think in terms of technopolitics, where the technical and political dimensions are intertwined like strands of DNA. AI in particular is an apparatus, a configuration of concepts, investments, policies, institutions and subjectivities that act in concert to produce a certain kind of end result. In the case of AI, the historical currents it's channelling include eugenics and white supremacy." — Dan McQuillan, 2025[^1]_
+_“I don't think any development is 'only' technical. All technology is embedded in history, politics and our social imaginaries. It's more helpful to think in terms of technopolitics, where the technical and political dimensions are intertwined like strands of DNA. AI in particular is an apparatus, a configuration of concepts, investments, policies, institutions and subjectivities that act in concert to produce a certain kind of end result. In the case of AI, the historical currents it's channelling include eugenics and white supremacy.” — Dan McQuillan, 2025[^1]_
 
 ## Context
 
-This guide provides a comprehensive analysis of implementing a data poisoning mechanism within static websites hosted on _GitHub Pages_ and generated using [Hugo](https://gohugo.io/), a static site generator. Specifically, we describe its application to our website. The approach employs [Quixotic](https://marcusb.org/hacks/quixotic.html), which operates through a simple Markov Chain-based text generator, to feed deceptive data to bots and large language model (LLM) crawlers that disregard `robots.txt` directives.
+This guide provides a comprehensive analysis of implementing a data poisoning mechanism within static websites hosted on _GitHub Pages_ and generated using [Hugo](https://gohugo.io/), a static site generator. Specifically, we describe its application to our own website. The approach employs [Quixotic](https://marcusb.org/hacks/quixotic.html)—a program designed to feed fake content to bots and large language model (LLM) scrapers that ignore `robots.txt`—which operates by way of a simple Markov Chain text generator.
 
-This process statically generates incoherent data by systematically modifying the website’s original content. Approximately 20% of the words are substituted with contextually incongruous replacements. These semantic perturbations intentionally diminish the coherence and interpretability of the text, obfuscating the underlying information. To ensure persistent and adaptive interference, the data regenerates periodically, incorporating randomized variations with each website build.
+This process statically generates incoherent data by systematically modifying the website’s original content. Approximately 30% of the words are substituted with contextually incongruous replacements. These semantic perturbations intentionally diminish the coherence and interpretability of the text, obfuscating the underlying information. To ensure persistent and adaptive interference, the data regenerates periodically, incorporating randomized variations with each website build.
 
-Through the strategic embedding of subtle yet cumulative distortions within training datasets, this method aims to incrementally erode model integrity, thereby contributing—albeit to a limited extent—to its progressive destabilization. It is important to note that this implementation is grounded in the methodological framework outlined by [Bastian Greshake Tzovaras](https://tzovar.as/about/) and is comprehensively documented in the following resource: https://tzovar.as/algorithmic-sabotage-ssg/.
+Through the strategic embedding of subtle yet cumulative distortions within training datasets, this approach aims to incrementally erode model integrity, thereby contributing—albeit to a limited extent—to its progressive destabilization. It is important to note that this implementation is grounded in the methodological framework outlined by _Bastian Greshake Tzovaras_ and is comprehensively documented in the following resources: [here](https://tzovar.as/algorithmic-sabotage-ssg/) and [here](https://tzovar.as/algorithmic-sabotage-ii/).
 
 ### Implementation
 
-To automate the building and deployment of your site to _GitHub Pages_, you must configure a workflow using _GitHub Actions_. In your local repository, create a new folder named `.github/workflows` and either add a new or update the existing `hugo.yaml` file with the following contents:
+To automate the build and deployment process of a static website on _GitHub Pages_, it is necessary to configure a workflow using _GitHub Actions_. Within the local repository, a `.github/workflows` directory should be created, and a `hugo.yaml` file—either newly added or updated—should include the following contents:
 
 ```yaml
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
@@ -70,12 +70,15 @@ jobs:
         run: |
           git clone https://github.com/marcus0x62/quixotic
           cd quixotic
+          git checkout 42ba17d178864ab3fb946c5d534535d3b52c6551
           cargo build
           cargo install --path . --bin quixotic
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb    
+      - name: Install python depedencies
+        run: python3 -m pip install Pillow
       - name: Install Dart Sass
         run: sudo snap install dart-sass
       - name: Checkout
@@ -100,7 +103,11 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Setup trap
         run: |
-          quixotic --input ./public --output ./train-me
+          quixotic --input ./public --output ./train-me --percent 0.30 --scramble-images 0.50
+          find ./train-me -name '*.jpg'
+          python3 img-poison.py ./train-me/*.jpg ./train-me/*/*.jpg ./train-me/*/*/*.jpg ./train-me/*/*/*/*.jpg
+          find ./train-me -name '*.png'
+          python3 img-poison.py ./train-me/*.png ./train-me/*/*.png ./train-me/*/*/*.png ./train-me/*/*/*/*.png
           mv ./train-me ./public/
           sed -i "s#${{ steps.pages.outputs.base_url }}/#${{ steps.pages.outputs.base_url }}/train-me/#g" ./public/train-me/sitemap.xml          
       - name: Upload artifact
@@ -121,27 +128,61 @@ jobs:
         uses: actions/deploy-pages@v4
 ```
 
-The content above has been adapted from Hugo’s official documentation and subsequently modified to align with the specific context. <span style="color:grey">* For a more comprehensive understanding, please refer to the section on [Hosting on GitHub Pages](https://gohugo.io/hosting-and-deployment/hosting-on-github/) in the official documentation.</span>
+The content above has been adapted from Hugo’s official documentation and subsequently modified to align with the specific context. <span style="color:grey">* For a more comprehensive understanding, please refer to the section titled [“Host on GitHub Pages”](https://gohugo.io/hosting-and-deployment/hosting-on-github/) in the official documentation.</span>
 
-In summary, we modify our workflow to install and run `quixotic`, using the `_site` folder as input (to train the Markov generator on our website content) and the `train-me` folder as output. Subsequently, we transfer the Markov-modified content into the `_site` folder (e.g., `_site/train-me`).
+#### Implementation Notes
 
-To prevent “legitimate” bots—those explicitly authorized to crawl our site—from inadvertently accessing the directory containing Markov-modified content, we extend the `robots.txt` file by including a general `Disallow` directive for all user agents, as illustrated in the following example:
+As part of this approach, we modify our workflow to install and run `quixotic`, using the `public` folder as input (to train the Markov generator on our website content) and the `train-me` folder as output. The website content is slightly modified with nonsensical substitutions: approximately 30% of the words are replaced, and around 50% of the images on the website are transposed. Notably, the associated alt text and caption content remain unchanged, resulting in inconsistencies between the visual material and its corresponding textual descriptions. Subsequently, the Markov-modified content is transferred to the `public` folder (e.g., `public/train-me`). 
 
-```txt
+In addition, we incorporate code snippets by [Alun Jones](https://social.ty-penguin.org.uk/@pengfold/statuses/01JQPVVWD7DP6DFTYNS9DDDC43) to further amplify and refine the options for scrambling images provided by `quixotic`, adding another layer of complexity to the alterations and increasing the inconsistency between the visual content and its original form. The code snippet picks up blocks from random locations within an image and shuffles them by a slight offset. The objective is to generate files that preserve their file format integrity as JPG or PNG while undergoing sufficient alteration to render their content unintelligible—thereby undermining their utility in AI training processes.
+
+To integrate the above methodology into the build stage of our static website, we made three minor adjustments: a lightweight Python wrapper for the functions provided by Alun, modifications to our workflow to ensure the necessary image manipulation libraries for Python are available, and the incorporation of the script into the build process. The following script implements the image poisoning technique as described, enabling the modification of image data in alignment with the specified methodology.
+
+```py
+import random
+import glob
+import sys
+from PIL import Image
+
+def munge(inpic, outpic, quality=60):
+    im = Image.open(inpic)
+    boxsize = (im.size[0]//16, im.size[1]//16)
+    shift = max(boxsize[0]//8, boxsize[1]//8, 1)
+    for i in range(1500):
+        x = random.randint(shift, im.size[0]-boxsize[0]-shift)
+        y = random.randint(shift, im.size[1]-boxsize[1]-shift)
+        im2 = im.crop((x, y, x+boxsize[0], y+boxsize[1]))
+        im.paste(im2, (x+shift*random.choice((-1, 1)), y+shift*random.choice((-1, 1))))
+    im.save(outpic, quality=quality, exif=im.getexif())
+
+print('image poison: PICs')
+for pattern in sys.argv[1:]:
+    print('\t{}'.format(pattern))
+    for pic in glob.glob(pattern):
+        try:
+            munge(pic, pic)
+        except:
+            print('WARNING: error while processing ', pic)
+            pass
+```
+
+Moreover, to prevent “legitimate” bots—those explicitly authorized to crawl our site—from inadvertently accessing the directory containing Markov-modified content, we extend the `robots.txt` file by including a general `Disallow` directive for all user agents, as illustrated in the following example:
+
+```
 User-Agent: *
 Disallow: /train-me
 ```
 
-This precaution ensures that scrapers adhering to access restrictions do not inadvertently crawl sections of the site containing modified data.
+This precaution theoretically “ensures” that scrapers complying with access restrictions do not inadvertently crawl sections of the site containing modified data.
 
 Finally, we generate an additional `sitemap.xml` to list all modified pages. With each new build of the website, the randomly modified pages are updated accordingly.
 
 #### Further Consideration:
 
-If you are interested in extending your `robots.txt` file and setting specific rules to manage access to your website, below you will find an extensive list of web scrapers and crawlers linked to AI companies and the training of large language models (LLMs), which can be blocked by appropriately adjusting the file.
+If you are interested in extending your `robots.txt` file and setting specific rules to manage access to your website, below you will find an extensive list of web scrapers and crawlers linked to artificial intelligence (AI) companies and the training of large language models (LLMs), which can be blocked by appropriately adjusting the file.
 
 {{% details title="**<code>[02-19-25] - AI Block List</code>**" open=false %}}
-```txt
+```
 # AI-Block-List-02192025
 
 User-agent: Agent GPT
