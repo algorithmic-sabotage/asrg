@@ -5,7 +5,7 @@ description: The “Manifesto” articulates a systematically structured sequenc
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2025-03-11
+modified: 2025-05-02
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -25,7 +25,7 @@ The _Manifesto on “Algorithmic Sabotage”_ is structured around ten propositi
 
 The _Manifesto on “Algorithmic Sabotage”_ is authored by the Algorithmic Sabotage Research Group (ASRG) and disseminated under the terms of the _GNU Free Documentation License v1.3_. The complete licensing framework detailed in the official documentation, available at https://www.gnu.org/licenses/fdl-1.3.en.html.
 
-The _“Manifesto”_ is designed as a dynamic, evolving document that undergoes periodic revisions and updates. It has been translated into over twenty-eight languages, with all revisions systematically incorporated into each translation, thereby ensuring the preservation of both textual and conceptual fidelity to the most current version.
+The _“Manifesto”_ is designed as a dynamic, evolving document that undergoes periodic revisions and updates. It has been translated into over thirty languages, with all revisions systematically incorporated into each translation, thereby ensuring the preservation of both textual and conceptual fidelity to the most current version.
 
 {{< tabs "mas-v2024.5.1" >}}
 {{< tab "EN" >}} 
@@ -904,6 +904,34 @@ _Aten, Tháng 5, 2024_
 
 <span style="color:grey">The Vietnamese translation was prepared by T. Đơn. Please note that this translation is in draft form and will be updated once the final version is available.</span>
 
+ {{< /tab >}}
+{{< tab "FA" >}} 
+
+### مانیفست درباره‌ی «خراب‌کاری الگوریتمی»
+
+_آتن، مه ۲۰۲۴_
+
+0. «خرابکاری الگوریتمی» یک نماد از نافرمانی فناورانه برای میلیتانسی است که از نقد فناوری غایب است.
+
+1. به‌جای نوعی بیزاری واپس‌گرایانه از فناوری، «خراب‌کاری الگوریتمی» را می‌توان به‌مثابه شکلی از ضدقدرت دانست که از قدرت جمعیتی که آن را به کار می‌برد، سربرمی‌آورد.
+
+2. «خراب‌کاری الگوریتمی» از میان چارچوب ایدئولوژیک سرمایه‌داری که بر رنج تغذیه می‌کند عبور می‌کند، با انجام کاری از نوع واژگونی در زمان حال، شکل‌های معاصر سلطه‌ی الگوریتمی را از هم می‌پاشد و فضاهایی را برای کنش اخلاقی از دل بی‌فکری و خودکاری عمومی بازپس می‌گیرد.
+
+3. «خراب‌کاری الگوریتمی» تعهدی کنش‌محور به همبستگی است که مقدم بر هر نظام رده‌بندی اجتماعی، حقوقی یا الگوریتمی است.
+
+4. «خراب‌کاری الگوریتمی» بخشی از نوسازی ساختاری جنبش وسیع‌تری برای خودمختاری اجتماعی است که از طریق کنش‌های مستقیم خودجوش با تجاوزات فناوری هژمونیک مقابله می‌کند و به‌طور آگاهانه خود را با آرمان‌های عدالت اجتماعی و برابری هم‌راستا می‌سازد.
+
+5. «خراب‌کاری الگوریتمی» سازوکارهای تکنو-سیاسی ما را به‌طور ریشه‌ای بازآرایی می‌کند؛ آن‌ها را از بی‌عدالتی‌های ساختاری، چشم‌اندازهای برتری‌طلبانه و قدرت اقتدارگرای مرگ‌محور که در «امپراتوری الگوریتمی» تنیده شده‌اند دور می‌سازد، و مادیّت و پیامدهای آن را، چه از حیث انتشار کربن و چه از نظر تمرکز کنترل، برجسته می‌کند.
+
+6. «خرابکاری الگوریتمی» تحقیر الگوریتمی با هدف قدرت‌یابی و حداکثرسازی سود را نمی‌پذیرد و بر کنش‌های همیاری و همبستگی تمرکز می‌کند.
+
+7. نخستین گام سیاست‌ورزی فناورانه، فناورانه نیست بلکه سیاسی است. دیدگاه‌های فمینیستی رادیکال، ضد‌فاشیستی و استعمارزدایانه چالشی سیاسی برای «خراب‌کاری الگوریتمی» به‌شمار می‌آیند، چرا که مسائل وابستگی متقابل و مراقبت جمعی را در برابر بهینه‌سازی‌های تقلیل‌گرایانه‌ی «امپراتوری الگوریتمی» قرار می‌دهند.
+
+8. «خرابکاری الگوریتمی» با خشونت الگوریتمی و ایده‌باوری راه‌حل‌محورِ فناورانه‌ی فاشیستی مبارزه می‌کند و بر مقاومت‌های هنری‌ـ‌فعال‌گرایانه‌ای تمرکز دارد که بتوانند ذهنیتی متفاوت و یک «ضد-هوش» جمعی را بیان کنند.
+
+9. «خرابکاری الگوریتمی» دفاعی رهایی‌جویانه از ضرورت مهار جمعی فناوریِ زیان‌بار است؛ کنشی در برابر جداسازی انتزاعیِ «فرا» و «زیرِ» الگوریتم.
+
+<span style="color:grey">The Persian translation was prepared by an individual who has opted to remain anonymous. Please note that this translation is in draft form and will be updated once the final version is available.</span>
  {{< /tab >}}
 {{< /tabs >}}
 

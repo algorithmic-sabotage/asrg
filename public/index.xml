@@ -14,9 +14,10 @@
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/asrg/posts/sabot-in-the-age-of-ai/</guid>
-      <description>&lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;poison.madhouse-project.png&#34;&gt;A captured screenshot showcasing the &lt;code&gt;iocaine&lt;/code&gt; &lt;a href=&#34;https://poison.madhouse-project.org/&#34;&gt;demonstration&lt;/a&gt; site in operation. The primary objective of &lt;code&gt;iocaine&lt;/code&gt; is to generate a stable, infinite maze of randomized garbage. Each page is randomly generated but adheres to a consistent structure: an optional &lt;em&gt;&#39;back&#39;&lt;/em&gt; link (pointing to &lt;code&gt;../&lt;/code&gt;), followed by a series of Markov chain-generated paragraphs of varying lengths, and an unordered list of links at the bottom. Each link is relative to the current page and features a randomized URI along with accompanying randomized text. Additional details on its functionality can be found on the &lt;a href=&#34;https://iocaine.madhouse-project.org/&#34;&gt;dedicated website&lt;/a&gt;.&lt;/div&gt;
+      <description>&lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;output-151.png&#34;&gt;A captured screenshot showcasing the &lt;code&gt;babble&lt;/code&gt; tarpit in operation, generating an endless stream of deterministic bollocks, with plenty of links.&lt;/div&gt;
 &lt;blockquote class=&#34;book-hint danger&#34;&gt;
-  &lt;p&gt;&lt;strong&gt;⚠️ Warning&lt;/strong&gt;&lt;/p&gt;</description>
+  &lt;p&gt;&lt;strong&gt;⚠️ Warning&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Please note that the following list comprises &lt;strong&gt;intentionally malicious approaches&lt;/strong&gt; designed to cause harm. &lt;strong&gt;Do not deploy&lt;/strong&gt; any of these suggestions unless you are fully &lt;em&gt;cognizant&lt;/em&gt; of the potential consequences of your actions. LLM scrapers are &lt;em&gt;persistent&lt;/em&gt; and &lt;em&gt;aggressive&lt;/em&gt;, imposing additional strain on your server, even when serving only &lt;strong&gt;static content&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     
     
@@ -203,7 +204,7 @@
 &lt;ul class=&#34;subtitle&#34;&gt;
 	&lt;li&gt;The “Manifesto” articulates a systematically structured sequence of ten distinct propositions, enumerated from 0 to 9, each delineating the underlying principles, strategic approaches, and aesthetic manifestations that shape the critical concept of “algorithmic sabotage” within the expansive and intricately interwoven frameworks of digital culture and information technology.&lt;/li&gt;
 	&lt;li&gt;
-	Posted: Jun 13, 2024. Modified: Mar 11, 2025
+	Posted: Jun 13, 2024. Modified: May 2, 2025
 	
 &lt;/ul&gt;
 &lt;div class=&#34;caption&#34;&gt;&lt;img src=&#34;files/images/overturn-sticker-a6.png&#34;&gt;&lt;strong&gt;“I will overturn, overturn, overturn”&lt;/strong&gt; is a sticker designed by &lt;a href=&#34;https://www.apsara.ch/&#34;&gt;Apsara Flury&lt;/a&gt;, available for download in both &lt;a href=&#34;files/overturn-sticker-a6.pdf&#34;&gt;PDF&lt;/a&gt; and &lt;a href=&#34;files/overturn-sticker-a6.eps&#34;&gt;EPS&lt;/a&gt; formats. It is distributed under the &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/&#34;&gt;CC0 1.0 Universal&lt;/a&gt; Public Domain Dedication.&lt;/div&gt;
