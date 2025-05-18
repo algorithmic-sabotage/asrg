@@ -5,7 +5,7 @@ description: The “Manifesto” articulates a systematically structured sequenc
 bookToc: false
 url: /manifesto-on-algorithmic_sabotage
 date: 2024-06-13
-modified: 2025-05-02
+modified: 2025-05-17
 Tags: ['Manifesto', 'Algorithmic Sabotage', 'Sabotage', 'ASRG', 'Techno-Disobedience', 'Prefigurative Techno-Politics', 'Manifesto on Algorithmic Sabotage']
 images:
 - images/output-787.png
@@ -932,6 +932,35 @@ _آتن، مه ۲۰۲۴_
 9. «خرابکاری الگوریتمی» دفاعی رهایی‌جویانه از ضرورت مهار جمعی فناوریِ زیان‌بار است؛ کنشی در برابر جداسازی انتزاعیِ «فرا» و «زیرِ» الگوریتم.
 
 <span style="color:grey">The Persian translation was prepared by an individual who has opted to remain anonymous. Please note that this translation is in draft form and will be updated once the final version is available.</span>
+ {{< /tab >}}
+{{< tab "FI" >}} 
+
+### "Algoritmisen sabotaasin" julistus
+
+_Ateena, toukokuu 2024_
+
+0. "Algoritminen sabotaasi" on teknotottelemattomuuden muoto, joka edustaa teknologiakritiikistä puuttuvaa taistelutahtoa.
+
+1. Sen sijaan, että kyse olisi alkukantaisesta inhosta teknologiaa kohtaan, ”Algoritmisen sabotaasin” voi nähdä vastavoiman muotona, joka syntyy sitä käyttävän yhteisön vahvuudesta.
+
+2. "Algoritminen sabotaasi" leikkaa kurjuudesta kumpuavan kapitalistisen ideologisen kehyksen läpi, tekemällä kumouksellista työtä nykyhetkessä, purkamalla algoritmisen alistamisen nykyaikaiset muodot ja valtaamalla tilan eettisille teoille yleistyneeltä ajattelemattomuudelta ja automaattisuudelta.
+
+3. ”Algoritminen sabotaasi” on toimintakeskeinen sitoutuminen solidaarisuuteen, joka on etusijalla mihin tahansa sosiaaliseen, oikeudelliseen tai algoritmiseen luokitteluun nähden.
+
+4. ”Algoritminen sabotaasi” on osa rakenteellista uudistusta laajemmassa sosiaalisen itsemääräämisen liikkeessä, joka vastustaa ylivaltaisen teknologian riistotoimia lupaa kyselemättömän suoran toiminnan keinoin ja on tietoisesti linjannut itsensä sosiaalisen oikeudenmukaisuuden ja yhdenvertaisuusaatteen ihanteiden mukaan.
+
+5. ”Algoritminen sabotaasi” muokkaa radikaalisti teknopoliittisia järjestelyjämme pois rakenteellisista epäoikeudenmukaisuuksista, ylivallan näkökulmista sekä "algoritmiseksi imperiumiksi" kerrostuneesta nekropoliittisesta autoritaarisesta vallasta, korostaen sen aineellisuutta ja seurauksia sekä hiilidioksidipäästöjen että hallinnan keskittymisen osalta.
+
+6. "Algoritminen sabotaasi" kieltäytyy vallan ja liikevoiton maksimoinnin vuoksi tehdystä algoritmisesta nöyryytyksestä, keskittyen vastavuoroisen avun ja solidaarisuuden toimintaan.
+
+7. Teknopolitiikan ensimmäinen askel ei ole teknologinen vaan poliittinen. Radikaalit feministiset, antifasistiset ja dekoloniaaliset näkökulmat ovat poliittinen haaste ”algoritmiselle sabotaasille”, asettaen keskinäisriippuvuuden ja yhteisöllisen huolenpidon vastakkain ”algoritmisen imperiumin” pelkistävien optimointien kanssa.
+
+8. ”Algoritminen sabotaasi” taistelee algoritmista väkivaltaa ja fasistista teknoratkaisuhakuisuutta vastaan keskittyen taiteellisesti aktivistisiin vastarinnan muotoihin, jotka voivat ilmaista toisenlaista ajattelutapaa, yhteisöllistä ”vastatiedustelua”.
+
+9. ”Algoritminen sabotaasi” on vapauttava puolustus yhteisöllisen haitallista teknologiaa rajoittavan toiminnan tarpeelle, taistelu algoritmin ”ylä- ja alapuolella" tapahtuvaa abstraktia erottelua vastaan.
+
+<span style="color:grey">The Finnish translation was prepared by Aleksandr Koltsoff.</span>
+
  {{< /tab >}}
 {{< /tabs >}}
 
