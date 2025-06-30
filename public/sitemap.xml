@@ -17,6 +17,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/asrg/posts/of-apparatuses-and-insurrections/</loc>
+    <lastmod>2025-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/asrg/posts/sabot-in-the-age-of-ai/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url>
@@ -27,7 +32,12 @@
   
   <url>
     <loc>http://localhost:1313/asrg/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/asrg/posts/</loc>
+    <lastmod>2025-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,11 +93,6 @@
   <url>
     <loc>http://localhost:1313/asrg/tags/Trapping-AI/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/asrg/posts/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -15,7 +15,7 @@ images:
 
 <div class="caption"><img src="images/Racknitz_-_The_Turk_3.jpg">Joseph Racknitz, The Mechanical Turk, 1789. <span style="color:grey">Public domain.</span></div>
 
-_“I don't think any development is 'only' technical. All technology is embedded in history, politics and our social imaginaries. It's more helpful to think in terms of technopolitics, where the technical and political dimensions are intertwined like strands of DNA. AI in particular is an apparatus, a configuration of concepts, investments, policies, institutions and subjectivities that act in concert to produce a certain kind of end result. In the case of AI, the historical currents it's channelling include eugenics and white supremacy.” — Dan McQuillan, 2025[^1]_
+_“I don't think any development is 'only' technical. All technology is embedded in history, politics and our social imaginaries. It's more helpful to think in terms of technopolitics, where the technical and political dimensions are intertwined like strands of DNA. AI in particular is an apparatus, a configuration of concepts, investments, policies, institutions and subjectivities that act in concert to produce a certain kind of end result. In the case of AI, the historical currents it's channelling include eugenics and white supremacy.”_ <span style="color:grey">— Dan McQuillan, 2025[^1]</span>
 
 ## Context
 

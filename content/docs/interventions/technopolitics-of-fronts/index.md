@@ -19,9 +19,9 @@ images:
 
 ## Context
 
-_“Nothing’s more important than stopping fascism, because fascism will stop us all.”_ — Fred Hampton, Black Panther Party[^1]
+_“Nothing’s more important than stopping fascism, because fascism will stop us all.”_ <span style="color:grey">— Fred Hampton, Black Panther Party[^1]</span>
 
-_“If you think technology will solve your problems, you don’t understand technology — and you don’t understand your problems.”_ — Laurie Anderson[^2] 
+_“If you think technology will solve your problems, you don’t understand technology — and you don’t understand your problems.”_ <span style="color:grey">— Laurie Anderson[^2]</span>
 
 The Algorithmic Sabotage Research Group (ASRG) is undertaking the formation of the _Communitarian Assembly on ‘Technopolitics of Fronts.’_ This initiative constitutes a self-organizing, bottom-up, and horizontally structured movement-building framework, strategically conceived to facilitate and enhance community-driven efforts focused on constraining the pernicious and deleterious practices of contemporary hyperscale computation. The assembly aims to function as a critical counterforce to the often reckless and ethically problematic consequences of unrestrained reductive technosolutionism, fake automation, and algorithmic operations of hyper-abstracted optimization, striving to mitigate the risks posed by the expanding influence of computational algorithms embedded in frameworks that perpetuate and amplify harm.
 
