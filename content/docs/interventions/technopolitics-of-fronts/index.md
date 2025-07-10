@@ -5,7 +5,7 @@ description: The Communitarian Assembly on ‘Technopolitics of Fronts’ consti
 bookToc: false
 url: /technopolitics-of-fronts
 date: 2024-09-07
-modified: 2025-01-15
+modified: 2025-07-08
 Tags: ['Technopolitics of Fronts', 'Resistance', 'Communitarian Assembly', 'Solidarity', 'Artivism', 'Anti-fascist Radical Care', 'Feminist Methods', 'Decolonial Tactics']
 images:
 - images/output-787.png
@@ -49,19 +49,44 @@ This subsection will present and facilitate access to the texts, articles, and e
 
 ### The Aesthetics of ‘Technopolitics of Fronts’
 
-The essay, authored by the _Communitarian Assembly on ‘Technopolitics of Fronts’_ in October 2024, epitomizes a meticulously deliberate and methodologically rigorous approach in articulating a critical and nuanced analysis of the procedural dimensions, aesthetic qualities, and functional dynamics that are integral to the prefigurative framework of _‘Technopolitics of Fronts.’_
+The essay, authored by the _Communitarian Assembly on ‘Technopolitics of Fronts’_ in October 2024, offers a critical dissection of the procedural dimensions, aesthetic qualities, and functional dynamics that underpin the foundational elements of the prefigurative framework of _‘Technopolitics of Fronts’_.
 
-<div class="caption"><img src="https://algorithmic-sabotage.github.io/asrg/intertwined-feedback-loops/images/output-639.png"><strong>TECHNOPOLITICS OF FRONTS:</strong> This intertwined feedback loop offers a critical overview of the procedural aspects, aesthetic qualities, and functional characteristics associated with the concept of the <em>“Technopolitics of Fronts,”</em> examining its theoretical foundations and practical extensions. <a href="https://cryptpad.fr/file/#/2/file/yE4q4zLF7GRQnsRw4dQaKzCl/">Download the diagram as a PDF</a> <span style="color:grey">| Diagram: © Algorithmic Sabotage Research Group</span></div>
+<div class="caption"><img src="https://algorithmic-sabotage.github.io/asrg/intertwined-feedback-loops/images/output-639.png">Diagram: © Algorithmic Sabotage Research Group. <span style="color:grey">The <em>“Technopolitics of Fronts”</em> diagram is part of a series of abstract flowcharts, further details of which can be found <a href="https://algorithmic-sabotage.github.io/asrg/intertwined-feedback-loops/">here</a>.</span></div>
 
-#### Abstract
+{{% hint warning %}}
+**📝 Note**
 
-This essay undertakes a rigorous and methodologically robust theoretical analysis of the procedural dimensions, aesthetic manifestations, and functional attributes that are inextricably linked to the critical concept of _‘Technopolitics of Fronts.’_ It provides a comprehensive and systematic examination of the operationalization of this concept, scrutinizing its deployment across the intersecting domains of political, cultural, societal, and technological struggles, elucidating the intricate and multifaceted interrelations between its conceptual foundations and practical facets.
+We would like to inform readers that we are actively working on an expanded and more in-depth revision of the text. This forthcoming iteration will provide a comprehensive and critical elaboration of the theoretical frameworks and conceptual foundations introduced in the original essay. The revised version is anticipated to be made publicly available on this page in the near future.
 
-The analysis delves into the ethical commitments, prefigurative methodologies, and praxis of radically assertive resistance, agency, and refusal, which form the foundational pillars of this framework. By critically interrogating these interrelated aesthetic and political dynamics, the essay elucidates the mechanisms through which such efforts aim to subvert, disrupt, and dismantle entrenched reactionary technopolitical power structures, contributing to a deeper and more sophisticated understanding within the complex and ever-evolving fabric of global socio-political processes.
+{{% /hint %}}
+
+### Abstract
+
+This essay undertakes a rigorous and methodologically robust theoretical analysis of the procedural dimensions, aesthetic manifestations, and functional attributes that are inextricably linked to the critical concept of _‘Technopolitics of Fronts.’_ It provides a comprehensive and systematic examination of the operationalization of this concept, scrutinizing its deployment across intersecting political, cultural, societal, and technological sites of struggle, elucidating the intricate and multifaceted interrelations between its conceptual foundations and practical facets. The analysis engages the ethical commitments, prefigurative methodologies, and militant praxes of resistance, agency, and refusal that constitute the scaffolding of this framework. Through a critical examination of these entangled aesthetic-political dynamics, the essay exposes the insurgent logics and tactical modalities, and advances a radical rearticulation of the techno-political field, foregrounding emergent antagonisms and transformative potentials.
+
+{{% /details %}}
 
 ***
 
-<span style="color:grey">* We wish to inform you that we are currently engaged in the development of an expanded and more comprehensive revision of the text. This forthcoming version will offer a thorough exploration and critical elaboration of the theoretical frameworks and conceptual foundations introduced in the initial essay. The updated version is expected to be freely accessible on this page in the near future.</span>
+{{% details title="**`[06-24-25] - Of Apparatuses and Insurrections`**" open=false %}}
+
+### Of Apparatuses and Insurrections: A Critical Commentary on the Manifesto on “Algorithmic Sabotage”
+
+The essay titled _Of Apparatuses and Insurrections: A Critical Commentary on the Manifesto on “Algorithmic Sabotage”_ was authored by individualities and is grounded in—and owes gratitude to—the collective dialogue, exchange, and weaving that took place during the proceedings of the _Communitarian Assembly on ‘Technopolitics of Fronts’_, held in Berlin and Athens between February and March 2025. The full essay is available at https://algorithmic-sabotage.github.io/asrg/posts/of-apparatuses-and-insurrections/.
+
+<div class="caption"><img src="https://algorithmic-sabotage.github.io/asrg/manifesto-on-algorithmic_sabotage/files/images/output-922.png">Visual designed by <a href="https://www.apsara.ch/">Apsara Flury</a>. Distributed under the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a> Public Domain Dedication.</div>
+
+{{% hint warning %}}
+**📝 Note**
+
+The present essay is distributed under the terms of the _Collective Conditions for Re-Use (CC4r) 1.0_ license. For a detailed explanation of this licensing framework, please refer to the official documentation at https://constantvzw.org/wefts/cc4r.en.html.
+{{% /hint %}}
+
+### Abstract
+
+This essay offers a critical review of the _Manifesto on “Algorithmic Sabotage,”_ a theoretically rigorous and politically potent intervention within contemporary discourses on algorithmic totalitarianism, the machinic orchestration of social control, and insurgent refusals of technopolitical hegemony. Through a series of ten propositions, the manifesto articulates a militant alternative to prevailing neoliberal, reformist, and technocratic critiques of contemporary computation—understood not merely as a technical system, but as an apparatus, composed of configurations of concepts, investments, policies, institutions, and subjectivities that operate in concert to produce specific technical and social outcomes. It repositions sabotage not as an isolated act of disruption, but as a generative and insurgent praxis grounded in collective refusal and the radical reappropriation of technopolitical agency.
+
+Each proposition is critically examined for its contribution to rethinking the conditions under which algorithmic domination is legitimized, naturalized, and operationalized across social, political, environmental, and knowledge-producing domains. Drawing upon anti-capitalist, anti-fascist, feminist, and decolonial struggles and analyses, the manifesto advances a prefigurative technopolitics that is simultaneously destructive of extant algorithmic power configurations and generative in cultivating alternatives grounded in relationality, critical reflection, and conviviality. Through a theoretically informed engagement with each proposition, this review elucidates the manifesto’s conceptual sophistication, its political commitments, and its potential as a catalyst for insurgent technopolitics—articulating _“Algorithmic Sabotage”_ not as a techno-nihilistic rupture, but rather as a necessary and strategic refusal in response to escalating algorithmic violence and unrestrained fascist techno-solutionism.
 
 {{% /details %}}
 

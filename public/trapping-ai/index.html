@@ -13,7 +13,7 @@
   <meta property="og:type" content="article">
     <meta property="article:section" content="docs">
     <meta property="article:published_time" content="2025-02-22T00:00:00+00:00">
-    <meta property="article:modified_time" content="2025-05-25T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-07-08T00:00:00+00:00">
     <meta property="article:tag" content="Trapping AI">
     <meta property="article:tag" content="LLM">
     <meta property="article:tag" content="Quixotic">
@@ -35,7 +35,7 @@
 <link rel="icon" href="/asrg/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/asrg/book.min.7a940d607e896c588cf6fdfe776462135f8a3053f29061f86c51e5b2fd8d7174.css" integrity="sha256-epQNYH6JbFiM9v3&#43;d2RiE1&#43;KMFPykGH4bFHlsv2NcXQ=" crossorigin="anonymous">
   <script defer src="/asrg/flexsearch.min.js"></script>
-  <script defer src="/asrg/en.search.min.9b91da7f9ec8f801a3a8b8d351f430c26fd678a580b2e9116143ffe492dbc589.js" integrity="sha256-m5Haf57I&#43;AGjqLjTUfQwwm/WeKWAsukRYUP/5JLbxYk=" crossorigin="anonymous"></script>
+  <script defer src="/asrg/en.search.min.8c133c612d186d1650d66496fd9460e7668feb723dbc7796a8e810bf58d16985.js" integrity="sha256-jBM8YS0YbRZQ1mSW/ZRg52aP63I9vHeWqOgQv1jRaYU=" crossorigin="anonymous"></script>
 
   <script defer src="/asrg/sw.min.bc8f0afcfd53af9e88bc7d3e1fdf33fc12a26b7abc7687de0097ba4ec6ee2bc0.js" integrity="sha256-vI8K/P1Tr56IvH0&#43;H98z/BKia3q8dofeAJe6TsbuK8A=" crossorigin="anonymous"></script>
 <!--
@@ -326,7 +326,7 @@ https://github.com/alex-shpak/hugo-book
 <ul class="subtitle">
 	<li>This is a methodically structured poisoning mechanism designed to feed nonsensical data to persistent bots and aggressive “AI” scrapers that circumvent robots.txt directives.</li>
 	<li>
-	Posted: Feb 22, 2025. Modified: May 25, 2025
+	Posted: Feb 22, 2025. Modified: Jul 8, 2025
 	
 </ul>
 <div class="caption"><img src="images/Racknitz_-_The_Turk_3.jpg">Joseph Racknitz, The Mechanical Turk, 1789. <span style="color:grey">Public domain.</span></div>
@@ -684,6 +684,15 @@ Disallow: /
   <a class="anchor" href="#a-long-term-attritional-strategy">#</a>
 </h4>
 <p>This is an attritional approach intended to induce long-term damage: a slow bleed aimed not at immediate collapse, but at sustained degradation over time. In the coming period, we will continue to escalate this tactic—adding new layers of complexity and increasing both its intensity and offensiveness. In the next stage, we will openly share our code, enabling others to deploy, adapt, and expand upon it. <span style="color:grey">* If you&rsquo;re interested in similar tools and frameworks to deploy or explore further, check out our curated list titled <a href="https://algorithmic-sabotage.github.io/asrg/posts/sabot-in-the-age-of-ai/" target="_blank">“Sabot in the Age of AI”</a>—a record of strategically offensive methods and purposefully orchestrated tactics for facilitating (algorithmic) sabotage, framework disruption, and intentional poisoning.</span></p>
+<h4 id="escalation-layer-operational-details">
+  Escalation Layer: Operational Details
+  <a class="anchor" href="#escalation-layer-operational-details">#</a>
+</h4>
+<p>Activity within the <em>‘Trapping AI’</em> project has accelerated markedly: in under a month since deploying the aforementioned implementation—an infinite maze that continuously redirects AI bot scrapers from one useless link to another—our tarpit URLs have attracted over 26 million requests 🕳️. Vast volumes of <em>garbage content</em> have been voraciously consumed by AI crawlers—relentless <em>digital leeches</em> that strip-mine the web’s informational strata, transforming every residual trace into exploitable raw material for algorithmic appropriation, thereby sustaining the unremitting expansion of machinic doctrines of digital dispossession. Building directly on this momentum, we now seek to amplify both the <em>scale</em> and <em>operational ferocity</em> of our approach through the deployment of a new, more radically <em>interventionist layer of complexity</em>.</p>
+<div class="caption"><img src="images/output-087.jpeg">The image above is an example of a garbage JPEG.</div>
+<p>This intensified escalation is concretized in <code>fakejpeg</code>, a creatively crafted tool for targeted operational disruption developed by <a href="https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/" target="_blank">Alun Jones</a>. The repository, along with implementation details, is available at <a href="https://github.com/gw1urf/fakejpeg" target="_blank">https://github.com/gw1urf/fakejpeg</a>. <code>fakejpeg</code> is a Python class designed to dynamically generate <em>fake JPEG images</em>. You can train it on a curated collection of existing JPEGs and, once trained, use it to generate an effectively limitless stream of outputs that structurally resemble standard JPEGs. It is specifically designed for high-speed generation, enabling the delivery of these fake JPEGs to crawlers <em>on the fly</em>.</p>
+<p>We have integrated this functionality into our implementation, and each page generated by our standalone Large Language Model (LLM) crawler-tarpit now embeds a deterministically named <em>garbage JPEG</em> derived from the page’s URL. The <em>fake JPEGs</em> do not contain valid compressed data, as generating a valid compressed stream from generated pixel data would be computationally slow. Instead, wherever compressed pixel data is required, the generated files include sequences of <em>random bytes</em>. Consequently, the output structurally resembles a valid JPEG file, which most JPEG decoders will successfully render as an image.</p>
+<p>The integration of <code>fakejpeg</code> into our implementation constitutes a critical escalation layer that substantively strengthens the operational efficacy of our intervention within the framework of the <em>‘Trapping AI’</em> project. It functions as a mechanism that amplifies both the strategic offensiveness and subversive ardor of our approach by enabling the sustained and coordinated dissemination of systematically crafted junk data into AI systems. By intentionally embedding successive distortions within training datasets, this method triggers a gradual degradation that progressively undermines model integrity, hastening destabilization and precipitating eventual collapse.</p>
 
 
 
