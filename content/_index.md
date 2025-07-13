@@ -42,7 +42,7 @@ images:
 {{< home-item 
     src="police_officers-faces-pof/images/output-137.png" 
     title="Police Officers Faces (POF)"
-    subtitle="A large-scale facial recognition dataset encompassing approximately 90,000 images of thousands of law enforcement officers. This dataset has been meticulously curated to serve as a tool, equipping investigative journalists, human rights researchers, and digital activists with the necessary means to advance justice, foster transparency, and strengthen advocacy efforts. By facilitating critical inquiry and enabling informed action, the dataset aims to contribute to the ongoing efforts to hold systems of power accountable and promote the protection of fundamental rights."
+    subtitle="A large-scale facial recognition dataset encompassing approximately 90,000 images of thousands of law enforcement officers. This dataset has been meticulously curated to serve as a tool, equipping investigative journalists, human rights researchers, and digital activists with the necessary means to advance justice, foster transparency, and strengthen advocacy efforts."
     link="police_officers-faces-pof/"
 >}}
 
